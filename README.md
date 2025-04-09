@@ -2,6 +2,8 @@
 
 **TurboVAD** is a **lightweight, high-speed** Voice Activity Detection (VAD) system that utilizes **self-attention** and **spectral features** for accurate voice detection. Designed for real-time applications, TurboVAD achieves **high efficiency and accuracy**, making it ideal for **low-latency** environments.
 
+> **Note:** This project is currently **under testing**. The initial benchmark results are based on a **small sample size** and may vary as further testing and fine-tuning are performed.
+
 ## 🚀 Features
 * **Self-Attention Mechanism** for efficient feature weighting
 * **Spectral Feature Analysis** including spectral centroid, entropy, flatness, and harmonic noise ratio
@@ -32,6 +34,10 @@ These features are processed using a **self-attention mechanism**, which assigns
 * **Classification:** A lightweight decision function with a sigmoid activation to determine voice presence
 
 ## 📊 Benchmark Results
+
+
+> **Note:** The benchmark results presented here are from initial tests using a small sample size. Further testing and benchmarking are required to refine the performance metrics.
+
 
 ### Performance Metrics
 | Metric | Value |
