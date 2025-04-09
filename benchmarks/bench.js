@@ -224,7 +224,7 @@ async function run_all(inp,out,spcs,num_t,cs) {
                 multi_file_b[bird_name][t]["benchmark"].push(e-s)
                 
                 t++;
-                get_progress(avg/c,c,total,chunk.length,results.length,chunk.length,true)
+                get_progress(avg/c,c,total,chunk.length,results.length,chunk.length,"",true)
                 c+=chunk.length
             }
             catch(e){
