@@ -90,10 +90,10 @@ function parse_perf_output(output) {
 
 let spcs = {
     "input": '/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25/Blue Jay/1.mp3',
-    "window_size_pred": 1024,
-    "window_size_det": 512,
+    "window_size_pred": 4096,
+    "window_size_img": 512,
     "hop_size_pred": 128,
-    "hop_size_det": 128,
+    "hop_size_img": 512,
     "window_type": "hann",
     "window_type": "hann",
     "seg_length": 0.5,
@@ -105,7 +105,7 @@ let spcs = {
     "output_mel": "./out/mel/",
     "cache_dir": "./cache/FFT",
     "color": {
-        "stft":color_sch[],"mel":89
+        "stft":color_sch.builtin.Spectral.soft,"mel":color_sch.builtin.Blues.soft
     },
     "th": 0.001
 }
@@ -127,7 +127,7 @@ function get_rand(array, n) {
 
 
 async function conv(spcs,length) {
-    let command = `perf stat ./builtin "${spcs.input}" ${spcs.window_size_pred} ${spcs.window_size_det} ${spcs.hop_size_pred} ${spcs.hop_size_det} ${spcs.window_size_pred} ${spcs.window_size_det} ${spcs.seg_length} ${spcs.num_mel} ${spcs.min_mel_freq} ${spcs.max_mel_freq} ${spcs.output_wav} ${spcs.output_stft} ${spcs.output_mel} ${spcs.cache_dir} ${spcs.color.stft} ${spcs.color.mel} ${spcs.th}`;
+    let command = `perf stat ./builtin "${spcs.input}" ${spcs.window_size_pred} ${spcs.window_size_img} ${spcs.hop_size_pred} ${spcs.hop_size_img} ${spcs.window_size_pred} ${spcs.window_size_img} ${spcs.seg_length} ${spcs.num_mel} ${spcs.min_mel_freq} ${spcs.max_mel_freq} ${spcs.output_wav} ${spcs.output_stft} ${spcs.output_mel} ${spcs.cache_dir} ${spcs.color.stft} ${spcs.color.mel} ${spcs.th}`;
 
     let { stderr, stdout } = await exec(command);
 

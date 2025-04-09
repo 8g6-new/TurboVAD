@@ -1,25 +1,23 @@
 #include "../../headers/png_tools/png_tools.h"
 
-
 inline unsigned char branchless_comp(unsigned char original, unsigned char new_val, unsigned char is_black) {
     return (is_black * new_val) + (!is_black * original);
 }
 
 void add_bg(unsigned char *image, size_t width, size_t height, const unsigned char color[4]) {
     size_t num_pixels = width * height;
-    
+
     #pragma omp parallel for simd aligned(image:32) safelen(16)
     for (size_t i = 0; i < num_pixels; i++) {
         unsigned char *pixel = &image[i * 4];
 
         unsigned char is_black = (pixel[0] == 0 && pixel[1] == 0 && pixel[2] == 0);
-        
+
         pixel[0] = branchless_comp(pixel[0], color[0], is_black);
         pixel[1] = branchless_comp(pixel[1], color[1], is_black);
         pixel[2] = branchless_comp(pixel[2], color[2], is_black);
         pixel[3] = color[3]; 
     }
-
 }
 
 void save_png(const char *filename, const unsigned char *image, size_t width, size_t height) {
