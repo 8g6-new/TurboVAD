@@ -39,18 +39,7 @@ graph TD;
     D -->|No Call| F[Silence];
 ```
 
-## 🛠️ Installation & Usage
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/TurboVAD.git
-cd TurboVAD
 
-# Compile the C implementation
-gcc -O2 -o turbo_vad src/turbo_vad.c -lm
-
-# Run inference on sample input
-./turbo_vad sample_audio.wav
-```
 
 ## 🎯 Performance Metrics
 | Metric              | Value  |
@@ -75,10 +64,10 @@ TurboVAD accepts the following parameters:
 - **wav_fol:** Path to the waveform folder.
 - **stft_fol:** Path to the STFT cache folder.
 - **mel_fol:** Path to the Mel spectrogram cache folder.
-- **cache_fol:** Path to the cache folder.
-- **cs_stft:** Cache size for STFT computations (color scheme for visualization).
-- **cs_mel:** Cache size for Mel computations (color scheme for visualization).
-- **th:** Audio filtration threshold. If set to `0`, the STFT is filtered dynamically to remove noise.
+- **cache_fol:** Path to the FFT cache folder .
+- **cs_stft:** color scheme ID for visualization output STFT.
+- **cs_mel:**color scheme ID for visualization output MEl Spectrogram.
+- **th:** Audio filtration threshold. If set to `0`, the STFT is filtered dynamically to remove noise. It is recommended that the default value for noisy data be 0.01.
 
 ## 🛠️ Future Improvements
 - Further fine-tuning for different bird species.
@@ -92,6 +81,4 @@ Contributions are welcome! Feel free to open issues, submit PRs, or discuss impr
 ## 💜 License
 **TurboVAD** is open-source under the **MIT License**.
 
----
 
-🎧 **TurboVAD** – Powering **real-time, ultra-fast bird activity detection** with self-attention! 🚀
