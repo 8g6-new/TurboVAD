@@ -136,7 +136,7 @@ int main(int argc, char *argv[]) {
         END_TIMING("fetch fft cache 1");
 
         START_TIMING();
-        stft_d result = stft(&audio, window_size_det, hop_size_det, window_values, &fft_plan_1);
+        stft_d stft_for_pred = stft(&audio, window_size_det, hop_size_det, window_values, &fft_plan_1);
         END_TIMING("compute STFT");
         
         START_TIMING();
@@ -147,7 +147,7 @@ int main(int argc, char *argv[]) {
         END_TIMING("fetch fft cache 2");
           
               
-        if (result.phasers == NULL || result.magnitudes == NULL) {
+        if (stft_for_pred.phasers == NULL || stft_for_pred.magnitudes == NULL) {
             fprintf(stderr, "STFT computation failed.\n");
             return 1;
         }
@@ -155,19 +155,19 @@ int main(int argc, char *argv[]) {
         char fn_out[50];
         snprintf(fn_out,50, "./csv/%s_log.csv", fn);
 
-        param.seg_length_index  = (size_t)((result.sample_rate * seg_len)/hop_size_det);
-        param.output_size       = (size_t)(result.output_size / param.seg_length_index) + 1;
+        param.seg_length_index  = (size_t)((stft_for_pred.sample_rate * seg_len)/hop_size_det);
+        param.output_size       = (size_t)(stft_for_pred.output_size / param.seg_length_index) + 1;
         param.seg_length        = seg_len;
-        param.min_freq          = hz_to_index(result.num_frequencies, result.sample_rate,mel_min);
-        param.max_freq          = hz_to_index(result.num_frequencies, result.sample_rate,mel_max);
-        param.abs_max           = result.num_frequencies;
+        param.min_freq          = hz_to_index(stft_for_pred.num_frequencies, stft_for_pred.sample_rate,mel_min);
+        param.max_freq          = hz_to_index(stft_for_pred.num_frequencies, stft_for_pred.sample_rate,mel_max);
+        param.abs_max           = stft_for_pred.num_frequencies;
         param.log_txt           = strdup(fn_out);
 
 
         unsigned char bg_clr[4] = {0, 0, 0, 255};
 
 
-        res *detections = stft_pred(&result,&param,th);
+        res *detections = stft_pred(&stft_for_pred,&param,th);
          
 
 
@@ -180,11 +180,11 @@ int main(int argc, char *argv[]) {
 
         // START_TIMING();
         // snprintf(fn_out,50, "%s_stft.png", fn);
-        // spectrogram(&result,fn_out, mel_min, mel_max, bg_clr, false, cs_stft);
-        // END_TIMING("stft_ni_log");
+        // spectrogram(&stft_for_pred,fn_out, mel_min, mel_max, bg_clr, false, cs_stft);
+        // END_TIMING("stft_no_log");
         // START_TIMING();
         // snprintf(fn_out,50, "%s_log.png", fn);
-        // spectrogram(&result,fn_out, mel_min, mel_max, bg_clr, true, cs_stft);
+        // spectrogram(&stft_for_pred,fn_out, mel_min, mel_max, bg_clr, true, cs_stft);
         // END_TIMING("stft_log");
     
 
@@ -198,16 +198,16 @@ int main(int argc, char *argv[]) {
                 if (detections[t].preds.pred) {
                     //printf("%zu [%0.3f,%0.3f] => %f\n", t, seg_len * t, seg_len * (t + 1), detections[t].preds.val);
                     detected[c].t = t;
-                    snprintf(detected[c].wav_name, MAX_FN, "%s/bird/%s_%s.wav", wav_fol, fn,detections[t].vals_str);
-                    snprintf(detected[c].stft_name, MAX_FN, "%s/bird/%s_%s.png", stft_fol, fn,detections[t].vals_str);
-                    snprintf(detected[c].mel_name, MAX_FN, "%s/bird/%s_%s.png", mel_fol, fn,detections[t].vals_str);
+                    snprintf(detected[c].wav_name, MAX_FILENAME_LENGTH, "%s/bird/%s_%s.wav", wav_fol, fn,detections[t].vals_str);
+                    snprintf(detected[c].stft_name, MAX_FILENAME_LENGTH, "%s/bird/%s_%s.png", stft_fol, fn,detections[t].vals_str);
+                    snprintf(detected[c].mel_name, MAX_FILENAME_LENGTH, "%s/bird/%s_%s.png", mel_fol, fn,detections[t].vals_str);
                     c++;
                 }
                 else{
                     detected[c].t = t;
-                    snprintf(detected[c].wav_name, MAX_FN, "%s/nobird/%s_%s.wav", wav_fol, fn,detections[t].vals_str);
-                    snprintf(detected[c].stft_name, MAX_FN, "%s/nobird/%s_%s.png", stft_fol, fn,detections[t].vals_str);
-                    snprintf(detected[c].mel_name, MAX_FN, "%s/nobird/%s_%s.png", mel_fol, fn,detections[t].vals_str);
+                    snprintf(detected[c].wav_name, MAX_FILENAME_LENGTH, "%s/nobird/%s_%s.wav", wav_fol, fn,detections[t].vals_str);
+                    snprintf(detected[c].stft_name, MAX_FILENAME_LENGTH, "%s/nobird/%s_%s.png", stft_fol, fn,detections[t].vals_str);
+                    snprintf(detected[c].mel_name, MAX_FILENAME_LENGTH, "%s/nobird/%s_%s.png", mel_fol, fn,detections[t].vals_str);
                     c++;
                 } 
             }
@@ -215,7 +215,7 @@ int main(int argc, char *argv[]) {
             
         }
 
-        free_stft_results(detections, param.output_size);
+        free_res(detections, param.output_size);
 
         fft_d fft_plan = window_size_det != window_size_img ? fft_plan_2 : fft_plan_1;
         
@@ -225,7 +225,7 @@ int main(int argc, char *argv[]) {
             gettimeofday(&start, NULL);
             audio_data out    = sliced_write_wave(&audio, detected[i].wav_name, detected[i].t, seg_len);
             stft_d slice      = stft(&out, window_size_img, hop_size_img, window_values_2,&fft_plan);
-            slice.sample_rate = result.sample_rate;
+            slice.sample_rate = stft_for_pred.sample_rate;
             spectrogram(&slice, detected[i].stft_name, mel_min, mel_max, bg_clr,true, cs_stft);
             //float *mel_vals   = mel_spectrogram(&slice, detected[i].mel_name, num_mel, mel_filter_bank, bg_clr, true, cs_mel);
             show_progress(i, c, start);
@@ -240,7 +240,7 @@ int main(int argc, char *argv[]) {
         print_bench();
 
         free_audio(&audio);
-        free_stft(&result);
+        free_stft(&stft_for_pred);
         free(window_values);
         free(window_values_2);
         free(mel_filter_bank);

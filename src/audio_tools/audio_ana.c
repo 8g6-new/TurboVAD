@@ -30,7 +30,7 @@ bool is_freq_feats_stats_zero(freq_feats_stats *feats) {
 }
 
 
-void free_stft_results(res *preds, size_t size) {
+void free_res(res *preds, size_t size) {
     if (!preds) return;
     
     for (size_t t = 0; t < size; t++) {

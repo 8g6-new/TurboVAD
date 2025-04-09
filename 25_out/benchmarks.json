@@ -1,0 +1,3866 @@
+{
+  "Common Nightingale": [
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/294.mp3",
+          "format": "audio/mpeg",
+          "duration": 50.928,
+          "channels": 2,
+          "num_samples": 4889088,
+          "sample_rate": 48000,
+          "file_size_bytes": 616184
+        },
+        "function_timings": {
+          "1": 27.223300970873787,
+          "2": 32.36893203883495,
+          "segments": 206,
+          "auto_det": 3372.766990291262,
+          "file_read": 431.86407766990294,
+          "dec_mp3": 772.8932038834952,
+          "init_window_function": 0.24271844660194175,
+          "STFT": 223.35922330097088,
+          "norm_all": 73.87378640776699,
+          "feat_extraction": 329.4466019417476,
+          "pred": 0.06796116504854369,
+          "initialize_mel_filter": 4.038834951456311,
+          "stft_no_log": 4975.563106796117,
+          "IO_Loop": 5229.592233009709
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.606468812,
+        "user_time": 7.373965,
+        "sys_time": 0.371278,
+        "cpu_utilized": 4.889,
+        "task_clock": 853.98,
+        "page_faults": 26687,
+        "instructions": 11841016502,
+        "cycles": 28717502606,
+        "stalled_cycles_frontend": 879550590,
+        "branches": 2653112629,
+        "branch_misses": 43577438,
+        "system_time": 7.373965,
+        "ipc": 0.4123275155384172,
+        "branch_miss_%": 1.642502377157845,
+        "parallel_speedup": 4.590170033129781,
+        "file_read_speed_MB/s": 1496.1090477126027,
+        "mp3_decode_speed_s/s": 65892.67410310521
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/284.mp3",
+          "format": "audio/mpeg",
+          "duration": 12.816,
+          "channels": 1,
+          "num_samples": 615168,
+          "sample_rate": 48000,
+          "file_size_bytes": 149580
+        },
+        "function_timings": {
+          "1": 106.3076923076923,
+          "2": 66.38461538461539,
+          "segments": 52,
+          "auto_det": 1422.6153846153845,
+          "file_read": 385.1923076923077,
+          "dec_mp3": 339.96153846153845,
+          "init_window_function": 0.7692307692307693,
+          "STFT": 522.5769230769231,
+          "norm_all": 30.692307692307693,
+          "feat_extraction": 441.1923076923077,
+          "pred": 0.07692307692307693,
+          "initialize_mel_filter": 14.615384615384615,
+          "stft_no_log": 6844.5,
+          "IO_Loop": 4989.307692307692
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.399133923,
+        "user_time": 1.866461,
+        "sys_time": 0.127678,
+        "cpu_utilized": 5.086,
+        "task_clock": 29.88,
+        "page_faults": 7747,
+        "instructions": 3130356465,
+        "cycles": 7267052847,
+        "stalled_cycles_frontend": 281672526,
+        "branches": 706620247,
+        "branch_misses": 14383228,
+        "system_time": 1.866461,
+        "ipc": 0.43076010741992615,
+        "branch_miss_%": 2.035496160924469,
+        "parallel_speedup": 4.676277541059821,
+        "file_read_speed_MB/s": 407.1888117903145,
+        "mp3_decode_speed_s/s": 37698.38216992873
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/87.mp3",
+          "format": "audio/mpeg",
+          "duration": 61.2,
+          "channels": 1,
+          "num_samples": 2937600,
+          "sample_rate": 48000,
+          "file_size_bytes": 2453224
+        },
+        "function_timings": {
+          "1": 17.235772357723576,
+          "2": 16.341463414634145,
+          "segments": 246,
+          "auto_det": 266.4634146341463,
+          "file_read": 531.1463414634146,
+          "dec_mp3": 679.1626016260162,
+          "init_window_function": 0.15447154471544716,
+          "STFT": 280.4634146341463,
+          "norm_all": 87.76422764227642,
+          "feat_extraction": 358.5772357723577,
+          "pred": 0.07317073170731707,
+          "initialize_mel_filter": 3.1951219512195124,
+          "stft_no_log": 5834.6016260162605,
+          "IO_Loop": 4474.983739837398
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.553478573,
+        "user_time": 8.16433,
+        "sys_time": 0.374273,
+        "cpu_utilized": 5.578,
+        "task_clock": 664.88,
+        "page_faults": 27771,
+        "instructions": 13948431133,
+        "cycles": 31735955526,
+        "stalled_cycles_frontend": 1241785157,
+        "branches": 3102861173,
+        "branch_misses": 61248374,
+        "system_time": 8.16433,
+        "ipc": 0.4395150831860918,
+        "branch_miss_%": 1.9739321415009372,
+        "parallel_speedup": 5.255515036962148,
+        "file_read_speed_MB/s": 4843.09428158075,
+        "mp3_decode_speed_s/s": 90110.9687922717
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/156.mp3",
+          "format": "audio/mpeg",
+          "duration": 34.656,
+          "channels": 2,
+          "num_samples": 3326976,
+          "sample_rate": 48000,
+          "file_size_bytes": 1391918
+        },
+        "function_timings": {
+          "1": 31.714285714285715,
+          "2": 52.51428571428571,
+          "segments": 140,
+          "auto_det": 554.7714285714286,
+          "file_read": 272.0857142857143,
+          "dec_mp3": 758.3142857142857,
+          "init_window_function": 0.22857142857142856,
+          "STFT": 230.68571428571428,
+          "norm_all": 164.68571428571428,
+          "feat_extraction": 348.4,
+          "pred": 0.07142857142857142,
+          "initialize_mel_filter": 5.0285714285714285,
+          "stft_no_log": 7286.0142857142855,
+          "IO_Loop": 5637.385714285714
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.081572772,
+        "user_time": 5.492951,
+        "sys_time": 0.275343,
+        "cpu_utilized": 5.431,
+        "task_clock": 874.02,
+        "page_faults": 18545,
+        "instructions": 8716148504,
+        "cycles": 21483305114,
+        "stalled_cycles_frontend": 770709614,
+        "branches": 1962683951,
+        "branch_misses": 40080871,
+        "system_time": 5.492951,
+        "ipc": 0.40571729804833234,
+        "branch_miss_%": 2.042145959341979,
+        "parallel_speedup": 5.078669824354639,
+        "file_read_speed_MB/s": 5364.235357227764,
+        "mp3_decode_speed_s/s": 45701.367695263936
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/136.mp3",
+          "format": "audio/mpeg",
+          "duration": 52.152,
+          "channels": 2,
+          "num_samples": 5006592,
+          "sample_rate": 48000,
+          "file_size_bytes": 2091690
+        },
+        "function_timings": {
+          "1": 21.523809523809526,
+          "2": 20.095238095238095,
+          "segments": 210,
+          "auto_det": 275.6,
+          "file_read": 581.5809523809523,
+          "dec_mp3": 717.6190476190476,
+          "init_window_function": 0.17142857142857143,
+          "STFT": 192.8,
+          "norm_all": 76.37142857142857,
+          "feat_extraction": 390.46666666666664,
+          "pred": 0.12380952380952381,
+          "initialize_mel_filter": 3.342857142857143,
+          "stft_no_log": 4012.152380952381,
+          "IO_Loop": 4987.438095238095
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.193115095,
+        "user_time": 7.352652,
+        "sys_time": 0.363723,
+        "cpu_utilized": 6.565,
+        "task_clock": 833.19,
+        "page_faults": 26580,
+        "instructions": 11695409936,
+        "cycles": 28696745336,
+        "stalled_cycles_frontend": 772675621,
+        "branches": 2606808852,
+        "branch_misses": 36307738,
+        "system_time": 7.352652,
+        "ipc": 0.4075517902487755,
+        "branch_miss_%": 1.3928040014189733,
+        "parallel_speedup": 6.162567241679228,
+        "file_read_speed_MB/s": 3771.2650740379263,
+        "mp3_decode_speed_s/s": 72673.65627073657
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/264.mp3",
+          "format": "audio/mpeg",
+          "duration": 82.656,
+          "channels": 2,
+          "num_samples": 7934976,
+          "sample_rate": 48000,
+          "file_size_bytes": 3312082
+        },
+        "function_timings": {
+          "1": 16.240963855421686,
+          "2": 11.74698795180723,
+          "segments": 332,
+          "auto_det": 167.98192771084337,
+          "file_read": 172.1024096385542,
+          "dec_mp3": 608.9939759036145,
+          "init_window_function": 0.1144578313253012,
+          "STFT": 158.65662650602408,
+          "norm_all": 83.29518072289157,
+          "feat_extraction": 317.3734939759036,
+          "pred": 0.06626506024096386,
+          "initialize_mel_filter": 2.1927710843373496,
+          "stft_no_log": 4569.361445783133,
+          "IO_Loop": 5422.987951807229
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.927588699,
+        "user_time": 12.091471,
+        "sys_time": 0.578049,
+        "cpu_utilized": 6.672,
+        "task_clock": 861.52,
+        "page_faults": 41257,
+        "instructions": 18979395279,
+        "cycles": 47073286885,
+        "stalled_cycles_frontend": 1376664724,
+        "branches": 4232887734,
+        "branch_misses": 66400848,
+        "system_time": 12.091471,
+        "ipc": 0.4031882312651472,
+        "branch_miss_%": 1.568689088223288,
+        "parallel_speedup": 6.272848043917693,
+        "file_read_speed_MB/s": 20179.66920118002,
+        "mp3_decode_speed_s/s": 135725.48049815517
+      }
+    }
+  ],
+  "Common Redstart": [
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/54.mp3",
+          "format": "audio/mpeg",
+          "duration": 30.744,
+          "channels": 2,
+          "num_samples": 2951424,
+          "sample_rate": 48000,
+          "file_size_bytes": 1235382
+        },
+        "function_timings": {
+          "1": 49.70967741935484,
+          "2": 88.83870967741936,
+          "segments": 124,
+          "auto_det": 2879.9193548387098,
+          "file_read": 9244,
+          "dec_mp3": 699.1451612903226,
+          "init_window_function": 0.3709677419354839,
+          "STFT": 250.59677419354838,
+          "norm_all": 67.33870967741936,
+          "feat_extraction": 308.85483870967744,
+          "pred": 0.08064516129032258,
+          "initialize_mel_filter": 5.903225806451613,
+          "stft_no_log": 3152.1451612903224,
+          "IO_Loop": 5132.048387096775
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.361304367,
+        "user_time": 4.464855,
+        "sys_time": 0.221934,
+        "cpu_utilized": 3.495,
+        "task_clock": 758.32,
+        "page_faults": 17020,
+        "instructions": 6642611859,
+        "cycles": 17546427522,
+        "stalled_cycles_frontend": 351198908,
+        "branches": 1483353169,
+        "branch_misses": 16336025,
+        "system_time": 4.464855,
+        "ipc": 0.3785734646366837,
+        "branch_miss_%": 1.101290329329522,
+        "parallel_speedup": 3.2798359486934636,
+        "file_read_speed_MB/s": 140.1332665547382,
+        "mp3_decode_speed_s/s": 43973.700602117795
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/299.mp3",
+          "format": "audio/mpeg",
+          "duration": 44.408,
+          "channels": 2,
+          "num_samples": 3916800,
+          "sample_rate": 44100,
+          "file_size_bytes": 1426678
+        },
+        "function_timings": {
+          "1": 25.39325842696629,
+          "2": 19.865168539325843,
+          "segments": 178,
+          "auto_det": 1139.1573033707866,
+          "file_read": 254.23595505617976,
+          "dec_mp3": 606.314606741573,
+          "init_window_function": 0.2247191011235955,
+          "STFT": 167.41573033707866,
+          "norm_all": 84.87640449438203,
+          "feat_extraction": 278.13483146067415,
+          "pred": 0.06741573033707865,
+          "initialize_mel_filter": 4,
+          "stft_no_log": 2917.6067415730336,
+          "IO_Loop": 4263.573033707865
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.877048403,
+        "user_time": 5.400401,
+        "sys_time": 0.304334,
+        "cpu_utilized": 6.606,
+        "task_clock": 793.6,
+        "page_faults": 22101,
+        "instructions": 9074975390,
+        "cycles": 21218863117,
+        "stalled_cycles_frontend": 462923714,
+        "branches": 1997214852,
+        "branch_misses": 20268099,
+        "system_time": 5.400401,
+        "ipc": 0.42768433633606723,
+        "branch_miss_%": 1.0148181593834853,
+        "parallel_speedup": 6.157472018109358,
+        "file_read_speed_MB/s": 5884.220074998541,
+        "mp3_decode_speed_s/s": 73242.50398428524
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/34.mp3",
+          "format": "audio/mpeg",
+          "duration": 41.639,
+          "channels": 2,
+          "num_samples": 3672576,
+          "sample_rate": 44100,
+          "file_size_bytes": 952945
+        },
+        "function_timings": {
+          "1": 30.023809523809526,
+          "2": 20.738095238095237,
+          "segments": 168,
+          "auto_det": 362.5952380952381,
+          "file_read": 379.4642857142857,
+          "dec_mp3": 741.8452380952381,
+          "init_window_function": 0.19047619047619047,
+          "STFT": 203.29761904761904,
+          "norm_all": 63.44047619047619,
+          "feat_extraction": 327.73809523809524,
+          "pred": 0.07142857142857142,
+          "initialize_mel_filter": 4.464285714285714,
+          "stft_no_log": 3558.464285714286,
+          "IO_Loop": 5548.773809523809
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.952982958,
+        "user_time": 6.360873,
+        "sys_time": 0.273251,
+        "cpu_utilized": 7.066,
+        "task_clock": 733.76,
+        "page_faults": 21066,
+        "instructions": 9197319365,
+        "cycles": 24909075937,
+        "stalled_cycles_frontend": 524344050,
+        "branches": 2067244237,
+        "branch_misses": 23172356,
+        "system_time": 6.360873,
+        "ipc": 0.36923567089609616,
+        "branch_miss_%": 1.1209297665585898,
+        "parallel_speedup": 6.674697534307849,
+        "file_read_speed_MB/s": 2633.2787931256466,
+        "mp3_decode_speed_s/s": 56128.95771483592
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/218.mp3",
+          "format": "audio/mpeg",
+          "duration": 107.304,
+          "channels": 2,
+          "num_samples": 10301184,
+          "sample_rate": 48000,
+          "file_size_bytes": 3443912
+        },
+        "function_timings": {
+          "1": 8.564814814814815,
+          "2": 8.287037037037036,
+          "segments": 432,
+          "auto_det": 173.00925925925927,
+          "file_read": 169.625,
+          "dec_mp3": 572.9074074074074,
+          "init_window_function": 0.07407407407407407,
+          "STFT": 149.30555555555554,
+          "norm_all": 100.19444444444444,
+          "feat_extraction": 323.86574074074076,
+          "pred": 0.06018518518518518,
+          "initialize_mel_filter": 1.7268518518518519,
+          "stft_no_log": 3419.9444444444443,
+          "IO_Loop": 6047.583333333333
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 2.38733062,
+        "user_time": 16.678869,
+        "sys_time": 0.733265,
+        "cpu_utilized": 7.398,
+        "task_clock": 662.35,
+        "page_faults": 51935,
+        "instructions": 23958941241,
+        "cycles": 65111089265,
+        "stalled_cycles_frontend": 1336206214,
+        "branches": 5366758591,
+        "branch_misses": 58861634,
+        "system_time": 16.678869,
+        "ipc": 0.36797021078065356,
+        "branch_miss_%": 1.096781847029795,
+        "parallel_speedup": 6.986409364614943,
+        "file_read_speed_MB/s": 21289.33511753574,
+        "mp3_decode_speed_s/s": 187297.28157222742
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/211.mp3",
+          "format": "audio/mpeg",
+          "duration": 51.312,
+          "channels": 2,
+          "num_samples": 4925952,
+          "sample_rate": 48000,
+          "file_size_bytes": 2058206
+        },
+        "function_timings": {
+          "1": 24.58252427184466,
+          "2": 36.699029126213595,
+          "segments": 206,
+          "auto_det": 286.97087378640776,
+          "file_read": 183.98058252427185,
+          "dec_mp3": 697.6990291262136,
+          "init_window_function": 0.23300970873786409,
+          "STFT": 219.63106796116506,
+          "norm_all": 74.95145631067962,
+          "feat_extraction": 300.75728155339806,
+          "pred": 0.07766990291262135,
+          "initialize_mel_filter": 3.563106796116505,
+          "stft_no_log": 3147.378640776699,
+          "IO_Loop": 4834.242718446602
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.019195745,
+        "user_time": 7.024938,
+        "sys_time": 0.350622,
+        "cpu_utilized": 7.338,
+        "task_clock": 478.94,
+        "page_faults": 26312,
+        "instructions": 11017391062,
+        "cycles": 27166350990,
+        "stalled_cycles_frontend": 615398788,
+        "branches": 2432508522,
+        "branch_misses": 27304255,
+        "system_time": 7.024938,
+        "ipc": 0.40555284977564815,
+        "branch_miss_%": 1.1224731487292194,
+        "parallel_speedup": 6.8926288541363565,
+        "file_read_speed_MB/s": 11730.506475438942,
+        "mp3_decode_speed_s/s": 73544.60570808343
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/245.mp3",
+          "format": "audio/mpeg",
+          "duration": 21.394,
+          "channels": 2,
+          "num_samples": 1886976,
+          "sample_rate": 44100,
+          "file_size_bytes": 682494
+        },
+        "function_timings": {
+          "1": 47.627906976744185,
+          "2": 42.41860465116279,
+          "segments": 86,
+          "auto_det": 602.4186046511628,
+          "file_read": 328.51162790697674,
+          "dec_mp3": 1084.139534883721,
+          "init_window_function": 0.37209302325581395,
+          "STFT": 638.3720930232558,
+          "norm_all": 450.90697674418607,
+          "feat_extraction": 367.6279069767442,
+          "pred": 0.06976744186046512,
+          "initialize_mel_filter": 8.232558139534884,
+          "stft_no_log": 5416.813953488372,
+          "IO_Loop": 6377.674418604651
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.667405242,
+        "user_time": 4.003997,
+        "sys_time": 0.184238,
+        "cpu_utilized": 6.372,
+        "task_clock": 252.47,
+        "page_faults": 12014,
+        "instructions": 5314851052,
+        "cycles": 15606571837,
+        "stalled_cycles_frontend": 377532138,
+        "branches": 1209969676,
+        "branch_misses": 18653609,
+        "system_time": 4.003997,
+        "ipc": 0.34055211532103236,
+        "branch_miss_%": 1.5416592142760444,
+        "parallel_speedup": 5.9993490431709855,
+        "file_read_speed_MB/s": 2178.4520478119775,
+        "mp3_decode_speed_s/s": 19733.622206014843
+      }
+    }
+  ],
+  "Common Whitethroat": [
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/254.mp3",
+          "format": "audio/mpeg",
+          "duration": 42.397,
+          "channels": 2,
+          "num_samples": 3739392,
+          "sample_rate": 44100,
+          "file_size_bytes": 1023698
+        },
+        "function_timings": {
+          "1": 24.941176470588236,
+          "2": 26.28235294117647,
+          "segments": 170,
+          "auto_det": 302.7647058823529,
+          "file_read": 623.4235294117647,
+          "dec_mp3": 468.81176470588235,
+          "init_window_function": 0.2235294117647059,
+          "STFT": 255,
+          "norm_all": 194.98823529411766,
+          "feat_extraction": 358.7176470588235,
+          "pred": 0.08235294117647059,
+          "initialize_mel_filter": 6.552941176470588,
+          "stft_no_log": 3647.247058823529,
+          "IO_Loop": 4505.15294117647
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.895426392,
+        "user_time": 5.734694,
+        "sys_time": 0.280192,
+        "cpu_utilized": 6.818,
+        "task_clock": 104.88,
+        "page_faults": 20875,
+        "instructions": 8956222069,
+        "cycles": 22300322949,
+        "stalled_cycles_frontend": 501787073,
+        "branches": 1997469276,
+        "branch_misses": 22630037,
+        "system_time": 5.734694,
+        "ipc": 0.40161849178070397,
+        "branch_miss_%": 1.1329354234332665,
+        "parallel_speedup": 6.4044281598525865,
+        "file_read_speed_MB/s": 1721.8232925228813,
+        "mp3_decode_speed_s/s": 90435.01718989185
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/322.mp3",
+          "format": "audio/mpeg",
+          "duration": 48.039,
+          "channels": 2,
+          "num_samples": 4237056,
+          "sample_rate": 44100,
+          "file_size_bytes": 1158198
+        },
+        "function_timings": {
+          "1": 26.350515463917525,
+          "2": 20.47422680412371,
+          "segments": 194,
+          "auto_det": 338.74226804123714,
+          "file_read": 245.37113402061857,
+          "dec_mp3": 524.3917525773196,
+          "init_window_function": 0.23711340206185566,
+          "STFT": 157.04123711340208,
+          "norm_all": 86.44329896907216,
+          "feat_extraction": 292.2371134020619,
+          "pred": 0.061855670103092786,
+          "initialize_mel_filter": 3.6804123711340204,
+          "stft_no_log": 3740.5257731958764,
+          "IO_Loop": 4474.567010309278
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.971043922,
+        "user_time": 6.182277,
+        "sys_time": 0.311098,
+        "cpu_utilized": 6.796,
+        "task_clock": 599.32,
+        "page_faults": 24053,
+        "instructions": 10123321933,
+        "cycles": 24130986727,
+        "stalled_cycles_frontend": 597603777,
+        "branches": 2245416227,
+        "branch_misses": 27670000,
+        "system_time": 6.182277,
+        "ipc": 0.41951545734651136,
+        "branch_miss_%": 1.2322882353517435,
+        "parallel_speedup": 6.366629623989346,
+        "file_read_speed_MB/s": 4949.47635505466,
+        "mp3_decode_speed_s/s": 91608.99225415799
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/489.mp3",
+          "format": "audio/mpeg",
+          "duration": 39.471,
+          "channels": 2,
+          "num_samples": 3481344,
+          "sample_rate": 44100,
+          "file_size_bytes": 954842
+        },
+        "function_timings": {
+          "1": 29.15,
+          "2": 23.125,
+          "segments": 160,
+          "auto_det": 573.5375,
+          "file_read": 114.6375,
+          "dec_mp3": 840.6,
+          "init_window_function": 0.2,
+          "STFT": 284.4875,
+          "norm_all": 66.875,
+          "feat_extraction": 344.1125,
+          "pred": 0.125,
+          "initialize_mel_filter": 7.6,
+          "stft_no_log": 3387.725,
+          "IO_Loop": 4168.8875
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.796099275,
+        "user_time": 4.986101,
+        "sys_time": 0.253662,
+        "cpu_utilized": 6.687,
+        "task_clock": 323.48,
+        "page_faults": 20124,
+        "instructions": 8182124712,
+        "cycles": 19390452550,
+        "stalled_cycles_frontend": 446889040,
+        "branches": 1806549733,
+        "branch_misses": 20286353,
+        "system_time": 4.986101,
+        "ipc": 0.42196667101511254,
+        "branch_miss_%": 1.1229335472714606,
+        "parallel_speedup": 6.263164854659615,
+        "file_read_speed_MB/s": 8733.829724060626,
+        "mp3_decode_speed_s/s": 46955.74589578872
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/378.mp3",
+          "format": "audio/mpeg",
+          "duration": 187.8,
+          "channels": 1,
+          "num_samples": 9014400,
+          "sample_rate": 48000,
+          "file_size_bytes": 6015133
+        },
+        "function_timings": {
+          "1": 4.381962864721485,
+          "2": 5.16710875331565,
+          "segments": 754,
+          "auto_det": 127.72148541114058,
+          "file_read": 210.17771883289126,
+          "dec_mp3": 478.59151193633954,
+          "init_window_function": 0.03978779840848806,
+          "STFT": 144.6525198938992,
+          "norm_all": 86.38726790450929,
+          "feat_extraction": 339.55437665782495,
+          "pred": 0.0610079575596817,
+          "initialize_mel_filter": 1.1114058355437666,
+          "stft_no_log": 4585.636604774536,
+          "IO_Loop": 3496.557029177719
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 3.596501189,
+        "user_time": 20.134811,
+        "sys_time": 1.02274,
+        "cpu_utilized": 5.975,
+        "task_clock": 490.35,
+        "page_faults": 80793,
+        "instructions": 38870879471,
+        "cycles": 77454871151,
+        "stalled_cycles_frontend": 2954671810,
+        "branches": 8510142545,
+        "branch_misses": 137521756,
+        "system_time": 20.134811,
+        "ipc": 0.5018519673891182,
+        "branch_miss_%": 1.615974765085442,
+        "parallel_speedup": 5.598444138315005,
+        "file_read_speed_MB/s": 30009.480241922534,
+        "mp3_decode_speed_s/s": 392401.4432269757
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/425.mp3",
+          "format": "audio/mpeg",
+          "duration": 19.872,
+          "channels": 1,
+          "num_samples": 953856,
+          "sample_rate": 48000,
+          "file_size_bytes": 800857
+        },
+        "function_timings": {
+          "1": 59.6,
+          "2": 52.05,
+          "segments": 80,
+          "auto_det": 1093.15,
+          "file_read": 718.775,
+          "dec_mp3": 479.825,
+          "init_window_function": 0.45,
+          "STFT": 601.9,
+          "norm_all": 69.225,
+          "feat_extraction": 358.125,
+          "pred": 0.075,
+          "initialize_mel_filter": 9.025,
+          "stft_no_log": 4958.85,
+          "IO_Loop": 3420.175
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.479488514,
+        "user_time": 2.44259,
+        "sys_time": 0.148487,
+        "cpu_utilized": 5.481,
+        "task_clock": 627.9,
+        "page_faults": 10812,
+        "instructions": 4354017356,
+        "cycles": 9390108774,
+        "stalled_cycles_frontend": 350045516,
+        "branches": 961129292,
+        "branch_misses": 16545334,
+        "system_time": 2.44259,
+        "ipc": 0.4636812480868925,
+        "branch_miss_%": 1.7214472743381959,
+        "parallel_speedup": 5.094157479651328,
+        "file_read_speed_MB/s": 1168.32030834684,
+        "mp3_decode_speed_s/s": 41415.0992549367
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/462.mp3",
+          "format": "audio/mpeg",
+          "duration": 6.72,
+          "channels": 2,
+          "num_samples": 645120,
+          "sample_rate": 48000,
+          "file_size_bytes": 274438
+        },
+        "function_timings": {
+          "1": 148.42857142857142,
+          "2": 275.2857142857143,
+          "segments": 28,
+          "auto_det": 1554.9285714285713,
+          "file_read": 142.57142857142858,
+          "dec_mp3": 563.5,
+          "init_window_function": 1.2142857142857142,
+          "STFT": 758.4285714285714,
+          "norm_all": 22.428571428571427,
+          "feat_extraction": 485.42857142857144,
+          "pred": 0.07142857142857142,
+          "initialize_mel_filter": 26.071428571428573,
+          "stft_no_log": 5552.285714285715,
+          "IO_Loop": 4825.571428571428
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.205196071,
+        "user_time": 1.131075,
+        "sys_time": 0.054059,
+        "cpu_utilized": 5.865,
+        "task_clock": 203.5,
+        "page_faults": 4763,
+        "instructions": 1652309530,
+        "cycles": 4300576153,
+        "stalled_cycles_frontend": 123296710,
+        "branches": 369152814,
+        "branch_misses": 5783771,
+        "system_time": 1.131075,
+        "ipc": 0.384206550754224,
+        "branch_miss_%": 1.5667687690984256,
+        "parallel_speedup": 5.512166945925587,
+        "file_read_speed_MB/s": 2018.4205431022044,
+        "mp3_decode_speed_s/s": 11925.465838509317
+      }
+    }
+  ],
+  "Crested Lark": [
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/159.mp3",
+          "format": "audio/mpeg",
+          "duration": 29.414,
+          "channels": 2,
+          "num_samples": 2594304,
+          "sample_rate": 44100,
+          "file_size_bytes": 946806
+        },
+        "function_timings": {
+          "1": 42.813559322033896,
+          "2": 29.322033898305083,
+          "segments": 118,
+          "auto_det": 302.33898305084745,
+          "file_read": 283.728813559322,
+          "dec_mp3": 558.8983050847457,
+          "init_window_function": 0.4576271186440678,
+          "STFT": 293.8305084745763,
+          "norm_all": 60.50847457627118,
+          "feat_extraction": 311.3050847457627,
+          "pred": 0.06779661016949153,
+          "initialize_mel_filter": 6.135593220338983,
+          "stft_no_log": 4715.525423728814,
+          "IO_Loop": 4930.64406779661
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.68776798,
+        "user_time": 4.206582,
+        "sys_time": 0.196879,
+        "cpu_utilized": 6.517,
+        "task_clock": 482.03,
+        "page_faults": 15888,
+        "instructions": 6578115000,
+        "cycles": 16304387464,
+        "stalled_cycles_frontend": 450939013,
+        "branches": 1466550372,
+        "branch_misses": 21321758,
+        "system_time": 4.206582,
+        "ipc": 0.4034567391461006,
+        "branch_miss_%": 1.453871507387951,
+        "parallel_speedup": 6.116280667791485,
+        "file_read_speed_MB/s": 3499.109011177061,
+        "mp3_decode_speed_s/s": 52628.536770280516
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/37.mp3",
+          "format": "audio/wav",
+          "duration": 47.804,
+          "channels": 2,
+          "num_samples": 4216336,
+          "sample_rate": 44100,
+          "file_size_bytes": 8432716
+        },
+        "function_timings": {
+          "1": 65.0625,
+          "2": 111.6875,
+          "segments": 192,
+          "auto_det": 456.8958333333333,
+          "dec_wav": 2371.3958333333335,
+          "init_window_function": 0.40625,
+          "STFT": 263.625,
+          "norm_all": 134.59375,
+          "feat_extraction": 377.9270833333333,
+          "pred": 0.0625,
+          "initialize_mel_filter": 36.822916666666664,
+          "stft_no_log": 5168.729166666667,
+          "IO_Loop": 9092.53125
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.694937058,
+        "user_time": 10.584328,
+        "sys_time": 0.362563,
+        "cpu_utilized": 6.553,
+        "task_clock": 107.08,
+        "page_faults": 24012,
+        "instructions": 11943238194,
+        "cycles": 41354512078,
+        "stalled_cycles_frontend": 759303339,
+        "branches": 2804816766,
+        "branch_misses": 34801338,
+        "system_time": 10.584328,
+        "ipc": 0.2888013325238488,
+        "branch_miss_%": 1.2407704639341135,
+        "parallel_speedup": 6.244673187150291,
+        "file_read_speed_MB/s": 3728.7505898949103,
+        "mp3_decode_speed_s/s": 20158.59154682105
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/44.mp3",
+          "format": "audio/mpeg",
+          "duration": 31.368,
+          "channels": 2,
+          "num_samples": 3011328,
+          "sample_rate": 48000,
+          "file_size_bytes": 961435
+        },
+        "function_timings": {
+          "1": 37.87301587301587,
+          "2": 32.63492063492063,
+          "segments": 126,
+          "auto_det": 884.968253968254,
+          "file_read": 115.19047619047619,
+          "dec_mp3": 719.6984126984127,
+          "init_window_function": 0.2222222222222222,
+          "STFT": 249.015873015873,
+          "norm_all": 77.19047619047619,
+          "feat_extraction": 389.984126984127,
+          "pred": 0.06349206349206349,
+          "initialize_mel_filter": 6.158730158730159,
+          "stft_no_log": 4503.761904761905,
+          "IO_Loop": 5124.9682539682535
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.773385158,
+        "user_time": 4.551638,
+        "sys_time": 0.245237,
+        "cpu_utilized": 6.298,
+        "task_clock": 870.42,
+        "page_faults": 16992,
+        "instructions": 7075429803,
+        "cycles": 17727846908,
+        "stalled_cycles_frontend": 474943960,
+        "branches": 1574073301,
+        "branch_misses": 21738274,
+        "system_time": 4.551638,
+        "ipc": 0.3991138822282524,
+        "branch_miss_%": 1.3810204382597555,
+        "parallel_speedup": 5.885344388778663,
+        "file_read_speed_MB/s": 8751.918560463,
+        "mp3_decode_speed_s/s": 43584.923137998725
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/93.mp3",
+          "format": "audio/mpeg",
+          "duration": 3.432,
+          "channels": 2,
+          "num_samples": 329472,
+          "sample_rate": 48000,
+          "file_size_bytes": 142920
+        },
+        "function_timings": {
+          "1": 617.4285714285714,
+          "2": 232.85714285714286,
+          "segments": 14,
+          "auto_det": 3728,
+          "file_read": 218,
+          "dec_mp3": 1580.2857142857142,
+          "init_window_function": 3.5714285714285716,
+          "STFT": 1458.2857142857142,
+          "norm_all": 22,
+          "feat_extraction": 773.2857142857143,
+          "pred": 0.2857142857142857,
+          "initialize_mel_filter": 51.714285714285715,
+          "stft_no_log": 5134.857142857143,
+          "IO_Loop": 10385.42857142857
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.17248897,
+        "user_time": 1.117665,
+        "sys_time": 0.026515,
+        "cpu_utilized": 6.715,
+        "task_clock": 158.26,
+        "page_faults": 2875,
+        "instructions": 1045108315,
+        "cycles": 4198899247,
+        "stalled_cycles_frontend": 55219964,
+        "branches": 247225983,
+        "branch_misses": 2631621,
+        "system_time": 1.117665,
+        "ipc": 0.2489005459577773,
+        "branch_miss_%": 1.0644597174076156,
+        "parallel_speedup": 6.479631712103099,
+        "file_read_speed_MB/s": 687.4425776146788,
+        "mp3_decode_speed_s/s": 2171.7591755559574
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/115.mp3",
+          "format": "audio/mpeg",
+          "duration": 98.808,
+          "channels": 2,
+          "num_samples": 9485568,
+          "sample_rate": 48000,
+          "file_size_bytes": 3167500
+        },
+        "function_timings": {
+          "1": 12.703517587939698,
+          "2": 8.592964824120603,
+          "segments": 398,
+          "auto_det": 138.62311557788945,
+          "file_read": 213.04020100502512,
+          "dec_mp3": 654.9447236180905,
+          "init_window_function": 0.10050251256281408,
+          "STFT": 140.5929648241206,
+          "norm_all": 87.99497487437186,
+          "feat_extraction": 411.3969849246231,
+          "pred": 0.12060301507537688,
+          "initialize_mel_filter": 3.7437185929648242,
+          "stft_no_log": 3778.899497487437,
+          "IO_Loop": 5481.05527638191
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 2.189868539,
+        "user_time": 14.72628,
+        "sys_time": 0.671813,
+        "cpu_utilized": 7.132,
+        "task_clock": 617.33,
+        "page_faults": 47863,
+        "instructions": 22127804843,
+        "cycles": 57352908941,
+        "stalled_cycles_frontend": 1339510675,
+        "branches": 4940239230,
+        "branch_misses": 60976249,
+        "system_time": 14.72628,
+        "ipc": 0.3858183525749894,
+        "branch_miss_%": 1.2342772517921161,
+        "parallel_speedup": 6.7247324383794895,
+        "file_read_speed_MB/s": 15590.317997877108,
+        "mp3_decode_speed_s/s": 150864.64007856735
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/87.mp3",
+          "format": "audio/mpeg",
+          "duration": 84.168,
+          "channels": 2,
+          "num_samples": 5386752,
+          "sample_rate": 32000,
+          "file_size_bytes": 3372872
+        },
+        "function_timings": {
+          "1": 11.881656804733728,
+          "2": 10.177514792899409,
+          "segments": 338,
+          "auto_det": 210.2603550295858,
+          "file_read": 235.6094674556213,
+          "dec_mp3": 462.15976331360946,
+          "init_window_function": 0.07100591715976332,
+          "STFT": 137.5147928994083,
+          "norm_all": 69.9171597633136,
+          "feat_extraction": 231.9526627218935,
+          "pred": 0.05917159763313609,
+          "initialize_mel_filter": 2.289940828402367,
+          "stft_no_log": 2558.568047337278,
+          "IO_Loop": 4426.633136094674
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.423795187,
+        "user_time": 10.052078,
+        "sys_time": 0.417435,
+        "cpu_utilized": 7.453,
+        "task_clock": 611.92,
+        "page_faults": 33886,
+        "instructions": 16498953923,
+        "cycles": 39018147985,
+        "stalled_cycles_frontend": 778618670,
+        "branches": 3666642665,
+        "branch_misses": 34881860,
+        "system_time": 10.052078,
+        "ipc": 0.4228533330014228,
+        "branch_miss_%": 0.9513296818630675,
+        "parallel_speedup": 7.0600589830480995,
+        "file_read_speed_MB/s": 15010.910505700132,
+        "mp3_decode_speed_s/s": 182118.8400230459
+      }
+    }
+  ],
+  "Eurasian Blackcap": [
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/134.mp3",
+          "format": "audio/wav",
+          "duration": 29.857,
+          "channels": 2,
+          "num_samples": 2866284,
+          "sample_rate": 48000,
+          "file_size_bytes": 8598896
+        },
+        "function_timings": {
+          "1": 53.4,
+          "2": 71.13333333333334,
+          "segments": 120,
+          "auto_det": 333.3833333333333,
+          "dec_wav": 1756.95,
+          "init_window_function": 0.4666666666666667,
+          "STFT": 243.15,
+          "norm_all": 63.983333333333334,
+          "feat_extraction": 335.8666666666667,
+          "pred": 0.08333333333333333,
+          "initialize_mel_filter": 6.233333333333333,
+          "stft_no_log": 5995.966666666666,
+          "IO_Loop": 4772.8
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.803592958,
+        "user_time": 4.320725,
+        "sys_time": 0.239635,
+        "cpu_utilized": 5.772,
+        "task_clock": 638.31,
+        "page_faults": 16483,
+        "instructions": 6932817862,
+        "cycles": 16821501198,
+        "stalled_cycles_frontend": 566712837,
+        "branches": 1577908373,
+        "branch_misses": 28391129,
+        "system_time": 4.320725,
+        "ipc": 0.4121402590884267,
+        "branch_miss_%": 1.799288823470867,
+        "parallel_speedup": 5.37675816716154,
+        "file_read_speed_MB/s": 5131.959345511255,
+        "mp3_decode_speed_s/s": 16993.653775007824
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/188.mp3",
+          "format": "audio/mpeg",
+          "duration": 22.416,
+          "channels": 2,
+          "num_samples": 2151936,
+          "sample_rate": 48000,
+          "file_size_bytes": 554232
+        },
+        "function_timings": {
+          "1": 43.68888888888889,
+          "2": 159.73333333333332,
+          "segments": 90,
+          "auto_det": 933.9777777777778,
+          "file_read": 62.266666666666666,
+          "dec_mp3": 1009.2444444444444,
+          "init_window_function": 0.5333333333333333,
+          "STFT": 505.84444444444443,
+          "norm_all": 61.15555555555556,
+          "feat_extraction": 385.35555555555555,
+          "pred": 0.08888888888888889,
+          "initialize_mel_filter": 7.8,
+          "stft_no_log": 5357.111111111111,
+          "IO_Loop": 5227.8
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.622908835,
+        "user_time": 3.480072,
+        "sys_time": 0.204998,
+        "cpu_utilized": 6.007,
+        "task_clock": 741.73,
+        "page_faults": 12880,
+        "instructions": 5301036270,
+        "cycles": 13487378410,
+        "stalled_cycles_frontend": 403433951,
+        "branches": 1191023949,
+        "branch_misses": 19512238,
+        "system_time": 3.480072,
+        "ipc": 0.3930368162629464,
+        "branch_miss_%": 1.6382741939305874,
+        "parallel_speedup": 5.586807899425603,
+        "file_read_speed_MB/s": 9333.314351691648,
+        "mp3_decode_speed_s/s": 22210.674652104986
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/116.mp3",
+          "format": "audio/wav",
+          "duration": 68.545,
+          "channels": 2,
+          "num_samples": 6045696,
+          "sample_rate": 44100,
+          "file_size_bytes": 12091584
+        },
+        "function_timings": {
+          "1": 29.057971014492754,
+          "2": 16.985507246376812,
+          "segments": 276,
+          "auto_det": 120.76811594202898,
+          "dec_wav": 1876.5797101449275,
+          "init_window_function": 0.43478260869565216,
+          "STFT": 157.81159420289856,
+          "norm_all": 76.95652173913044,
+          "feat_extraction": 314.5507246376812,
+          "pred": 0.057971014492753624,
+          "initialize_mel_filter": 3.050724637681159,
+          "stft_no_log": 4487.731884057971,
+          "IO_Loop": 5861.065217391304
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.779098134,
+        "user_time": 10.541795,
+        "sys_time": 0.475672,
+        "cpu_utilized": 6.283,
+        "task_clock": 178.54,
+        "page_faults": 32441,
+        "instructions": 15283011883,
+        "cycles": 41208320106,
+        "stalled_cycles_frontend": 1034089745,
+        "branches": 3485217491,
+        "branch_misses": 48532674,
+        "system_time": 10.541795,
+        "ipc": 0.3708719948711223,
+        "branch_miss_%": 1.3925292790285724,
+        "parallel_speedup": 5.92535892120721,
+        "file_read_speed_MB/s": 6756.411526694386,
+        "mp3_decode_speed_s/s": 36526.5592660097
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/24.mp3",
+          "format": "audio/mpeg",
+          "duration": 89.417,
+          "channels": 2,
+          "num_samples": 7886592,
+          "sample_rate": 44100,
+          "file_size_bytes": 2042081
+        },
+        "function_timings": {
+          "1": 14.188888888888888,
+          "2": 22.177777777777777,
+          "segments": 360,
+          "auto_det": 147.3,
+          "file_read": 177.22222222222223,
+          "dec_mp3": 516.65,
+          "init_window_function": 0.07777777777777778,
+          "STFT": 146.30555555555554,
+          "norm_all": 80.6,
+          "feat_extraction": 249.5222222222222,
+          "pred": 0.1388888888888889,
+          "initialize_mel_filter": 4.05,
+          "stft_no_log": 2770.8,
+          "IO_Loop": 5712.188888888889
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.788561928,
+        "user_time": 13.213239,
+        "sys_time": 0.553408,
+        "cpu_utilized": 7.811,
+        "task_clock": 969.92,
+        "page_faults": 41005,
+        "instructions": 18785024252,
+        "cycles": 51920585958,
+        "stalled_cycles_frontend": 833993472,
+        "branches": 4212139854,
+        "branch_misses": 37452172,
+        "system_time": 13.213239,
+        "ipc": 0.3618030094497725,
+        "branch_miss_%": 0.8891483497261865,
+        "parallel_speedup": 7.387632931880232,
+        "file_read_speed_MB/s": 12082.441467024451,
+        "mp3_decode_speed_s/s": 173070.74421755542
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/274.mp3",
+          "format": "audio/mpeg",
+          "duration": 84.24,
+          "channels": 1,
+          "num_samples": 1347840,
+          "sample_rate": 16000,
+          "file_size_bytes": 444128
+        },
+        "function_timings": {
+          "1": 11.035294117647059,
+          "2": 11.341176470588236,
+          "segments": 340,
+          "auto_det": 170.6235294117647,
+          "file_read": 14.270588235294118,
+          "dec_mp3": 119.86470588235294,
+          "init_window_function": 0.16470588235294117,
+          "STFT": 98.22941176470589,
+          "norm_all": 55.53529411764706,
+          "feat_extraction": 204.6,
+          "pred": 0.058823529411764705,
+          "initialize_mel_filter": 1.3588235294117648,
+          "stft_no_log": 5614.382352941177,
+          "IO_Loop": 3395.494117647059
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.659342352,
+        "user_time": 8.762855,
+        "sys_time": 0.40118,
+        "cpu_utilized": 5.598,
+        "task_clock": 289.09,
+        "page_faults": 26933,
+        "instructions": 16537569701,
+        "cycles": 34281039021,
+        "stalled_cycles_frontend": 1261251890,
+        "branches": 3749577973,
+        "branch_misses": 69937137,
+        "system_time": 8.762855,
+        "ipc": 0.4824115654974564,
+        "branch_miss_%": 1.8652002306287283,
+        "parallel_speedup": 5.280920473968593,
+        "file_read_speed_MB/s": 32633.69064046166,
+        "mp3_decode_speed_s/s": 702792.363939736
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/144.mp3",
+          "format": "audio/mpeg",
+          "duration": 35.376,
+          "channels": 2,
+          "num_samples": 3396096,
+          "sample_rate": 48000,
+          "file_size_bytes": 1171804
+        },
+        "function_timings": {
+          "1": 50.36619718309859,
+          "2": 32.42253521126761,
+          "segments": 142,
+          "auto_det": 436.2957746478873,
+          "file_read": 319.15492957746477,
+          "dec_mp3": 603.3802816901408,
+          "init_window_function": 0.49295774647887325,
+          "STFT": 249.4788732394366,
+          "norm_all": 65.6056338028169,
+          "feat_extraction": 352.09859154929575,
+          "pred": 0.08450704225352113,
+          "initialize_mel_filter": 4.619718309859155,
+          "stft_no_log": 4772.69014084507,
+          "IO_Loop": 13648.211267605633
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.46560289,
+        "user_time": 11.153264,
+        "sys_time": 0.319616,
+        "cpu_utilized": 7.928,
+        "task_clock": 619.58,
+        "page_faults": 19109,
+        "instructions": 10485349831,
+        "cycles": 43810826720,
+        "stalled_cycles_frontend": 601223827,
+        "branches": 2485809706,
+        "branch_misses": 27518798,
+        "system_time": 11.153264,
+        "ipc": 0.23933238918345615,
+        "branch_miss_%": 1.1070355841630943,
+        "parallel_speedup": 7.6100177449841135,
+        "file_read_speed_MB/s": 3849.9344275544568,
+        "mp3_decode_speed_s/s": 58629.6918767507
+      }
+    }
+  ],
+  "Eurasian Eagle-Owl": [
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/62.mp3",
+          "format": "audio/mpeg",
+          "duration": 131.553,
+          "channels": 2,
+          "num_samples": 11602944,
+          "sample_rate": 44100,
+          "file_size_bytes": 3068961
+        },
+        "function_timings": {
+          "1": 8.803030303030303,
+          "2": 6.416666666666667,
+          "segments": 528,
+          "auto_det": 92.5530303030303,
+          "file_read": 123.5,
+          "dec_mp3": 535.1439393939394,
+          "init_window_function": 0.06060606060606061,
+          "STFT": 139.14772727272728,
+          "norm_all": 104.91287878787878,
+          "feat_extraction": 146.0530303030303,
+          "pred": 0.1856060606060606,
+          "initialize_mel_filter": 2.287878787878788,
+          "stft_no_log": 2037.0719696969697,
+          "IO_Loop": 4127.583333333333
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.952034796,
+        "user_time": 14.669356,
+        "sys_time": 0.691697,
+        "cpu_utilized": 7.993,
+        "task_clock": 603.37,
+        "page_faults": 59949,
+        "instructions": 24476538141,
+        "cycles": 57328184978,
+        "stalled_cycles_frontend": 667615725,
+        "branches": 5394845015,
+        "branch_misses": 26902379,
+        "system_time": 14.669356,
+        "ipc": 0.4269547021311246,
+        "branch_miss_%": 0.49866824580131147,
+        "parallel_speedup": 7.514904975085291,
+        "file_read_speed_MB/s": 26056.99473308502,
+        "mp3_decode_speed_s/s": 245827.3191862852
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/75.mp3",
+          "format": "audio/mpeg",
+          "duration": 34.872,
+          "channels": 1,
+          "num_samples": 1673856,
+          "sample_rate": 48000,
+          "file_size_bytes": 1400559
+        },
+        "function_timings": {
+          "1": 33.885714285714286,
+          "2": 24.97142857142857,
+          "segments": 140,
+          "auto_det": 804.0714285714286,
+          "file_read": 652.6857142857143,
+          "dec_mp3": 512.4142857142857,
+          "init_window_function": 0.4142857142857143,
+          "STFT": 290.4428571428571,
+          "norm_all": 67.34285714285714,
+          "feat_extraction": 104.44285714285714,
+          "pred": 0.08571428571428572,
+          "initialize_mel_filter": 2.9857142857142858,
+          "stft_no_log": 1814.4571428571428,
+          "IO_Loop": 4224.2
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.606201665,
+        "user_time": 3.778259,
+        "sys_time": 0.205181,
+        "cpu_utilized": 6.685,
+        "task_clock": 52.53,
+        "page_faults": 16740,
+        "instructions": 6005857187,
+        "cycles": 14747961391,
+        "stalled_cycles_frontend": 146187004,
+        "branches": 1359645370,
+        "branch_misses": 5024290,
+        "system_time": 3.778259,
+        "ipc": 0.4072330424369769,
+        "branch_miss_%": 0.36952944575540314,
+        "parallel_speedup": 6.232676711635228,
+        "file_read_speed_MB/s": 2250.07614206969,
+        "mp3_decode_speed_s/s": 68054.30873456188
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/45.mp3",
+          "format": "audio/wav",
+          "duration": 205.888,
+          "channels": 2,
+          "num_samples": 39530454,
+          "sample_rate": 96000,
+          "file_size_bytes": 79060952
+        },
+        "function_timings": {
+          "1": 5.121359223300971,
+          "2": 4.436893203883495,
+          "segments": 824,
+          "auto_det": 71.77669902912622,
+          "dec_wav": 4802.194174757282,
+          "init_window_function": 0.050970873786407765,
+          "STFT": 258.4805825242718,
+          "norm_all": 166.27184466019418,
+          "feat_extraction": 595.9733009708738,
+          "pred": 0.1553398058252427,
+          "initialize_mel_filter": 5.002427184466019,
+          "stft_no_log": 2500.8009708737864,
+          "IO_Loop": 8276.313106796117
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 6.890694783,
+        "user_time": 40.353281,
+        "sys_time": 2.554442,
+        "cpu_utilized": 6.329,
+        "task_clock": 613.5,
+        "page_faults": 200327,
+        "instructions": 52471675820,
+        "cycles": 156273718131,
+        "stalled_cycles_frontend": 3557108745,
+        "branches": 11809657669,
+        "branch_misses": 135954213,
+        "system_time": 40.353281,
+        "ipc": 0.33576775703266,
+        "branch_miss_%": 1.1512121418800798,
+        "parallel_speedup": 5.856199159996955,
+        "file_read_speed_MB/s": 17263.237134417228,
+        "mp3_decode_speed_s/s": 42873.73490273459
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/69.mp3",
+          "format": "audio/mpeg",
+          "duration": 32.261,
+          "channels": 1,
+          "num_samples": 711360,
+          "sample_rate": 22050,
+          "file_size_bytes": 650564
+        },
+        "function_timings": {
+          "1": 36.33846153846154,
+          "2": 26.523076923076925,
+          "segments": 130,
+          "auto_det": 677.5230769230769,
+          "file_read": 78.29230769230769,
+          "dec_mp3": 320.55384615384617,
+          "init_window_function": 0.3076923076923077,
+          "STFT": 217.53846153846155,
+          "norm_all": 19.630769230769232,
+          "feat_extraction": 172.46153846153845,
+          "pred": 0.07692307692307693,
+          "initialize_mel_filter": 5.246153846153846,
+          "stft_no_log": 3448.9846153846156,
+          "IO_Loop": 6875.323076923077
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.778853133,
+        "user_time": 5.748698,
+        "sys_time": 0.176584,
+        "cpu_utilized": 7.72,
+        "task_clock": 12.5,
+        "page_faults": 13513,
+        "instructions": 6863099019,
+        "cycles": 22499119894,
+        "stalled_cycles_frontend": 347899915,
+        "branches": 1598199744,
+        "branch_misses": 17633108,
+        "system_time": 5.748698,
+        "ipc": 0.3050385549005511,
+        "branch_miss_%": 1.1033106510120927,
+        "parallel_speedup": 7.380978205553421,
+        "file_read_speed_MB/s": 8713.062840668106,
+        "mp3_decode_speed_s/s": 100641.43789594933
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/27.mp3",
+          "format": "audio/mpeg",
+          "duration": 123.742,
+          "channels": 2,
+          "num_samples": 10914048,
+          "sample_rate": 44100,
+          "file_size_bytes": 2791934
+        },
+        "function_timings": {
+          "1": 9.588709677419354,
+          "2": 6.975806451612903,
+          "segments": 496,
+          "auto_det": 410.008064516129,
+          "file_read": 6045.008064516129,
+          "dec_mp3": 563.2056451612904,
+          "init_window_function": 0.07258064516129033,
+          "STFT": 120.68145161290323,
+          "norm_all": 78.39516129032258,
+          "feat_extraction": 321.44354838709677,
+          "pred": 0.08870967741935484,
+          "initialize_mel_filter": 1.4274193548387097,
+          "stft_no_log": 5113.237903225807,
+          "IO_Loop": 5034.2862903225805
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 4.406866913,
+        "user_time": 17.358652,
+        "sys_time": 0.808236,
+        "cpu_utilized": 4.19,
+        "task_clock": 462.86,
+        "page_faults": 57088,
+        "instructions": 28436667058,
+        "cycles": 67545809491,
+        "stalled_cycles_frontend": 2064363975,
+        "branches": 6416094402,
+        "branch_misses": 101718000,
+        "system_time": 17.358652,
+        "ipc": 0.42099824211580417,
+        "branch_miss_%": 1.585356973056582,
+        "parallel_speedup": 3.9390007328773624,
+        "file_read_speed_MB/s": 484.29298269568733,
+        "mp3_decode_speed_s/s": 219710.15571863254
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/56.mp3",
+          "format": "audio/mpeg",
+          "duration": 139.176,
+          "channels": 2,
+          "num_samples": 13360896,
+          "sample_rate": 48000,
+          "file_size_bytes": 5572816
+        },
+        "function_timings": {
+          "1": 8.628571428571428,
+          "2": 5.985714285714286,
+          "segments": 560,
+          "auto_det": 2474.067857142857,
+          "file_read": 1488.2642857142857,
+          "dec_mp3": 669.3178571428572,
+          "init_window_function": 0.07142857142857142,
+          "STFT": 190.30357142857142,
+          "norm_all": 106.89285714285714,
+          "feat_extraction": 331.02142857142854,
+          "pred": 0.07142857142857142,
+          "initialize_mel_filter": 1.2714285714285714,
+          "stft_no_log": 5872.796428571429,
+          "IO_Loop": 4812.307142857143
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 4.488758265,
+        "user_time": 19.398622,
+        "sys_time": 0.893863,
+        "cpu_utilized": 4.585,
+        "task_clock": 582.97,
+        "page_faults": 67002,
+        "instructions": 32673704769,
+        "cycles": 75265657550,
+        "stalled_cycles_frontend": 2591228815,
+        "branches": 7254352901,
+        "branch_misses": 135292742,
+        "system_time": 19.398622,
+        "ipc": 0.43411172947362364,
+        "branch_miss_%": 1.864987047726202,
+        "parallel_speedup": 4.321600953933303,
+        "file_read_speed_MB/s": 3926.4001468740666,
+        "mp3_decode_speed_s/s": 207937.07879557545
+      }
+    }
+  ],
+  "Eurasian Hoopoe": [
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/195.mp3",
+          "format": "audio/mpeg",
+          "duration": 36.192,
+          "channels": 2,
+          "num_samples": 3474432,
+          "sample_rate": 48000,
+          "file_size_bytes": 1163779
+        },
+        "function_timings": {
+          "1": 36.68493150684932,
+          "2": 24.82191780821918,
+          "segments": 146,
+          "auto_det": 518.2328767123288,
+          "file_read": 113.31506849315069,
+          "dec_mp3": 592.8356164383562,
+          "init_window_function": 0.3013698630136986,
+          "STFT": 335.027397260274,
+          "norm_all": 70.76712328767124,
+          "feat_extraction": 330.8904109589041,
+          "pred": 0.0684931506849315,
+          "initialize_mel_filter": 4.821917808219178,
+          "stft_no_log": 4933.273972602739,
+          "IO_Loop": 5840.698630136986
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.94337346,
+        "user_time": 5.955017,
+        "sys_time": 0.257568,
+        "cpu_utilized": 6.684,
+        "task_clock": 305.25,
+        "page_faults": 19427,
+        "instructions": 8680922840,
+        "cycles": 23290539908,
+        "stalled_cycles_frontend": 675316797,
+        "branches": 1959997532,
+        "branch_misses": 32554328,
+        "system_time": 5.955017,
+        "ipc": 0.37272312596833423,
+        "branch_miss_%": 1.660937193465813,
+        "parallel_speedup": 6.312470355059596,
+        "file_read_speed_MB/s": 10769.18317158994,
+        "mp3_decode_speed_s/s": 61048.96365274857
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/59.mp3",
+          "format": "audio/mpeg",
+          "duration": 12.408,
+          "channels": 2,
+          "num_samples": 1191168,
+          "sample_rate": 48000,
+          "file_size_bytes": 368908
+        },
+        "function_timings": {
+          "1": 95.92,
+          "2": 197.04,
+          "segments": 50,
+          "auto_det": 1403.72,
+          "file_read": 92.96,
+          "dec_mp3": 1438.6,
+          "init_window_function": 1.2,
+          "STFT": 485.36,
+          "norm_all": 31.4,
+          "feat_extraction": 414.92,
+          "pred": 0.08,
+          "initialize_mel_filter": 13.76,
+          "stft_no_log": 5246.28,
+          "IO_Loop": 7337.36
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.423667261,
+        "user_time": 2.473398,
+        "sys_time": 0.123137,
+        "cpu_utilized": 6.216,
+        "task_clock": 633.51,
+        "page_faults": 8220,
+        "instructions": 3125666190,
+        "cycles": 9600597001,
+        "stalled_cycles_frontend": 222654801,
+        "branches": 713157382,
+        "branch_misses": 10359180,
+        "system_time": 2.473398,
+        "ipc": 0.325569981707849,
+        "branch_miss_%": 1.452579789744082,
+        "parallel_speedup": 5.838067341247782,
+        "file_read_speed_MB/s": 4161.231443717727,
+        "mp3_decode_speed_s/s": 8625.052134019186
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/100.mp3",
+          "format": "audio/mpeg",
+          "duration": 300.016,
+          "channels": 2,
+          "num_samples": 26461440,
+          "sample_rate": 44100,
+          "file_size_bytes": 12006375
+        },
+        "function_timings": {
+          "1": 3.697171381031614,
+          "2": 2.885191347753744,
+          "segments": 1202,
+          "auto_det": 76.18801996672212,
+          "file_read": 406.73044925124793,
+          "dec_mp3": 558.9916805324459,
+          "init_window_function": 0.033277870216306155,
+          "STFT": 118.61231281198003,
+          "norm_all": 73.11148086522462,
+          "feat_extraction": 291.9783693843594,
+          "pred": 0.08319467554076539,
+          "initialize_mel_filter": 0.6173044925124792,
+          "stft_no_log": 3568.0499168053243,
+          "IO_Loop": 3917.875207986689
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 5.452687148,
+        "user_time": 33.821303,
+        "sys_time": 1.76514,
+        "cpu_utilized": 6.625,
+        "task_clock": 125.98,
+        "page_faults": 132813,
+        "instructions": 60554292120,
+        "cycles": 130736486477,
+        "stalled_cycles_frontend": 3601594619,
+        "branches": 13291055517,
+        "branch_misses": 165205477,
+        "system_time": 33.821303,
+        "ipc": 0.4631782125386481,
+        "branch_miss_%": 1.2429823710290955,
+        "parallel_speedup": 6.202685406663276,
+        "file_read_speed_MB/s": 30953.169833181288,
+        "mp3_decode_speed_s/s": 536709.2399554701
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/153.mp3",
+          "format": "audio/mpeg",
+          "duration": 61.368,
+          "channels": 2,
+          "num_samples": 5891328,
+          "sample_rate": 48000,
+          "file_size_bytes": 2460360
+        },
+        "function_timings": {
+          "1": 20.048387096774192,
+          "2": 22.43548387096774,
+          "segments": 248,
+          "auto_det": 208.44354838709677,
+          "file_read": 295.2258064516129,
+          "dec_mp3": 663.0967741935484,
+          "init_window_function": 0.20161290322580644,
+          "STFT": 195.69354838709677,
+          "norm_all": 74.75,
+          "feat_extraction": 348.7096774193548,
+          "pred": 0.08064516129032258,
+          "initialize_mel_filter": 2.8548387096774195,
+          "stft_no_log": 7904.548387096775,
+          "IO_Loop": 5229.7338709677415
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.865221602,
+        "user_time": 9.602297,
+        "sys_time": 0.448121,
+        "cpu_utilized": 5.461,
+        "task_clock": 186.64,
+        "page_faults": 31185,
+        "instructions": 15659099093,
+        "cycles": 36817162189,
+        "stalled_cycles_frontend": 1560142436,
+        "branches": 3520203016,
+        "branch_misses": 84175704,
+        "system_time": 9.602297,
+        "ipc": 0.42532064292773025,
+        "branch_miss_%": 2.391217313814153,
+        "parallel_speedup": 5.1480730170098035,
+        "file_read_speed_MB/s": 8738.64814993007,
+        "mp3_decode_speed_s/s": 92547.57734967892
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/73.mp3",
+          "format": "audio/mpeg",
+          "duration": 38.832,
+          "channels": 1,
+          "num_samples": 1863936,
+          "sample_rate": 48000,
+          "file_size_bytes": 440258
+        },
+        "function_timings": {
+          "1": 32.84615384615385,
+          "2": 22.205128205128204,
+          "segments": 156,
+          "auto_det": 502.87179487179486,
+          "file_read": 165.67948717948718,
+          "dec_mp3": 356.78205128205127,
+          "init_window_function": 0.28205128205128205,
+          "STFT": 312.05128205128204,
+          "norm_all": 98,
+          "feat_extraction": 332.9102564102564,
+          "pred": 0.07692307692307693,
+          "initialize_mel_filter": 4.333333333333333,
+          "stft_no_log": 2725.8205128205127,
+          "IO_Loop": 3760.1923076923076
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.656926066,
+        "user_time": 4.510139,
+        "sys_time": 0.266399,
+        "cpu_utilized": 7.391,
+        "task_clock": 855.48,
+        "page_faults": 18441,
+        "instructions": 7663722341,
+        "cycles": 17203900838,
+        "stalled_cycles_frontend": 397980849,
+        "branches": 1693360896,
+        "branch_misses": 14853459,
+        "system_time": 4.510139,
+        "ipc": 0.44546422425734744,
+        "branch_miss_%": 0.8771584979366384,
+        "parallel_speedup": 6.865519932040571,
+        "file_read_speed_MB/s": 2786.3677059060587,
+        "mp3_decode_speed_s/s": 108839.55585899601
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/2.mp3",
+          "format": "audio/mpeg",
+          "duration": 38.635,
+          "channels": 2,
+          "num_samples": 3407616,
+          "sample_rate": 44100,
+          "file_size_bytes": 861407
+        },
+        "function_timings": {
+          "1": 22.71794871794872,
+          "2": 32.256410256410255,
+          "segments": 156,
+          "auto_det": 857.7435897435897,
+          "file_read": 66.48717948717949,
+          "dec_mp3": 795.0128205128206,
+          "init_window_function": 0.3333333333333333,
+          "STFT": 269.5769230769231,
+          "norm_all": 62.94871794871795,
+          "feat_extraction": 234.62820512820514,
+          "pred": 0.07692307692307693,
+          "initialize_mel_filter": 4.551282051282051,
+          "stft_no_log": 3473.5897435897436,
+          "IO_Loop": 5838.448717948718
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.917097563,
+        "user_time": 6.192765,
+        "sys_time": 0.234806,
+        "cpu_utilized": 7.107,
+        "task_clock": 517.76,
+        "page_faults": 20230,
+        "instructions": 8378627490,
+        "cycles": 23638088282,
+        "stalled_cycles_frontend": 414618802,
+        "branches": 1891545862,
+        "branch_misses": 18846803,
+        "system_time": 6.192765,
+        "ipc": 0.3544545307574717,
+        "branch_miss_%": 0.9963703962256877,
+        "parallel_speedup": 6.752569464629577,
+        "file_read_speed_MB/s": 13585.336502448128,
+        "mp3_decode_speed_s/s": 48596.70058538001
+      }
+    }
+  ],
+  "Eurasian Skylark": [
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/225.mp3",
+          "format": "audio/mpeg",
+          "duration": 69,
+          "channels": 2,
+          "num_samples": 6624000,
+          "sample_rate": 48000,
+          "file_size_bytes": 2765633
+        },
+        "function_timings": {
+          "1": 18.87769784172662,
+          "2": 12.863309352517986,
+          "segments": 278,
+          "auto_det": 374.62589928057554,
+          "file_read": 267.8848920863309,
+          "dec_mp3": 597.6906474820144,
+          "init_window_function": 0.16546762589928057,
+          "STFT": 193.9640287769784,
+          "norm_all": 80.90647482014388,
+          "feat_extraction": 429.76978417266184,
+          "pred": 0.1366906474820144,
+          "initialize_mel_filter": 2.8992805755395685,
+          "stft_no_log": 4420.618705035971,
+          "IO_Loop": 4722.827338129497
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.557478508,
+        "user_time": 9.461521,
+        "sys_time": 0.475167,
+        "cpu_utilized": 6.485,
+        "task_clock": 99.72,
+        "page_faults": 34015,
+        "instructions": 15260807706,
+        "cycles": 36161231429,
+        "stalled_cycles_frontend": 1010699392,
+        "branches": 3372143865,
+        "branch_misses": 47506783,
+        "system_time": 9.461521,
+        "ipc": 0.4220212394028535,
+        "branch_miss_%": 1.4088005999115343,
+        "parallel_speedup": 6.074896668814899,
+        "file_read_speed_MB/s": 10825.457031273821,
+        "mp3_decode_speed_s/s": 115444.33611381939
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/99.mp3",
+          "format": "audio/mpeg",
+          "duration": 96.6,
+          "channels": 2,
+          "num_samples": 9273600,
+          "sample_rate": 48000,
+          "file_size_bytes": 3869644
+        },
+        "function_timings": {
+          "1": 13.804123711340207,
+          "2": 10.835051546391753,
+          "segments": 388,
+          "auto_det": 295.33505154639175,
+          "file_read": 254.4536082474227,
+          "dec_mp3": 594.0670103092783,
+          "init_window_function": 0.20618556701030927,
+          "STFT": 141.39690721649484,
+          "norm_all": 83.94845360824742,
+          "feat_extraction": 349.49484536082474,
+          "pred": 0.06701030927835051,
+          "initialize_mel_filter": 2.077319587628866,
+          "stft_no_log": 7604.639175257732,
+          "IO_Loop": 4968.164948453608
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 2.791129922,
+        "user_time": 14.245246,
+        "sys_time": 0.659036,
+        "cpu_utilized": 5.415,
+        "task_clock": 114.96,
+        "page_faults": 47322,
+        "instructions": 23654451814,
+        "cycles": 54269047164,
+        "stalled_cycles_frontend": 2298786207,
+        "branches": 5288002822,
+        "branch_misses": 119953187,
+        "system_time": 14.245246,
+        "ipc": 0.435873726371438,
+        "branch_miss_%": 2.2684024770363482,
+        "parallel_speedup": 5.103755969121096,
+        "file_read_speed_MB/s": 15946.387456995702,
+        "mp3_decode_speed_s/s": 162607.9185068851
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/270.mp3",
+          "format": "audio/mpeg",
+          "duration": 75.389,
+          "channels": 2,
+          "num_samples": 6649344,
+          "sample_rate": 44100,
+          "file_size_bytes": 1211321
+        },
+        "function_timings": {
+          "1": 18.11842105263158,
+          "2": 50.88157894736842,
+          "segments": 304,
+          "auto_det": 230.4671052631579,
+          "file_read": 262.5394736842105,
+          "dec_mp3": 608.8684210526316,
+          "init_window_function": 0.1513157894736842,
+          "STFT": 152.15131578947367,
+          "norm_all": 87.82894736842105,
+          "feat_extraction": 340.4407894736842,
+          "pred": 0.07236842105263158,
+          "initialize_mel_filter": 2.388157894736842,
+          "stft_no_log": 6960.460526315789,
+          "IO_Loop": 5016.9671052631575
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 2.096480779,
+        "user_time": 11.233248,
+        "sys_time": 0.532934,
+        "cpu_utilized": 5.688,
+        "task_clock": 924.1,
+        "page_faults": 35857,
+        "instructions": 18265398887,
+        "cycles": 42941880865,
+        "stalled_cycles_frontend": 1684334687,
+        "branches": 4094721801,
+        "branch_misses": 89066797,
+        "system_time": 11.233248,
+        "ipc": 0.4253516268749958,
+        "branch_miss_%": 2.175161130073559,
+        "parallel_speedup": 5.358144998285242,
+        "file_read_speed_MB/s": 4837.985355389966,
+        "mp3_decode_speed_s/s": 123818.21325150193
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/35.mp3",
+          "format": "audio/mpeg",
+          "duration": 142.315,
+          "channels": 2,
+          "num_samples": 12552192,
+          "sample_rate": 44100,
+          "file_size_bytes": 1883728
+        },
+        "function_timings": {
+          "1": 8.496503496503497,
+          "2": 6.0979020979020975,
+          "segments": 572,
+          "auto_det": 65.35314685314685,
+          "file_read": 43.60489510489511,
+          "dec_mp3": 413.6048951048951,
+          "init_window_function": 0.07342657342657342,
+          "STFT": 156.8146853146853,
+          "norm_all": 90.94055944055944,
+          "feat_extraction": 312.3251748251748,
+          "pred": 0.06293706293706294,
+          "initialize_mel_filter": 3.4965034965034967,
+          "stft_no_log": 7860.699300699301,
+          "IO_Loop": 4703.723776223776
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 3.927615923,
+        "user_time": 20.215581,
+        "sys_time": 0.90883,
+        "cpu_utilized": 5.453,
+        "task_clock": 416.62,
+        "page_faults": 66063,
+        "instructions": 34346767545,
+        "cycles": 77554952446,
+        "stalled_cycles_frontend": 3364873030,
+        "branches": 7703384994,
+        "branch_misses": 182828145,
+        "system_time": 20.215581,
+        "ipc": 0.44287007420854246,
+        "branch_miss_%": 2.373348146852337,
+        "parallel_speedup": 5.147036114610436,
+        "file_read_speed_MB/s": 45298.39979150092,
+        "mp3_decode_speed_s/s": 344084.4189329704
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/212.mp3",
+          "format": "audio/mpeg",
+          "duration": 164.676,
+          "channels": 2,
+          "num_samples": 14524416,
+          "sample_rate": 44100,
+          "file_size_bytes": 4616475
+        },
+        "function_timings": {
+          "1": 7.83030303030303,
+          "2": 5.387878787878788,
+          "segments": 660,
+          "auto_det": 182.84242424242424,
+          "file_read": 110.5030303030303,
+          "dec_mp3": 551.8727272727273,
+          "init_window_function": 0.07575757575757576,
+          "STFT": 127.2939393939394,
+          "norm_all": 112.36060606060606,
+          "feat_extraction": 317.1151515151515,
+          "pred": 0.06060606060606061,
+          "initialize_mel_filter": 1.1515151515151516,
+          "stft_no_log": 4979.512121212121,
+          "IO_Loop": 4287.918181818181
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 3.54526623,
+        "user_time": 20.715791,
+        "sys_time": 1.046023,
+        "cpu_utilized": 6.226,
+        "task_clock": 74.35,
+        "page_faults": 74753,
+        "instructions": 35884282991,
+        "cycles": 78756951905,
+        "stalled_cycles_frontend": 2655502438,
+        "branches": 7953317718,
+        "branch_misses": 131712940,
+        "system_time": 20.715791,
+        "ipc": 0.45563321234530707,
+        "branch_miss_%": 1.6560754224857184,
+        "parallel_speedup": 5.843225770945839,
+        "file_read_speed_MB/s": 43806.26374068995,
+        "mp3_decode_speed_s/s": 298394.88683161465
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/208.mp3",
+          "format": "audio/mpeg",
+          "duration": 17.592,
+          "channels": 2,
+          "num_samples": 1688832,
+          "sample_rate": 48000,
+          "file_size_bytes": 709403
+        },
+        "function_timings": {
+          "1": 72.38888888888889,
+          "2": 47.44444444444444,
+          "segments": 72,
+          "auto_det": 1012.1944444444445,
+          "file_read": 120.91666666666667,
+          "dec_mp3": 1115.638888888889,
+          "init_window_function": 0.5555555555555556,
+          "STFT": 513.0277777777778,
+          "norm_all": 43.52777777777778,
+          "feat_extraction": 345.8888888888889,
+          "pred": 0.08333333333333333,
+          "initialize_mel_filter": 9.36111111111111,
+          "stft_no_log": 7140.666666666667,
+          "IO_Loop": 4385.527777777777
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.539814662,
+        "user_time": 2.599422,
+        "sys_time": 0.142255,
+        "cpu_utilized": 5.156,
+        "task_clock": 783.12,
+        "page_faults": 10776,
+        "instructions": 4237318009,
+        "cycles": 9904113743,
+        "stalled_cycles_frontend": 389104808,
+        "branches": 942560191,
+        "branch_misses": 19471448,
+        "system_time": 2.599422,
+        "ipc": 0.42783414235270056,
+        "branch_miss_%": 2.06580419859892,
+        "parallel_speedup": 4.815397177929933,
+        "file_read_speed_MB/s": 6151.8645909965535,
+        "mp3_decode_speed_s/s": 15768.543186514951
+      }
+    }
+  ],
+  "Eurasian Wren": [
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/117.mp3",
+          "format": "audio/wav",
+          "duration": 11.448,
+          "channels": 1,
+          "num_samples": 504859,
+          "sample_rate": 44100,
+          "file_size_bytes": 1009762
+        },
+        "function_timings": {
+          "1": 189.2173913043478,
+          "2": 140.34782608695653,
+          "segments": 46,
+          "auto_det": 2680.521739130435,
+          "dec_wav": 2969.1304347826085,
+          "init_window_function": 1.6956521739130435,
+          "STFT": 657.9565217391304,
+          "norm_all": 27.52173913043478,
+          "feat_extraction": 348.7826086956522,
+          "pred": 0.13043478260869565,
+          "initialize_mel_filter": 16.391304347826086,
+          "stft_no_log": 5324.478260869565,
+          "IO_Loop": 3381
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.303956604,
+        "user_time": 1.402335,
+        "sys_time": 0.091654,
+        "cpu_utilized": 5.008,
+        "task_clock": 522.3,
+        "page_faults": 6644,
+        "instructions": 2408322345,
+        "cycles": 5290235656,
+        "stalled_cycles_frontend": 182705553,
+        "branches": 540629416,
+        "branch_misses": 8579033,
+        "system_time": 1.402335,
+        "ipc": 0.45523914275322785,
+        "branch_miss_%": 1.5868601940816331,
+        "parallel_speedup": 4.613602670728615,
+        "file_read_speed_MB/s": 356.6068322591302,
+        "mp3_decode_speed_s/s": 3855.674330062967
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/31.mp3",
+          "format": "audio/wav",
+          "duration": 23.174,
+          "channels": 2,
+          "num_samples": 2043904,
+          "sample_rate": 44100,
+          "file_size_bytes": 4087924
+        },
+        "function_timings": {
+          "1": 43.787234042553195,
+          "2": 72.04255319148936,
+          "segments": 94,
+          "auto_det": 637.3829787234042,
+          "dec_wav": 1381.0212765957447,
+          "init_window_function": 0.3829787234042553,
+          "STFT": 486.63829787234044,
+          "norm_all": 57.680851063829785,
+          "feat_extraction": 346.21276595744683,
+          "pred": 0.10638297872340426,
+          "initialize_mel_filter": 7.617021276595745,
+          "stft_no_log": 7914.787234042553,
+          "IO_Loop": 4609.191489361702
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.708379319,
+        "user_time": 3.424654,
+        "sys_time": 0.186418,
+        "cpu_utilized": 5.17,
+        "task_clock": 662.1,
+        "page_faults": 12784,
+        "instructions": 5727563624,
+        "cycles": 13293580386,
+        "stalled_cycles_frontend": 586442256,
+        "branches": 1307547032,
+        "branch_misses": 30981692,
+        "system_time": 3.424654,
+        "ipc": 0.4308518441000233,
+        "branch_miss_%": 2.3694514416518517,
+        "parallel_speedup": 4.834491787301882,
+        "file_read_speed_MB/s": 3103.8616630080733,
+        "mp3_decode_speed_s/s": 16780.335243729587
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/43.mp3",
+          "format": "audio/wav",
+          "duration": 15.372,
+          "channels": 2,
+          "num_samples": 1355776,
+          "sample_rate": 44100,
+          "file_size_bytes": 2711676
+        },
+        "function_timings": {
+          "1": 117.87096774193549,
+          "2": 145.93548387096774,
+          "segments": 62,
+          "auto_det": 882.3548387096774,
+          "dec_wav": 1884.0967741935483,
+          "init_window_function": 0.5483870967741935,
+          "STFT": 452.9032258064516,
+          "norm_all": 33.03225806451613,
+          "feat_extraction": 380.0967741935484,
+          "pred": 0.0967741935483871,
+          "initialize_mel_filter": 6.161290322580645,
+          "stft_no_log": 10549.225806451614,
+          "IO_Loop": 5411.935483870968
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.592876166,
+        "user_time": 2.634479,
+        "sys_time": 0.126704,
+        "cpu_utilized": 4.734,
+        "task_clock": 806.57,
+        "page_faults": 9225,
+        "instructions": 4115256383,
+        "cycles": 10146217543,
+        "stalled_cycles_frontend": 452321269,
+        "branches": 944762258,
+        "branch_misses": 24619148,
+        "system_time": 2.634479,
+        "ipc": 0.40559512602202835,
+        "branch_miss_%": 2.6058564248869476,
+        "parallel_speedup": 4.443556936643662,
+        "file_read_speed_MB/s": 1509.157285507833,
+        "mp3_decode_speed_s/s": 8158.816580204428
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/218.mp3",
+          "format": "audio/mpeg",
+          "duration": 41.665,
+          "channels": 2,
+          "num_samples": 3674880,
+          "sample_rate": 44100,
+          "file_size_bytes": 671743
+        },
+        "function_timings": {
+          "1": 19.357142857142858,
+          "2": 20.357142857142858,
+          "segments": 168,
+          "auto_det": 538.6547619047619,
+          "file_read": 350.0833333333333,
+          "dec_mp3": 473.2857142857143,
+          "init_window_function": 0.23809523809523808,
+          "STFT": 175.60714285714286,
+          "norm_all": 67.5,
+          "feat_extraction": 320.70238095238096,
+          "pred": 0.08333333333333333,
+          "initialize_mel_filter": 5.059523809523809,
+          "stft_no_log": 4124.821428571428,
+          "IO_Loop": 5619.6547619047615
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.992913009,
+        "user_time": 6.542608,
+        "sys_time": 0.300273,
+        "cpu_utilized": 6.989,
+        "task_clock": 939.79,
+        "page_faults": 20961,
+        "instructions": 9526969655,
+        "cycles": 25387645688,
+        "stalled_cycles_frontend": 626132588,
+        "branches": 2146071515,
+        "branch_misses": 28996476,
+        "system_time": 6.542608,
+        "ipc": 0.3752600683057083,
+        "branch_miss_%": 1.3511421123354317,
+        "parallel_speedup": 6.589306354832944,
+        "file_read_speed_MB/s": 2012.0169139766722,
+        "mp3_decode_speed_s/s": 88033.50437669786
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/2.mp3",
+          "format": "audio/wav",
+          "duration": 8.92,
+          "channels": 1,
+          "num_samples": 393366,
+          "sample_rate": 44100,
+          "file_size_bytes": 786776
+        },
+        "function_timings": {
+          "1": 194.22222222222223,
+          "2": 105.22222222222223,
+          "segments": 36,
+          "auto_det": 1290.1666666666667,
+          "dec_wav": 1582.2777777777778,
+          "init_window_function": 2.2222222222222223,
+          "STFT": 885.2777777777778,
+          "norm_all": 24.166666666666668,
+          "feat_extraction": 324.94444444444446,
+          "pred": 0.05555555555555555,
+          "initialize_mel_filter": 13.88888888888889,
+          "stft_no_log": 3077.5555555555557,
+          "IO_Loop": 4896.222222222223
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.208493454,
+        "user_time": 1.341486,
+        "sys_time": 0.056123,
+        "cpu_utilized": 6.814,
+        "task_clock": 420.6,
+        "page_faults": 5340,
+        "instructions": 1853736626,
+        "cycles": 5195872694,
+        "stalled_cycles_frontend": 87140590,
+        "branches": 425870880,
+        "branch_misses": 3794711,
+        "system_time": 1.341486,
+        "ipc": 0.35677098635242277,
+        "branch_miss_%": 0.8910473052301674,
+        "parallel_speedup": 6.434187617228501,
+        "file_read_speed_MB/s": 521.3967121087039,
+        "mp3_decode_speed_s/s": 5637.442505530003
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/271.mp3",
+          "format": "audio/mpeg",
+          "duration": 13.923,
+          "channels": 2,
+          "num_samples": 1228032,
+          "sample_rate": 44100,
+          "file_size_bytes": 341430
+        },
+        "function_timings": {
+          "1": 77.78571428571429,
+          "2": 99.35714285714286,
+          "segments": 56,
+          "auto_det": 565.6785714285714,
+          "file_read": 74.28571428571429,
+          "dec_mp3": 513.4285714285714,
+          "init_window_function": 0.6071428571428571,
+          "STFT": 502.2142857142857,
+          "norm_all": 41.392857142857146,
+          "feat_extraction": 362.39285714285717,
+          "pred": 0.14285714285714285,
+          "initialize_mel_filter": 14.107142857142858,
+          "stft_no_log": 3291.5,
+          "IO_Loop": 5639.25
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.318717079,
+        "user_time": 2.239177,
+        "sys_time": 0.136622,
+        "cpu_utilized": 7.585,
+        "task_clock": 417.46,
+        "page_faults": 8597,
+        "instructions": 3067900050,
+        "cycles": 8801821865,
+        "stalled_cycles_frontend": 152245811,
+        "branches": 694367203,
+        "branch_misses": 6238896,
+        "system_time": 2.239177,
+        "ipc": 0.34855284474676196,
+        "branch_miss_%": 0.8985009621775008,
+        "parallel_speedup": 7.0255946340421875,
+        "file_read_speed_MB/s": 4819.436780307692,
+        "mp3_decode_speed_s/s": 27117.69616026711
+      }
+    }
+  ],
+  "European Robin": [
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/220.mp3",
+          "format": "audio/mpeg",
+          "duration": 112.797,
+          "channels": 2,
+          "num_samples": 9948672,
+          "sample_rate": 44100,
+          "file_size_bytes": 2560635
+        },
+        "function_timings": {
+          "1": 15.415929203539823,
+          "2": 22.495575221238937,
+          "segments": 452,
+          "auto_det": 2211.5840707964603,
+          "file_read": 124.47345132743362,
+          "dec_mp3": 549.8982300884956,
+          "init_window_function": 0.1415929203539823,
+          "STFT": 134.87610619469027,
+          "norm_all": 78.55309734513274,
+          "feat_extraction": 334.1637168141593,
+          "pred": 0.06637168141592921,
+          "initialize_mel_filter": 1.676991150442478,
+          "stft_no_log": 2876.3761061946902,
+          "IO_Loop": 5470.761061946902
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 2.687049438,
+        "user_time": 16.336632,
+        "sys_time": 0.68509,
+        "cpu_utilized": 6.427,
+        "task_clock": 270.42,
+        "page_faults": 52341,
+        "instructions": 23761963959,
+        "cycles": 62422215837,
+        "stalled_cycles_frontend": 1146298881,
+        "branches": 5289679793,
+        "branch_misses": 48114284,
+        "system_time": 16.336632,
+        "ipc": 0.3806651789011852,
+        "branch_miss_%": 0.9095878367471534,
+        "parallel_speedup": 6.079766069417589,
+        "file_read_speed_MB/s": 21571.028818803457,
+        "mp3_decode_speed_s/s": 205123.4098022965
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/239.mp3",
+          "format": "audio/mpeg",
+          "duration": 47.203,
+          "channels": 2,
+          "num_samples": 4163328,
+          "sample_rate": 44100,
+          "file_size_bytes": 1163205
+        },
+        "function_timings": {
+          "1": 24.694736842105264,
+          "2": 20.126315789473683,
+          "segments": 190,
+          "auto_det": 3027.463157894737,
+          "file_read": 3242.3368421052633,
+          "dec_mp3": 512.2526315789473,
+          "init_window_function": 0.2736842105263158,
+          "STFT": 223.8736842105263,
+          "norm_all": 68.08421052631579,
+          "feat_extraction": 288.0210526315789,
+          "pred": 0.07368421052631578,
+          "initialize_mel_filter": 3.610526315789474,
+          "stft_no_log": 3336.9578947368423,
+          "IO_Loop": 5216.547368421053
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.525604524,
+        "user_time": 6.831759,
+        "sys_time": 0.345563,
+        "cpu_utilized": 4.779,
+        "task_clock": 290.49,
+        "page_faults": 23536,
+        "instructions": 10354080189,
+        "cycles": 26546007624,
+        "stalled_cycles_frontend": 601092546,
+        "branches": 2310261036,
+        "branch_misses": 26787168,
+        "system_time": 6.831759,
+        "ipc": 0.3900428394226397,
+        "branch_miss_%": 1.1594866373359898,
+        "parallel_speedup": 4.47806682041538,
+        "file_read_speed_MB/s": 376.1820271850712,
+        "mp3_decode_speed_s/s": 92147.89166529673
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/94.mp3",
+          "format": "audio/mpeg",
+          "duration": 13.32,
+          "channels": 2,
+          "num_samples": 1278720,
+          "sample_rate": 48000,
+          "file_size_bytes": 218305
+        },
+        "function_timings": {
+          "1": 88.96296296296296,
+          "2": 65.92592592592592,
+          "segments": 54,
+          "auto_det": 22665.555555555555,
+          "file_read": 4957,
+          "dec_mp3": 644.2222222222222,
+          "init_window_function": 0.7407407407407407,
+          "STFT": 491.037037037037,
+          "norm_all": 34.77777777777778,
+          "feat_extraction": 398.77777777777777,
+          "pred": 0.18518518518518517,
+          "initialize_mel_filter": 22,
+          "stft_no_log": 2913.3703703703704,
+          "IO_Loop": 8814.777777777777
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.115326852,
+        "user_time": 3.007055,
+        "sys_time": 0.128907,
+        "cpu_utilized": 2.854,
+        "task_clock": 183.17,
+        "page_faults": 8539,
+        "instructions": 3312672405,
+        "cycles": 11704453358,
+        "stalled_cycles_frontend": 146721293,
+        "branches": 766508537,
+        "branch_misses": 5599685,
+        "system_time": 3.007055,
+        "ipc": 0.2830266654645419,
+        "branch_miss_%": 0.730544374876284,
+        "parallel_speedup": 2.696119971116772,
+        "file_read_speed_MB/s": 46.17901627597337,
+        "mp3_decode_speed_s/s": 20676.09520524319
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/140.mp3",
+          "format": "audio/wav",
+          "duration": 4.632,
+          "channels": 2,
+          "num_samples": 889256,
+          "sample_rate": 96000,
+          "file_size_bytes": 2667815
+        },
+        "function_timings": {
+          "1": 431,
+          "2": 667.4,
+          "segments": 20,
+          "auto_det": 19550.2,
+          "dec_wav": 83588.5,
+          "init_window_function": 3,
+          "STFT": 2417.1,
+          "norm_all": 1162.5,
+          "feat_extraction": 916.5,
+          "pred": 0.1,
+          "initialize_mel_filter": 20.7,
+          "stft_no_log": 8729.9,
+          "IO_Loop": 7895.7
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.060518264,
+        "user_time": 1.425816,
+        "sys_time": 0.069013,
+        "cpu_utilized": 1.432,
+        "task_clock": 518.55,
+        "page_faults": 5028,
+        "instructions": 1613050123,
+        "cycles": 5469182925,
+        "stalled_cycles_frontend": 148230829,
+        "branches": 376533482,
+        "branch_misses": 7206034,
+        "system_time": 1.425816,
+        "ipc": 0.294934388759725,
+        "branch_miss_%": 1.9137830616614329,
+        "parallel_speedup": 1.344452093283327,
+        "file_read_speed_MB/s": 33.46640723831628,
+        "mp3_decode_speed_s/s": 55.414321348032324
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/66.mp3",
+          "format": "audio/wav",
+          "duration": 39.532,
+          "channels": 2,
+          "num_samples": 3486720,
+          "sample_rate": 44100,
+          "file_size_bytes": 6973484
+        },
+        "function_timings": {
+          "1": 59.5,
+          "2": 21.75,
+          "segments": 160,
+          "auto_det": 572.675,
+          "dec_wav": 1255.3125,
+          "init_window_function": 0.4625,
+          "STFT": 245.0875,
+          "norm_all": 64.15,
+          "feat_extraction": 367.675,
+          "pred": 0.1375,
+          "initialize_mel_filter": 7.85,
+          "stft_no_log": 4272.2,
+          "IO_Loop": 5078.7125
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.917626421,
+        "user_time": 5.855711,
+        "sys_time": 0.276585,
+        "cpu_utilized": 6.782,
+        "task_clock": 223.74,
+        "page_faults": 20142,
+        "instructions": 8784373855,
+        "cycles": 22493843203,
+        "stalled_cycles_frontend": 594209445,
+        "branches": 2002458992,
+        "branch_misses": 27745515,
+        "system_time": 5.855711,
+        "ipc": 0.390523476834249,
+        "branch_miss_%": 1.3855721945291153,
+        "parallel_speedup": 6.381367042176742,
+        "file_read_speed_MB/s": 5825.026006499576,
+        "mp3_decode_speed_s/s": 31491.76001991536
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/108.mp3",
+          "format": "audio/mpeg",
+          "duration": 108.591,
+          "channels": 2,
+          "num_samples": 9577728,
+          "sample_rate": 44100,
+          "file_size_bytes": 2555527
+        },
+        "function_timings": {
+          "1": 12.20183486238532,
+          "2": 8.192660550458715,
+          "segments": 436,
+          "auto_det": 605.7018348623853,
+          "file_read": 3456.6422018348626,
+          "dec_mp3": 523.756880733945,
+          "init_window_function": 0.10091743119266056,
+          "STFT": 131.27981651376146,
+          "norm_all": 74.92201834862385,
+          "feat_extraction": 304.08256880733944,
+          "pred": 0.12844036697247707,
+          "initialize_mel_filter": 3.330275229357798,
+          "stft_no_log": 2913.8853211009173,
+          "IO_Loop": 5153.532110091744
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 2.891646452,
+        "user_time": 15.192153,
+        "sys_time": 0.746403,
+        "cpu_utilized": 5.596,
+        "task_clock": 180.78,
+        "page_faults": 50526,
+        "instructions": 22941974113,
+        "cycles": 58635314652,
+        "stalled_cycles_frontend": 1187693150,
+        "branches": 5102483762,
+        "branch_misses": 51533803,
+        "system_time": 15.192153,
+        "ipc": 0.3912654728496024,
+        "branch_miss_%": 1.0099748554574626,
+        "parallel_speedup": 5.253807217508346,
+        "file_read_speed_MB/s": 775.2217681452754,
+        "mp3_decode_speed_s/s": 207330.9277537901
+      }
+    }
+  ],
+  "Great Tit": [
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/181.mp3",
+          "format": "audio/mpeg",
+          "duration": 89.064,
+          "channels": 2,
+          "num_samples": 8550144,
+          "sample_rate": 48000,
+          "file_size_bytes": 1490170
+        },
+        "function_timings": {
+          "1": 13.94413407821229,
+          "2": 9.743016759776536,
+          "segments": 358,
+          "auto_det": 1633.167597765363,
+          "file_read": 1734.558659217877,
+          "dec_mp3": 463.2290502793296,
+          "init_window_function": 0.1787709497206704,
+          "STFT": 152.18435754189943,
+          "norm_all": 77.16201117318435,
+          "feat_extraction": 243.81564245810057,
+          "pred": 0.0670391061452514,
+          "initialize_mel_filter": 2.094972067039106,
+          "stft_no_log": 2498.586592178771,
+          "IO_Loop": 8824.340782122905
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 2.816959539,
+        "user_time": 18.129879,
+        "sys_time": 0.584502,
+        "cpu_utilized": 6.729,
+        "task_clock": 954.02,
+        "page_faults": 43883,
+        "instructions": 20538977526,
+        "cycles": 70717326513,
+        "stalled_cycles_frontend": 696874645,
+        "branches": 4714632891,
+        "branch_misses": 28153028,
+        "system_time": 18.129879,
+        "ipc": 0.29043769806858166,
+        "branch_miss_%": 0.5971414668094887,
+        "parallel_speedup": 6.435974230015378,
+        "file_read_speed_MB/s": 900.838083287749,
+        "mp3_decode_speed_s/s": 192267.73438819073
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/161.mp3",
+          "format": "audio/mpeg",
+          "duration": 102.374,
+          "channels": 2,
+          "num_samples": 9029376,
+          "sample_rate": 44100,
+          "file_size_bytes": 2462900
+        },
+        "function_timings": {
+          "1": 11.407766990291263,
+          "2": 9.271844660194175,
+          "segments": 412,
+          "auto_det": 190.49514563106797,
+          "file_read": 90.7864077669903,
+          "dec_mp3": 553.0728155339806,
+          "init_window_function": 0.07766990291262135,
+          "STFT": 133.6504854368932,
+          "norm_all": 79.0631067961165,
+          "feat_extraction": 331.2378640776699,
+          "pred": 0.06310679611650485,
+          "initialize_mel_filter": 1.6990291262135921,
+          "stft_no_log": 8250.441747572815,
+          "IO_Loop": 6537.21359223301
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 3.349934523,
+        "user_time": 18.050826,
+        "sys_time": 0.732079,
+        "cpu_utilized": 5.683,
+        "task_clock": 36.88,
+        "page_faults": 47990,
+        "instructions": 26907620014,
+        "cycles": 70302922383,
+        "stalled_cycles_frontend": 2821895492,
+        "branches": 6168319423,
+        "branch_misses": 155562343,
+        "system_time": 18.050826,
+        "ipc": 0.38273828600482973,
+        "branch_miss_%": 2.5219566681315166,
+        "parallel_speedup": 5.388411587171789,
+        "file_read_speed_MB/s": 28446.304837044165,
+        "mp3_decode_speed_s/s": 185100.4011129348
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/50.mp3",
+          "format": "audio/mpeg",
+          "duration": 42.762,
+          "channels": 2,
+          "num_samples": 3771648,
+          "sample_rate": 44100,
+          "file_size_bytes": 1090736
+        },
+        "function_timings": {
+          "1": 41.906976744186046,
+          "2": 20.6046511627907,
+          "segments": 172,
+          "auto_det": 455.6860465116279,
+          "file_read": 195.12790697674419,
+          "dec_mp3": 663.7325581395348,
+          "init_window_function": 0.1744186046511628,
+          "STFT": 277.27906976744185,
+          "norm_all": 96.30232558139535,
+          "feat_extraction": 319.06976744186045,
+          "pred": 0.08139534883720931,
+          "initialize_mel_filter": 4.151162790697675,
+          "stft_no_log": 3251.546511627907,
+          "IO_Loop": 12199.523255813954
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.517851884,
+        "user_time": 11.398374,
+        "sys_time": 0.341063,
+        "cpu_utilized": 7.848,
+        "task_clock": 912.26,
+        "page_faults": 21485,
+        "instructions": 11333593560,
+        "cycles": 44325934102,
+        "stalled_cycles_frontend": 554424292,
+        "branches": 2660545634,
+        "branch_misses": 23415549,
+        "system_time": 11.398374,
+        "ipc": 0.2556876417746744,
+        "branch_miss_%": 0.8801032653138848,
+        "parallel_speedup": 7.509543006239732,
+        "file_read_speed_MB/s": 5861.38400014874,
+        "mp3_decode_speed_s/s": 64426.551742261
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/298.mp3",
+          "format": "audio/mpeg",
+          "duration": 36.859,
+          "channels": 2,
+          "num_samples": 3250944,
+          "sample_rate": 44100,
+          "file_size_bytes": 832741
+        },
+        "function_timings": {
+          "1": 32.945945945945944,
+          "2": 89.02702702702703,
+          "segments": 148,
+          "auto_det": 607.2432432432432,
+          "file_read": 498,
+          "dec_mp3": 472.35135135135135,
+          "init_window_function": 0.28378378378378377,
+          "STFT": 366.81081081081084,
+          "norm_all": 98.32432432432432,
+          "feat_extraction": 473.56756756756755,
+          "pred": 0.05405405405405406,
+          "initialize_mel_filter": 4.905405405405405,
+          "stft_no_log": 5172.3378378378375,
+          "IO_Loop": 6707.3378378378375
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.080956686,
+        "user_time": 6.778359,
+        "sys_time": 0.295165,
+        "cpu_utilized": 6.638,
+        "task_clock": 175.54,
+        "page_faults": 18648,
+        "instructions": 8930722149,
+        "cycles": 26488656035,
+        "stalled_cycles_frontend": 612797883,
+        "branches": 2052767195,
+        "branch_misses": 28649318,
+        "system_time": 6.778359,
+        "ipc": 0.33715270934092145,
+        "branch_miss_%": 1.3956437958372576,
+        "parallel_speedup": 6.270703616333431,
+        "file_read_speed_MB/s": 1753.398045815261,
+        "mp3_decode_speed_s/s": 78033.01481947703
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/155.mp3",
+          "format": "audio/wav",
+          "duration": 35.353,
+          "channels": 2,
+          "num_samples": 3393900,
+          "sample_rate": 48000,
+          "file_size_bytes": 10181745
+        },
+        "function_timings": {
+          "1": 48.816901408450704,
+          "2": 50.08450704225352,
+          "segments": 142,
+          "auto_det": 329.0845070422535,
+          "dec_wav": 1790.6338028169014,
+          "init_window_function": 0.28169014084507044,
+          "STFT": 264.67605633802816,
+          "norm_all": 76.67605633802818,
+          "feat_extraction": 415.7042253521127,
+          "pred": 0.1267605633802817,
+          "initialize_mel_filter": 9.28169014084507,
+          "stft_no_log": 8750.295774647888,
+          "IO_Loop": 19032.436619718308
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 2.167758829,
+        "user_time": 15.647977,
+        "sys_time": 0.338022,
+        "cpu_utilized": 7.462,
+        "task_clock": 176.86,
+        "page_faults": 19008,
+        "instructions": 13161078157,
+        "cycles": 61537716022,
+        "stalled_cycles_frontend": 950325859,
+        "branches": 3253404642,
+        "branch_misses": 51142299,
+        "system_time": 15.647977,
+        "ipc": 0.21387011101118633,
+        "branch_miss_%": 1.5719624402011287,
+        "parallel_speedup": 7.218504563636586,
+        "file_read_speed_MB/s": 5962.320954918157,
+        "mp3_decode_speed_s/s": 19743.28863019625
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/176.mp3",
+          "format": "audio/wav",
+          "duration": 30.482,
+          "channels": 2,
+          "num_samples": 2926250,
+          "sample_rate": 48000,
+          "file_size_bytes": 8778794
+        },
+        "function_timings": {
+          "1": 75.6774193548387,
+          "2": 28.193548387096776,
+          "segments": 124,
+          "auto_det": 391.01612903225805,
+          "dec_wav": 1993.9193548387098,
+          "init_window_function": 0.43548387096774194,
+          "STFT": 473.19354838709677,
+          "norm_all": 216.32258064516128,
+          "feat_extraction": 525.7741935483871,
+          "pred": 0.06451612903225806,
+          "initialize_mel_filter": 3.274193548387097,
+          "stft_no_log": 4732.032258064516,
+          "IO_Loop": 8000.5
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.000916384,
+        "user_time": 6.798888,
+        "sys_time": 0.242351,
+        "cpu_utilized": 7.123,
+        "task_clock": 129.79,
+        "page_faults": 16404,
+        "instructions": 7778898467,
+        "cycles": 26513000329,
+        "stalled_cycles_frontend": 481422856,
+        "branches": 1827060020,
+        "branch_misses": 22713993,
+        "system_time": 6.798888,
+        "ipc": 0.2933994029521969,
+        "branch_miss_%": 1.2431990603133005,
+        "parallel_speedup": 6.792663312023475,
+        "file_read_speed_MB/s": 4616.652461397377,
+        "mp3_decode_speed_s/s": 15287.478867201087
+      }
+    }
+  ],
+  "Grey heron": [
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/62.mp3",
+          "format": "audio/mpeg",
+          "duration": 22.632,
+          "channels": 2,
+          "num_samples": 2172672,
+          "sample_rate": 48000,
+          "file_size_bytes": 911009
+        },
+        "function_timings": {
+          "1": 47.47826086956522,
+          "2": 55,
+          "segments": 92,
+          "auto_det": 352.82608695652175,
+          "file_read": 156.47826086956522,
+          "dec_mp3": 570.2826086956521,
+          "init_window_function": 0.4782608695652174,
+          "STFT": 556.3478260869565,
+          "norm_all": 173.43478260869566,
+          "feat_extraction": 641.1304347826087,
+          "pred": 0.08695652173913043,
+          "initialize_mel_filter": 38.630434782608695,
+          "stft_no_log": 7848.782608695652,
+          "IO_Loop": 9034.45652173913
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.903289844,
+        "user_time": 5.667258,
+        "sys_time": 0.22056,
+        "cpu_utilized": 6.596,
+        "task_clock": 957.89,
+        "page_faults": 12938,
+        "instructions": 6594307831,
+        "cycles": 22216777781,
+        "stalled_cycles_frontend": 544712472,
+        "branches": 1534773511,
+        "branch_misses": 28220156,
+        "system_time": 5.667258,
+        "ipc": 0.2968165724122026,
+        "branch_miss_%": 1.838717947484826,
+        "parallel_speedup": 6.27401939437725,
+        "file_read_speed_MB/s": 6104.759650800777,
+        "mp3_decode_speed_s/s": 39685.58685624976
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/71.mp3",
+          "format": "audio/wav",
+          "duration": 11.793,
+          "channels": 2,
+          "num_samples": 1040126,
+          "sample_rate": 44100,
+          "file_size_bytes": 2080296
+        },
+        "function_timings": {
+          "1": 202.83333333333334,
+          "2": 72.91666666666667,
+          "segments": 48,
+          "auto_det": 916.75,
+          "dec_wav": 2074.4583333333335,
+          "init_window_function": 1.7916666666666667,
+          "STFT": 840.1666666666666,
+          "norm_all": 151.83333333333334,
+          "feat_extraction": 645.1666666666666,
+          "pred": 0.125,
+          "initialize_mel_filter": 16.791666666666668,
+          "stft_no_log": 8580.625,
+          "IO_Loop": 28882.25
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.00336629,
+        "user_time": 7.961733,
+        "sys_time": 0.104503,
+        "cpu_utilized": 8.129,
+        "task_clock": 156.72,
+        "page_faults": 7056,
+        "instructions": 5381435540,
+        "cycles": 30958936820,
+        "stalled_cycles_frontend": 365816932,
+        "branches": 1373153206,
+        "branch_misses": 17597325,
+        "system_time": 7.961733,
+        "ipc": 0.17382494661520487,
+        "branch_miss_%": 1.281526702418084,
+        "parallel_speedup": 7.935021416754991,
+        "file_read_speed_MB/s": 1051.5267640931165,
+        "mp3_decode_speed_s/s": 5684.8574929198385
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/117.mp3",
+          "format": "audio/mpeg",
+          "duration": 226.351,
+          "channels": 2,
+          "num_samples": 19964160,
+          "sample_rate": 44100,
+          "file_size_bytes": 9060479
+        },
+        "function_timings": {
+          "1": 5.568281938325991,
+          "2": 3.828193832599119,
+          "segments": 908,
+          "auto_det": 57.75550660792952,
+          "file_read": 181.0022026431718,
+          "dec_mp3": 617.5770925110132,
+          "init_window_function": 0.06828193832599119,
+          "STFT": 154.91409691629957,
+          "norm_all": 94.52202643171806,
+          "feat_extraction": 405.1806167400881,
+          "pred": 0.05726872246696035,
+          "initialize_mel_filter": 0.460352422907489,
+          "stft_no_log": 3959.3590308370044,
+          "IO_Loop": 10472.823788546255
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 7.267194171,
+        "user_time": 56.104442,
+        "sys_time": 1.471952,
+        "cpu_utilized": 8.031,
+        "task_clock": 362.46,
+        "page_faults": 101040,
+        "instructions": 59524905816,
+        "cycles": 218095998589,
+        "stalled_cycles_frontend": 3218781195,
+        "branches": 13918308059,
+        "branch_misses": 149222944,
+        "system_time": 56.104442,
+        "ipc": 0.27292983915846236,
+        "branch_miss_%": 1.072134223265075,
+        "parallel_speedup": 7.720234340770307,
+        "file_read_speed_MB/s": 52488.8685837349,
+        "mp3_decode_speed_s/s": 366514.5659462158
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/99.mp3",
+          "format": "audio/mpeg",
+          "duration": 15.744,
+          "channels": 1,
+          "num_samples": 755712,
+          "sample_rate": 48000,
+          "file_size_bytes": 271348
+        },
+        "function_timings": {
+          "1": 90.5625,
+          "2": 226.625,
+          "segments": 64,
+          "auto_det": 1011.5,
+          "file_read": 91.21875,
+          "dec_mp3": 423,
+          "init_window_function": 0.8125,
+          "STFT": 783.90625,
+          "norm_all": 130.625,
+          "feat_extraction": 477.8125,
+          "pred": 0.125,
+          "initialize_mel_filter": 11.96875,
+          "stft_no_log": 4168.25,
+          "IO_Loop": 16802.21875
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.777624443,
+        "user_time": 6.387103,
+        "sys_time": 0.137883,
+        "cpu_utilized": 8.501,
+        "task_clock": 610.96,
+        "page_faults": 8773,
+        "instructions": 5158306086,
+        "cycles": 25093574442,
+        "stalled_cycles_frontend": 253328356,
+        "branches": 1260437954,
+        "branch_misses": 11255261,
+        "system_time": 6.387103,
+        "ipc": 0.2055628263690629,
+        "branch_miss_%": 0.892964303739143,
+        "parallel_speedup": 8.213608840996784,
+        "file_read_speed_MB/s": 3119.194249515587,
+        "mp3_decode_speed_s/s": 37219.85815602837
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/171.mp3",
+          "format": "audio/wav",
+          "duration": 17.36,
+          "channels": 1,
+          "num_samples": 765556,
+          "sample_rate": 44100,
+          "file_size_bytes": 1531156
+        },
+        "function_timings": {
+          "1": 58.857142857142854,
+          "2": 46.97142857142857,
+          "segments": 70,
+          "auto_det": 778.9142857142857,
+          "dec_wav": 1212.4857142857143,
+          "init_window_function": 0.6285714285714286,
+          "STFT": 535.2857142857143,
+          "norm_all": 352.65714285714284,
+          "feat_extraction": 405.9142857142857,
+          "pred": 0.08571428571428572,
+          "initialize_mel_filter": 11.085714285714285,
+          "stft_no_log": 4507.228571428572,
+          "IO_Loop": 6174.171428571429
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.470930213,
+        "user_time": 3.147199,
+        "sys_time": 0.135663,
+        "cpu_utilized": 7.072,
+        "task_clock": 330.65,
+        "page_faults": 9109,
+        "instructions": 3969933189,
+        "cycles": 12354776349,
+        "stalled_cycles_frontend": 233734875,
+        "branches": 918678126,
+        "branch_misses": 10181950,
+        "system_time": 3.147199,
+        "ipc": 0.32132780690290097,
+        "branch_miss_%": 1.1083261603640273,
+        "parallel_speedup": 6.682941363968084,
+        "file_read_speed_MB/s": 1324.1668870315998,
+        "mp3_decode_speed_s/s": 14317.694464735961
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/155.mp3",
+          "format": "audio/mpeg",
+          "duration": 48.936,
+          "channels": 2,
+          "num_samples": 4697856,
+          "sample_rate": 48000,
+          "file_size_bytes": 1063382
+        },
+        "function_timings": {
+          "1": 18.848484848484848,
+          "2": 18.32323232323232,
+          "segments": 198,
+          "auto_det": 429.5151515151515,
+          "file_read": 485.77777777777777,
+          "dec_mp3": 678.2020202020202,
+          "init_window_function": 0.16161616161616163,
+          "STFT": 286.4848484848485,
+          "norm_all": 145.91919191919192,
+          "feat_extraction": 419.22222222222223,
+          "pred": 0.16161616161616163,
+          "initialize_mel_filter": 5.767676767676767,
+          "stft_no_log": 4042.4747474747473,
+          "IO_Loop": 12832.727272727272
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 1.927681666,
+        "user_time": 14.62469,
+        "sys_time": 0.398452,
+        "cpu_utilized": 7.904,
+        "task_clock": 237.21,
+        "page_faults": 24949,
+        "instructions": 13852938893,
+        "cycles": 56983949323,
+        "stalled_cycles_frontend": 683754788,
+        "branches": 3277923951,
+        "branch_misses": 28985612,
+        "system_time": 14.62469,
+        "ipc": 0.24310247109195438,
+        "branch_miss_%": 0.8842673726813377,
+        "parallel_speedup": 7.586672767577175,
+        "file_read_speed_MB/s": 2295.364043066789,
+        "mp3_decode_speed_s/s": 72155.49134669804
+      }
+    }
+  ],
+  "Mallard": [
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/36.mp3",
+          "format": "audio/mpeg",
+          "duration": 8.15,
+          "channels": 2,
+          "num_samples": 718848,
+          "sample_rate": 44100,
+          "file_size_bytes": 189023
+        },
+        "function_timings": {
+          "1": 226.23529411764707,
+          "2": 101.17647058823529,
+          "segments": 34,
+          "auto_det": 2012.3529411764705,
+          "file_read": 98.47058823529412,
+          "dec_mp3": 1220.9411764705883,
+          "init_window_function": 1.3529411764705883,
+          "STFT": 762.4705882352941,
+          "norm_all": 20.705882352941178,
+          "feat_extraction": 391.94117647058823,
+          "pred": 0.11764705882352941,
+          "initialize_mel_filter": 30.235294117647058,
+          "stft_no_log": 5342.058823529412,
+          "IO_Loop": 4579.470588235294
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.255465032,
+        "user_time": 1.23064,
+        "sys_time": 0.075615,
+        "cpu_utilized": 5.218,
+        "task_clock": 333.05,
+        "page_faults": 5464,
+        "instructions": 1909559991,
+        "cycles": 4734361965,
+        "stalled_cycles_frontend": 138250637,
+        "branches": 430336090,
+        "branch_misses": 6792561,
+        "system_time": 1.23064,
+        "ipc": 0.4033405145438642,
+        "branch_miss_%": 1.5784316393263693,
+        "parallel_speedup": 4.817254206438712,
+        "file_read_speed_MB/s": 2012.8343376439666,
+        "mp3_decode_speed_s/s": 6675.178261707458
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/305.mp3",
+          "format": "audio/mpeg",
+          "duration": 9.561,
+          "channels": 2,
+          "num_samples": 843264,
+          "sample_rate": 44100,
+          "file_size_bytes": 227035
+        },
+        "function_timings": {
+          "1": 106.3,
+          "2": 88.1,
+          "segments": 40,
+          "auto_det": 1073.3,
+          "file_read": 58.55,
+          "dec_mp3": 460.5,
+          "init_window_function": 0.95,
+          "STFT": 535.55,
+          "norm_all": 26.1,
+          "feat_extraction": 353.1,
+          "pred": 0.1,
+          "initialize_mel_filter": 16.9,
+          "stft_no_log": 5821.95,
+          "IO_Loop": 4436.45
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.26529208,
+        "user_time": 1.417947,
+        "sys_time": 0.072871,
+        "cpu_utilized": 5.721,
+        "task_clock": 517.67,
+        "page_faults": 6253,
+        "instructions": 2232849517,
+        "cycles": 5171960661,
+        "stalled_cycles_frontend": 184644836,
+        "branches": 499192116,
+        "branch_misses": 9122404,
+        "system_time": 1.417947,
+        "ipc": 0.43172206119763445,
+        "branch_miss_%": 1.8274335085853,
+        "parallel_speedup": 5.344852360462476,
+        "file_read_speed_MB/s": 4065.985519385141,
+        "mp3_decode_speed_s/s": 20762.214983713355
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/306.mp3",
+          "format": "audio/mpeg",
+          "duration": 12.487,
+          "channels": 2,
+          "num_samples": 1101312,
+          "sample_rate": 44100,
+          "file_size_bytes": 361750
+        },
+        "function_timings": {
+          "1": 86,
+          "2": 125.38461538461539,
+          "segments": 52,
+          "auto_det": 1188.7307692307693,
+          "file_read": 79.53846153846153,
+          "dec_mp3": 490.2692307692308,
+          "init_window_function": 0.8461538461538461,
+          "STFT": 481.2307692307692,
+          "norm_all": 28.26923076923077,
+          "feat_extraction": 396.15384615384613,
+          "pred": 0.07692307692307693,
+          "initialize_mel_filter": 16.115384615384617,
+          "stft_no_log": 5865.307692307692,
+          "IO_Loop": 4049.576923076923
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.337462299,
+        "user_time": 1.717228,
+        "sys_time": 0.09563,
+        "cpu_utilized": 5.469,
+        "task_clock": 845.56,
+        "page_faults": 7839,
+        "instructions": 2898517565,
+        "cycles": 6652454604,
+        "stalled_cycles_frontend": 236909417,
+        "branches": 648505475,
+        "branch_misses": 11715516,
+        "system_time": 1.717228,
+        "ipc": 0.4357064779152606,
+        "branch_miss_%": 1.8065408006000259,
+        "parallel_speedup": 5.088651399248601,
+        "file_read_speed_MB/s": 4769.043311411992,
+        "mp3_decode_speed_s/s": 25469.679140189848
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/74.mp3",
+          "format": "audio/mpeg",
+          "duration": 10.214,
+          "channels": 2,
+          "num_samples": 900864,
+          "sample_rate": 44100,
+          "file_size_bytes": 257921
+        },
+        "function_timings": {
+          "1": 129.23809523809524,
+          "2": 323.5238095238095,
+          "segments": 42,
+          "auto_det": 1557.2857142857142,
+          "file_read": 704.952380952381,
+          "dec_mp3": 693.7619047619048,
+          "init_window_function": 1.6666666666666667,
+          "STFT": 707,
+          "norm_all": 578.7619047619048,
+          "feat_extraction": 421.3333333333333,
+          "pred": 0.14285714285714285,
+          "initialize_mel_filter": 16.285714285714285,
+          "stft_no_log": 8770.666666666666,
+          "IO_Loop": 4894.714285714285
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.397508546,
+        "user_time": 1.829891,
+        "sys_time": 0.089369,
+        "cpu_utilized": 4.901,
+        "task_clock": 948.03,
+        "page_faults": 6348,
+        "instructions": 2714979165,
+        "cycles": 7019490356,
+        "stalled_cycles_frontend": 274031364,
+        "branches": 621111654,
+        "branch_misses": 14497531,
+        "system_time": 1.829891,
+        "ipc": 0.3867772483908802,
+        "branch_miss_%": 2.334126385591857,
+        "parallel_speedup": 4.603400400855784,
+        "file_read_speed_MB/s": 383.6426087824912,
+        "mp3_decode_speed_s/s": 14722.630242295283
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/392.mp3",
+          "format": "audio/mpeg",
+          "duration": 21.055,
+          "channels": 2,
+          "num_samples": 1857024,
+          "sample_rate": 44100,
+          "file_size_bytes": 341922
+        },
+        "function_timings": {
+          "1": 43.53488372093023,
+          "2": 39.2093023255814,
+          "segments": 86,
+          "auto_det": 637.8604651162791,
+          "file_read": 531.953488372093,
+          "dec_mp3": 464.86046511627904,
+          "init_window_function": 0.5116279069767442,
+          "STFT": 393.48837209302326,
+          "norm_all": 47.093023255813954,
+          "feat_extraction": 417.7674418604651,
+          "pred": 0.09302325581395349,
+          "initialize_mel_filter": 4.255813953488372,
+          "stft_no_log": 6630.720930232558,
+          "IO_Loop": 4537.302325581395
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.598473819,
+        "user_time": 3.123067,
+        "sys_time": 0.17776,
+        "cpu_utilized": 5.603,
+        "task_clock": 353.33,
+        "page_faults": 11827,
+        "instructions": 4978129843,
+        "cycles": 12076959816,
+        "stalled_cycles_frontend": 435459295,
+        "branches": 1121581869,
+        "branch_misses": 21982116,
+        "system_time": 3.123067,
+        "ipc": 0.4122005801828363,
+        "branch_miss_%": 1.959920769724925,
+        "parallel_speedup": 5.218385334246342,
+        "file_read_speed_MB/s": 673.9897583324298,
+        "mp3_decode_speed_s/s": 45293.16123868128
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/337.mp3",
+          "format": "audio/mpeg",
+          "duration": 7.344,
+          "channels": 1,
+          "num_samples": 352512,
+          "sample_rate": 48000,
+          "file_size_bytes": 299468
+        },
+        "function_timings": {
+          "1": 164.93333333333334,
+          "2": 124.4,
+          "segments": 30,
+          "auto_det": 3046.733333333333,
+          "file_read": 121.66666666666667,
+          "dec_mp3": 434.53333333333336,
+          "init_window_function": 1,
+          "STFT": 754.5333333333333,
+          "norm_all": 18.866666666666667,
+          "feat_extraction": 533.9333333333333,
+          "pred": 0.13333333333333333,
+          "initialize_mel_filter": 21.933333333333334,
+          "stft_no_log": 9158.533333333333,
+          "IO_Loop": 6260.266666666666
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.314448721,
+        "user_time": 1.447577,
+        "sys_time": 0.067919,
+        "cpu_utilized": 4.891,
+        "task_clock": 537.87,
+        "page_faults": 4800,
+        "instructions": 2047521621,
+        "cycles": 5653184545,
+        "stalled_cycles_frontend": 221210470,
+        "branches": 471722073,
+        "branch_misses": 11577803,
+        "system_time": 1.447577,
+        "ipc": 0.36218906435859155,
+        "branch_miss_%": 2.4543695668868986,
+        "parallel_speedup": 4.603539157025224,
+        "file_read_speed_MB/s": 2580.9448567232876,
+        "mp3_decode_speed_s/s": 16900.88984351028
+      }
+    }
+  ],
+  "Red-wattled Lapwing": [
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/83.mp3",
+          "format": "audio/mpeg",
+          "duration": 14.367,
+          "channels": 2,
+          "num_samples": 1267200,
+          "sample_rate": 44100,
+          "file_size_bytes": 350170
+        },
+        "function_timings": {
+          "1": 69.86206896551724,
+          "2": 129.31034482758622,
+          "segments": 58,
+          "auto_det": 1383.103448275862,
+          "file_read": 64.20689655172414,
+          "dec_mp3": 1263.0689655172414,
+          "init_window_function": 0.5172413793103449,
+          "STFT": 455.9310344827586,
+          "norm_all": 29.586206896551722,
+          "feat_extraction": 374.2758620689655,
+          "pred": 0.10344827586206896,
+          "initialize_mel_filter": 7.275862068965517,
+          "stft_no_log": 5918.379310344828,
+          "IO_Loop": 4844.6551724137935
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.425736618,
+        "user_time": 2.217164,
+        "sys_time": 0.105505,
+        "cpu_utilized": 5.552,
+        "task_clock": 363.59,
+        "page_faults": 8700,
+        "instructions": 3409322395,
+        "cycles": 8572837370,
+        "stalled_cycles_frontend": 274327348,
+        "branches": 767933294,
+        "branch_misses": 13578723,
+        "system_time": 2.217164,
+        "ipc": 0.397688915332824,
+        "branch_miss_%": 1.7682164721979095,
+        "parallel_speedup": 5.207830161322886,
+        "file_read_speed_MB/s": 5718.698109387755,
+        "mp3_decode_speed_s/s": 11374.675803325234
+      }
+    },
+    {
+      "function_data": {
+        "file_properties": {
+          "filePath": "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/44.mp3",
+          "format": "audio/mpeg",
+          "duration": 14.576,
+          "channels": 2,
+          "num_samples": 1285632,
+          "sample_rate": 44100,
+          "file_size_bytes": 462308
+        },
+        "function_timings": {
+          "1": 82.4,
+          "2": 273.6,
+          "segments": 60,
+          "auto_det": 1075.3,
+          "file_read": 473.5,
+          "dec_mp3": 565.0666666666667,
+          "init_window_function": 0.8666666666666667,
+          "STFT": 888.2,
+          "norm_all": 485.3,
+          "feat_extraction": 710.3666666666667,
+          "pred": 0.1,
+          "initialize_mel_filter": 11.966666666666667,
+          "stft_no_log": 6636.866666666667,
+          "IO_Loop": 4546.866666666667
+        }
+      },
+      "benchmarks": {
+        "elapsed_time": 0.479195159,
+        "user_time": 2.460998,
+        "sys_time": 0.132147,
+        "cpu_utilized": 5.494,
+        "task_clock": 632.73,
+        "page_faults": 9010,
+        "instructions": 3676511389,
+        "cycles": 9607413343,
+        "stalled_cycles_frontend": 318232099,
+        "branches": 835311962,
+        "branch_misses": 16637959,
+        "system_time": 2.460998,
+        "ipc": 0.38267442627299064,
+        "branch_miss_%": 1.9918257796959455,
+        "parallel_speedup": 5.135690446321893,
+        "file_read_speed_MB/s": 1023.7910737233368,
+        "mp3_decode_speed_s/s": 25795.186408683338
+      }
+    }
+  ],
+  "Song Thrush": [],
+  "Western Wood-Pewee": [],
+  "Whooper Swan": [],
+  "Yellowhammer": [],
+  "Common Kingfisher": [],
+  "Black Woodpecker": [],
+  "Blue Jay": [],
+  "Common blackbird": [],
+  "Common Chiffchaff": [],
+  "Common Cuckoo": []
+}

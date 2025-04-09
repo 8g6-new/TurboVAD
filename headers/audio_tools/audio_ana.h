@@ -12,7 +12,7 @@
     #include "../ml/model.h"
  
 
-    #define MAX_FN 1000
+    #define MAX_FILENAME_LENGTH 500
 
 
     #define MIN_HARMONIC 50
@@ -73,9 +73,9 @@
     
 
     typedef struct{
-        char wav_name[MAX_FN];
-        char stft_name[MAX_FN];
-        char mel_name[MAX_FN];
+        char wav_name[MAX_FILENAME_LENGTH];
+        char stft_name[MAX_FILENAME_LENGTH];
+        char mel_name[MAX_FILENAME_LENGTH];
         size_t t;
     } det;
    
@@ -101,18 +101,15 @@
 
     #define CLIP(x, min, max) (x < min ? min : (x > max ? max : x))
 
-
-
-
-    void             minmax(float comp, float *max, float *min);
-    void             minmax_parr(float *array, size_t size, float *min_val, float *max_val);
-    void             init_params_stft_stats(filter_param *params, stft_d *result, float fmin, float fmax);
-    float            norm(float *array, const size_t size,const float th);
-    size_t           hz_to_index(size_t num_freq, size_t sample_rate, float f);
-    float            index_to_hz(size_t num_freq, size_t sample_rate, size_t index);
-    res              *stft_pred(stft_d *result, filter_param *param,float th);
-    bool is_freq_feats_stats_zero(freq_feats_stats *feats);
-    bool is_freq_feats_zero(freq_feats *feats);
-    void free_stft_results(res *preds, size_t size);
+    void    minmax(float comp, float *max, float *min);
+    void    minmax_parr(float *array, size_t size, float *min_val, float *max_val);
+    void    init_params_stft_stats(filter_param *params, stft_d *result, float fmin, float fmax);
+    float   norm(float *array, const size_t size,const float th);
+    size_t  hz_to_index(size_t num_freq, size_t sample_rate, float f);
+    float   index_to_hz(size_t num_freq, size_t sample_rate, size_t index);
+    res     *stft_pred(stft_d *result, filter_param *param,float th);
+    bool    is_freq_feats_stats_zero(freq_feats_stats *feats);
+    bool    is_freq_feats_zero(freq_feats *feats);
+    void    free_res(res *preds, size_t size);
     
 #endif 

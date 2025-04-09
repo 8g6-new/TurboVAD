@@ -28,7 +28,7 @@ inline float sigmoid(float x) {
     return 1.0f / (1.0f + expf(-x));
 }
 
-void dot(const float input[4], const float W[16], float output[4]) {
+inline void dot(const float input[4], const float W[16], float output[4]) {
     memset(output, 0, sizeof(float) * 4);  
 
     for (size_t j = 0; j < 4; j++) {  

@@ -90,7 +90,7 @@ function parse_perf_output(output) {
 
 let spcs = {
     "input": '/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25/Blue Jay/1.mp3',
-    "window_size_pred": 4096,
+    "window_size_pred": 1024,
     "window_size_img": 512,
     "hop_size_pred": 128,
     "hop_size_img": 512,
@@ -224,7 +224,14 @@ async function run_all(inp,out,spcs,num_t,cs) {
                 multi_file_b[bird_name][t]["benchmark"].push(e-s)
                 
                 t++;
-                get_progress(avg/c,c,total,chunk.length,results.length,chunk.length,"",true)
+                get_progress(
+                    avg/c,
+                    c,
+                    total,
+                    chunk.length,
+                    results.length,
+                    "",
+                    true)
                 c+=chunk.length
             }
             catch(e){
@@ -248,7 +255,7 @@ async function run_all(inp,out,spcs,num_t,cs) {
     await run_all(
         "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25/",
         "./25_out",
-        spcs,3,1)
+        spcs,6,1)
 
     // await run_all(
     //         "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/Voice of Birds/",
