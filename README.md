@@ -14,24 +14,71 @@
 * **Ultra-fast processing** at ~1198x faster than real-time
 
 ## 📌 Technical Overview
-TurboVAD processes **8 spectral features** extracted from audio signals:
-1. Spectral Centroid
-2. Spectral Entropy
-3. Spectral Flatness
-4. Harmonic Noise Ratio
-5. Spectral Centroid SD
-6. Spectral Entropy SD
-7. Spectral Flatness SD
-8. Harmonic Noise Ratio SD
+
+TurboVAD processes **8 spectral-temporal features**:
+1. Spectral Centroid (μ + σ)
+2. Spectral Entropy (μ + σ)
+3. Spectral Flatness (μ + σ)
+4. Harmonic Noise Ratio (μ + σ)
 
 These features represent **mean (μ) and standard deviation (σ)** over a time frame, providing robust temporal characteristics for accurate classification.
 
 These features are processed using a **self-attention mechanism**, which assigns dynamic importance to each feature and refines classification using a softmax-based scoring system. The model is **specifically optimized for bird activity detection**, making it ideal for wildlife monitoring and ornithological research.
 
-## ⚡ Model Architecture
-* **Feature Extraction:** Precomputed spectral statistics
-* **Attention Mechanism:** Weights important features using learned attention matrices
-* **Classification:** A lightweight decision function with a sigmoid activation to determine voice presence
+
+## ⚡ Model Architecture and Data Pipeline
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '12px'}}}%%
+graph TD
+    %% Full Data Pipeline
+    A[Audio File] --> B[Audio MIME Detection]
+    B --> C{Format?}
+    C -->|MP3| D[MP3 Decoding]
+    C -->|WAV| E[WAV Decoding]
+    D --> F[STFT Analysis]
+    E --> F
+    F --> G[Feature Extraction]
+    G --> H[Attention Mechanism]
+    H --> I[Prediction]
+    I --> J{Activity Detected?}
+    J -->|Yes| K[Save Segment to WAV]
+    J -->|Yes| L[Save STFT Spectrogram]
+    J -->|No| M[Discard]
+
+    %% Attention Mechanism Details
+    subgraph Attention Mechanism
+        H --> N[Input Features<br/>μ1-4, σ1-4]
+        N --> O1[Mu Branch]
+        N --> O2[Sigma Branch]
+        
+        O1 --> P1[Dot Product<br/>W_mu]
+        O2 --> P2[Dot Product<br/>W_sigma]
+        
+        P1 --> Q1[Softmax]
+        P2 --> Q2[Softmax]
+        
+        Q1 --> R1[Linear Combination<br/>Classifier Weights]
+        Q2 --> R2[Linear Combination<br/>Classifier Weights]
+        
+        R1 --> S[Mu Score]
+        R2 --> T[Sigma Score]
+        
+        S --> U[Weighted Sum]
+        T --> U
+        U --> V[Sigmoid Activation]
+        V --> W[Prediction Threshold]
+    end
+
+    classDef process fill:#e1f5fe,stroke:#039be5;
+    classDef decision fill:#f0f4c3,stroke:#c0ca33;
+    classDef storage fill:#dcedc8,stroke:#689f38;
+    classDef attention fill:#f8bbd0,stroke:#c2185b;
+    
+    class A,B,C,D,E,F,G,H,J,M process;
+    class K,L storage;
+    class N,O1,O2,P1,P2,Q1,Q2,R1,R2,S,T,U,V,W attention;
+    class I,J decision;
 
 ## 📊 Benchmark Results
 
