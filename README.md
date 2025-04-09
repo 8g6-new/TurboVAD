@@ -141,6 +141,3 @@ Contributions are welcome! Feel free to open issues, submit PRs, or discuss impr
 
 ## About
 Spectral Feature Based Voice Activity Detection using Self Attention
-
-## Topics
-c, multithreading, fft, spectral-analysis, omp-parallel, voice-activity-detection, self-attention, bird-activity-detection
