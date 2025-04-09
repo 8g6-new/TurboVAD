@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scrollable Spectrogram Viewer</title>
+    <style>
+        .canvas-container {
+            position: relative;
+            width: 800px; /* Visible portion */
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 20px; /* Extra space for labels */
+        }
+        .canvas-wrapper {
+            position: relative;
+        }
+        .arrow {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 24px;
+            cursor: pointer;
+            background: rgba(0, 0, 0, 0.5);
+            color: white;
+            padding: 10px;
+            border: none;
+            z-index: 2;
+        }
+        .arrow-left { left: 5px; }
+        .arrow-right { right: 5px; }
+    </style>
+</head>
+<body>
+    <div id="spectrograms"></div>
+
+    <script>
+        function loadSpectrogram(imageSrc, maxTimeVal, maxFreqVal, dt, title) {
+            const container = document.getElementById("spectrograms");
+
+            const spectrogramContainer = document.createElement("div");
+            spectrogramContainer.className = "canvas-container";
+
+            const titleElement = document.createElement("h2");
+            titleElement.textContent = title;
+            spectrogramContainer.appendChild(titleElement);
+
+            const canvasWrapper = document.createElement("div");
+            canvasWrapper.className = "canvas-wrapper";
+
+            const canvas = document.createElement("canvas");
+            const ctx = canvas.getContext("2d");
+            const img = new Image();
+            img.src = imageSrc;
+
+            img.onload = function () {
+                const viewportWidth = 800; // Visible width
+                const imgWidth = img.width;
+                const imgHeight = img.height;
+
+                canvas.width = viewportWidth;
+                canvas.height = imgHeight + 50; // Extra space for labels
+
+                let offsetX = 0;
+
+                function draw() {
+                    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+                    // Draw the visible part of the image
+                    ctx.drawImage(img, offsetX, 0, viewportWidth, imgHeight, 0, 0, viewportWidth, imgHeight);
+
+                    // Draw grid and labels
+                    drawGrid(ctx, viewportWidth, imgHeight, maxTimeVal, maxFreqVal, dt);
+                }
+
+                function drawGrid(ctx, width, height, maxTime, maxFreq, dt) {
+                    ctx.strokeStyle = "rgba(255, 255, 255, 0.5)";
+                    ctx.lineWidth = 0.5;
+                    ctx.font = "14px Arial";
+                    ctx.fillStyle = "white";
+
+                    const timeStep = width / 10; // 10 time divisions
+                    const freqStep = height / 10; // 10 frequency divisions
+
+                    // **Time Axis**
+                    for (let i = 0; i <= 10; i++) {
+                        const x = i * timeStep;
+                        ctx.beginPath();
+                        ctx.moveTo(x, 0);
+                        ctx.lineTo(x, height);
+                        ctx.stroke();
+
+                        // **Time Labels (Corrected)**
+                        const timeLabel = ((offsetX + x) / imgWidth) * maxTime;
+                        ctx.fillText(timeLabel.toFixed(1) + "s", x + 5, height -1); // Adjusted placement
+                    }
+
+                    // **Frequency Axis**
+                    for (let i = 0; i <= 10; i++) {
+                        const y = i * freqStep;
+                        ctx.beginPath();
+                        ctx.moveTo(0, y);
+                        ctx.lineTo(width, y);
+                        ctx.stroke();
+
+                        // **Frequency Labels**
+                        const freqLabel = ((10 - i) / 10) * maxFreq;
+                        ctx.fillText(freqLabel.toFixed(0) + " Hz", 5, y - 5);
+                    }
+                }
+
+                draw();
+
+                // **Navigation Buttons**
+                const leftArrow = document.createElement("button");
+                leftArrow.className = "arrow arrow-left";
+                leftArrow.innerHTML = "&#9664;";
+                leftArrow.onclick = function () {
+                    if (offsetX > 0) {
+                        offsetX -= 100;
+                        draw();
+                    }
+                };
+
+                const rightArrow = document.createElement("button");
+                rightArrow.className = "arrow arrow-right";
+                rightArrow.innerHTML = "&#9654;";
+                rightArrow.onclick = function () {
+                    if (offsetX < imgWidth - viewportWidth) {
+                        offsetX += 100;
+                        draw();
+                    }
+                };
+
+                canvasWrapper.appendChild(canvas);
+                spectrogramContainer.appendChild(leftArrow);
+                spectrogramContainer.appendChild(canvasWrapper);
+                spectrogramContainer.appendChild(rightArrow);
+                container.appendChild(spectrogramContainer);
+            };
+        }
+
+        // **Load Spectrograms**
+        loadSpectrogram("1_log.png",66.586, 7500, 95.5, "Black Woodpecker (with log)");
+        loadSpectrogram("1_stft.png", 66.586, 7500, 95.5, "Black Woodpecker (without log)");
+    </script>
+</body>
+</html>
