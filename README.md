@@ -66,7 +66,7 @@ TurboVAD accepts the following parameters:
 - **mel_fol:** Path to the Mel spectrogram cache folder.
 - **cache_fol:** Path to the FFT cache folder .
 - **cs_stft:** color scheme ID for visualization output STFT.
-- **cs_mel:**color scheme ID for visualization output MEl Spectrogram.
+- **cs_mel:** color scheme ID for visualization output MEl Spectrogram.
 - **th:** Audio filtration threshold. If set to `0`, the STFT is filtered dynamically to remove noise. It is recommended that the default value for noisy data be 0.01.
 
 ## 🛠️ Future Improvements
