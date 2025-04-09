@@ -79,6 +79,7 @@ graph TD
     class K,L storage;
     class N,O1,O2,P1,P2,Q1,Q2,R1,R2,S,T,U,V,W attention;
     class I,J decision;
+```
 
 ## 📊 Benchmark Results
 
