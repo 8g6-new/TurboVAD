@@ -10,15 +10,15 @@ inline  double mel_to_hz(double m, float mid_f) {
 
 inline void free_fft(fft_d *fft) {
     if (fft) {
-        if (fft->plan) {
+        if (fft->plan!=NULL) {
             fftwf_destroy_plan(fft->plan);
             fft->plan = NULL;
         }
-        if (fft->in) {
+        if (fft->in!=NULL) {
             fftwf_free(fft->in);
             fft->in = NULL;
         }
-        if (fft->out) {
+        if (fft->out!=NULL) {
             fftwf_free(fft->out);
             fft->out = NULL;
         }
@@ -288,7 +288,7 @@ inline stft_d stft(audio_data *audio, size_t window_size, size_t hop_size, float
         fft_d *thread_fft = &thread_ffts[thread_id];
 
         if (thread_fft->plan) {
-            #pragma omp for schedule(dynamic, 2000)
+            #pragma omp for 
             for (size_t i = 0; i < max_i; i++) {
                 const size_t start_idx = i * hop_size ;
 

@@ -47,7 +47,7 @@ LIBFLAGS = -DMINIMP3_FLOAT_OUTPUT -fopenmp
 
 WARNFLAGS = -Wall -Wextra 
 
-CFLAGS = $(WARNFLAGS) $(OPTFLAGS) $(VECFLAGS) $(LIBFLAGS)
+CFLAGS = $(WARNFLAGS) $(OPTFLAGS)  $(VECFLAGS) $(LIBFLAGS)
 LDFLAGS = -lm -lfftw3 -lfftw3f -lsndfile -lpng -lopenblas 
 
 # Directory structure
@@ -103,7 +103,7 @@ endif
 # Parameters for running the program
 FOL = "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25/Blue Jay/"
 FILE = "0.mp3"
-PARAMS = ${FOL}${FILE} 512 2048 128 128 "hann" "hann" 0.5 256 0 7500 \
+PARAMS = ${FOL}${FILE} 4096 2048 128 128 "hann" "hann" 0.5 256 0 7500 \
          "./out/wav" "./out/stft" "./out/mel" "./cache/FFT" 89 89 0.01
 
 # Phony targets

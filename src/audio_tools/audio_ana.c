@@ -448,7 +448,7 @@ res *stft_pred(stft_d *result, filter_param *param,float th) {
     
     START_TIMING(); 
   
-    #pragma omp parallel for 
+    #pragma omp parallel for   
     for (size_t t = 0; t < param->output_size; t++) {
         preds[t].stats    = freq_feats_time_avg(param,result,t);
         
@@ -467,7 +467,7 @@ res *stft_pred(stft_d *result, filter_param *param,float th) {
     }
     END_TIMING("feat_extraction");
     
-    START_TIMING(); 
+    START_TIMING();
     for (size_t t = 0; t < param->output_size; t++) {
         preds[t].preds = preds[t].all_zero ? 
             (pred_t){.val=0, .pred=false} : model(input[t]);

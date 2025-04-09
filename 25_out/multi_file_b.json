@@ -3,21 +3,201 @@
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/294.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/114.mp3"
         ]
       ],
       "benchmark": [
-        1638.327996
+        231.705822
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/284.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/289.mp3"
         ]
       ],
       "benchmark": [
-        413.5694080000003
+        130.55151899999998
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/188.mp3"
+        ]
+      ],
+      "benchmark": [
+        145.414762
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/74.mp3"
+        ]
+      ],
+      "benchmark": [
+        189.31351999999993
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/218.mp3"
+        ]
+      ],
+      "benchmark": [
+        315.62196900000004
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/25.mp3"
+        ]
+      ],
+      "benchmark": [
+        322.7978870000002
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/14.mp3"
+        ]
+      ],
+      "benchmark": [
+        290.56311500000015
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/81.mp3"
+        ]
+      ],
+      "benchmark": [
+        181.42903800000022
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/172.mp3"
+        ]
+      ],
+      "benchmark": [
+        293.8468720000001
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/48.mp3"
+        ]
+      ],
+      "benchmark": [
+        289.52312900000015
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/98.mp3"
+        ]
+      ],
+      "benchmark": [
+        336.3382929999998
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/46.mp3"
+        ]
+      ],
+      "benchmark": [
+        387.4162460000002
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/267.mp3"
+        ]
+      ],
+      "benchmark": [
+        94.09533699999974
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/273.mp3"
+        ]
+      ],
+      "benchmark": [
+        332.4638980000004
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/177.mp3"
+        ]
+      ],
+      "benchmark": [
+        135.3272049999996
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/140.mp3"
+        ]
+      ],
+      "benchmark": [
+        198.23334599999998
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/292.mp3"
+        ]
+      ],
+      "benchmark": [
+        247.6753749999998
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/214.mp3"
+        ]
+      ],
+      "benchmark": [
+        258.8436750000001
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/75.mp3"
+        ]
+      ],
+      "benchmark": [
+        241.55998099999942
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/32.mp3"
+        ]
+      ],
+      "benchmark": [
+        114.57047199999943
       ]
     },
     {
@@ -27,37 +207,97 @@
         ]
       ],
       "benchmark": [
-        1568.9180339999998
+        208.99680200000057
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/156.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/194.mp3"
         ]
       ],
       "benchmark": [
-        1095.590139
+        199.33782399999927
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/136.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/134.mp3"
         ]
       ],
       "benchmark": [
-        1208.1116010000005
+        373.7612489999992
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/264.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/126.mp3"
         ]
       ],
       "benchmark": [
-        1943.9196419999998
+        149.27369799999997
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/67.mp3"
+        ]
+      ],
+      "benchmark": [
+        285.7605859999994
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/258.mp3"
+        ]
+      ],
+      "benchmark": [
+        211.81674399999974
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/253.mp3"
+        ]
+      ],
+      "benchmark": [
+        315.5676739999999
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/116.mp3"
+        ]
+      ],
+      "benchmark": [
+        398.41733400000066
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/207.mp3"
+        ]
+      ],
+      "benchmark": [
+        151.25280500000008
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Nightingale/61.mp3"
+        ]
+      ],
+      "benchmark": [
+        336.29979900000035
       ]
     }
   ],
@@ -65,11 +305,11 @@
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/54.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/39.mp3"
         ]
       ],
       "benchmark": [
-        1376.5818799999997
+        203.60925700000007
       ]
     },
     {
@@ -79,27 +319,57 @@
         ]
       ],
       "benchmark": [
-        891.9922370000004
+        188.699176000001
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/34.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/160.mp3"
         ]
       ],
       "benchmark": [
-        967.9084970000004
+        248.8392359999998
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/218.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/27.mp3"
         ]
       ],
       "benchmark": [
-        2402.7916430000005
+        128.64560999999958
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/2.mp3"
+        ]
+      ],
+      "benchmark": [
+        204.17175099999986
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/56.mp3"
+        ]
+      ],
+      "benchmark": [
+        198.86536100000012
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/167.mp3"
+        ]
+      ],
+      "benchmark": [
+        236.58901199999855
       ]
     },
     {
@@ -109,17 +379,227 @@
         ]
       ],
       "benchmark": [
-        1035.2967690000005
+        202.38789599999836
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/245.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/170.mp3"
         ]
       ],
       "benchmark": [
-        681.6601520000004
+        232.46656299999995
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/282.mp3"
+        ]
+      ],
+      "benchmark": [
+        119.57089700000142
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/28.mp3"
+        ]
+      ],
+      "benchmark": [
+        163.17188700000042
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/40.mp3"
+        ]
+      ],
+      "benchmark": [
+        126.89570900000035
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/97.mp3"
+        ]
+      ],
+      "benchmark": [
+        115.83381400000144
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/179.mp3"
+        ]
+      ],
+      "benchmark": [
+        225.6850969999996
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/61.mp3"
+        ]
+      ],
+      "benchmark": [
+        288.86408800000027
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/18.mp3"
+        ]
+      ],
+      "benchmark": [
+        135.73600400000032
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/17.mp3"
+        ]
+      ],
+      "benchmark": [
+        70.87234700000045
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/201.mp3"
+        ]
+      ],
+      "benchmark": [
+        296.45708299999933
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/213.mp3"
+        ]
+      ],
+      "benchmark": [
+        197.04408499999954
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/259.mp3"
+        ]
+      ],
+      "benchmark": [
+        188.95044499999858
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/89.mp3"
+        ]
+      ],
+      "benchmark": [
+        329.85971400000017
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/141.mp3"
+        ]
+      ],
+      "benchmark": [
+        222.71264299999893
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/73.mp3"
+        ]
+      ],
+      "benchmark": [
+        167.90522099999907
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/13.mp3"
+        ]
+      ],
+      "benchmark": [
+        95.86917300000096
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/196.mp3"
+        ]
+      ],
+      "benchmark": [
+        65.14290099999926
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/230.mp3"
+        ]
+      ],
+      "benchmark": [
+        294.9175240000004
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/271.mp3"
+        ]
+      ],
+      "benchmark": [
+        208.0311980000006
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/116.mp3"
+        ]
+      ],
+      "benchmark": [
+        300.56455300000016
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/59.mp3"
+        ]
+      ],
+      "benchmark": [
+        204.7056990000001
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Redstart/176.mp3"
+        ]
+      ],
+      "benchmark": [
+        206.74859900000047
       ]
     }
   ],
@@ -127,61 +607,301 @@
     {
       "files": [
         [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/491.mp3"
+        ]
+      ],
+      "benchmark": [
+        122.81634200000008
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/336.mp3"
+        ]
+      ],
+      "benchmark": [
+        101.01306300000033
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/111.mp3"
+        ]
+      ],
+      "benchmark": [
+        70.52458299999853
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/74.mp3"
+        ]
+      ],
+      "benchmark": [
+        219.77311200000076
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/373.mp3"
+        ]
+      ],
+      "benchmark": [
+        148.65431399999943
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/431.mp3"
+        ]
+      ],
+      "benchmark": [
+        129.9747470000002
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/61.mp3"
+        ]
+      ],
+      "benchmark": [
+        1241.151092
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/223.mp3"
+        ]
+      ],
+      "benchmark": [
+        125.48967500000072
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/106.mp3"
+        ]
+      ],
+      "benchmark": [
+        176.0555089999998
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/218.mp3"
+        ]
+      ],
+      "benchmark": [
+        192.98453399999926
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/365.mp3"
+        ]
+      ],
+      "benchmark": [
+        128.53557900000123
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/323.mp3"
+        ]
+      ],
+      "benchmark": [
+        48.30757299999823
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/325.mp3"
+        ]
+      ],
+      "benchmark": [
+        142.11159500000213
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/166.mp3"
+        ]
+      ],
+      "benchmark": [
+        167.82314399999814
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/439.mp3"
+        ]
+      ],
+      "benchmark": [
+        231.3081999999995
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/102.mp3"
+        ]
+      ],
+      "benchmark": [
+        412.8136430000013
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/132.mp3"
+        ]
+      ],
+      "benchmark": [
+        902.8297139999995
+      ]
+    },
+    {
+      "files": [
+        [
           "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/254.mp3"
         ]
       ],
       "benchmark": [
-        913.7789840000005
+        151.24096100000315
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/322.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/299.mp3"
         ]
       ],
       "benchmark": [
-        985.8412469999985
+        281.99662700000044
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/489.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/114.mp3"
         ]
       ],
       "benchmark": [
-        811.2154090000004
+        113.66754799999762
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/378.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/445.mp3"
         ]
       ],
       "benchmark": [
-        3611.6955119999984
+        158.77548399999796
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/425.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/426.mp3"
         ]
       ],
       "benchmark": [
-        492.90391199999794
+        144.2393950000005
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/462.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/496.mp3"
         ]
       ],
       "benchmark": [
-        218.77766600000177
+        89.71224000000075
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/480.mp3"
+        ]
+      ],
+      "benchmark": [
+        74.6698060000017
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/255.mp3"
+        ]
+      ],
+      "benchmark": [
+        284.22799699999814
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/143.mp3"
+        ]
+      ],
+      "benchmark": [
+        102.9230979999993
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/243.mp3"
+        ]
+      ],
+      "benchmark": [
+        303.0276329999979
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/81.mp3"
+        ]
+      ],
+      "benchmark": [
+        164.3977960000011
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/38.mp3"
+        ]
+      ],
+      "benchmark": [
+        192.95770300000004
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Whitethroat/253.mp3"
+        ]
+      ],
+      "benchmark": [
+        298.9080490000015
       ]
     }
   ],
@@ -189,11 +909,61 @@
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/159.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/116.mp3"
         ]
       ],
       "benchmark": [
-        701.8472650000003
+        49.665735999999015
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/173.mp3"
+        ]
+      ],
+      "benchmark": [
+        81.81720899999709
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/86.mp3"
+        ]
+      ],
+      "benchmark": [
+        288.17677399999957
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/54.mp3"
+        ]
+      ],
+      "benchmark": [
+        61.261961000000156
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/151.mp3"
+        ]
+      ],
+      "benchmark": [
+        72.87751399999979
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/130.mp3"
+        ]
+      ],
+      "benchmark": [
+        54.42238600000201
       ]
     },
     {
@@ -203,7 +973,77 @@
         ]
       ],
       "benchmark": [
-        1709.9993990000003
+        280.21670000000086
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/136.mp3"
+        ]
+      ],
+      "benchmark": [
+        399.65475199999855
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/125.mp3"
+        ]
+      ],
+      "benchmark": [
+        349.43221300000005
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/169.mp3"
+        ]
+      ],
+      "benchmark": [
+        159.61328199999843
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/138.mp3"
+        ]
+      ],
+      "benchmark": [
+        165.49927799999932
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/25.mp3"
+        ]
+      ],
+      "benchmark": [
+        234.75327599999946
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/101.mp3"
+        ]
+      ],
+      "benchmark": [
+        253.6633729999994
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/32.mp3"
+        ]
+      ],
+      "benchmark": [
+        176.62262099999862
       ]
     },
     {
@@ -213,17 +1053,7 @@
         ]
       ],
       "benchmark": [
-        788.1547900000005
-      ]
-    },
-    {
-      "files": [
-        [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/93.mp3"
-        ]
-      ],
-      "benchmark": [
-        187.87664199999926
+        135.0528290000002
       ]
     },
     {
@@ -233,17 +1063,147 @@
         ]
       ],
       "benchmark": [
-        2204.2183699999987
+        354.13458900000114
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/87.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/170.mp3"
         ]
       ],
       "benchmark": [
-        1439.6598510000003
+        232.15354300000035
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/97.mp3"
+        ]
+      ],
+      "benchmark": [
+        79.75215699999899
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/98.mp3"
+        ]
+      ],
+      "benchmark": [
+        113.93314400000236
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/164.mp3"
+        ]
+      ],
+      "benchmark": [
+        726.3352840000007
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/49.mp3"
+        ]
+      ],
+      "benchmark": [
+        130.95831299999918
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/117.mp3"
+        ]
+      ],
+      "benchmark": [
+        218.92166400000133
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/83.mp3"
+        ]
+      ],
+      "benchmark": [
+        80.94549499999994
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/109.mp3"
+        ]
+      ],
+      "benchmark": [
+        57.85076000000117
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/111.mp3"
+        ]
+      ],
+      "benchmark": [
+        93.79722700000275
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/68.mp3"
+        ]
+      ],
+      "benchmark": [
+        407.9173039999987
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/133.mp3"
+        ]
+      ],
+      "benchmark": [
+        322.67382400000133
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/57.mp3"
+        ]
+      ],
+      "benchmark": [
+        93.97360399999889
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/42.mp3"
+        ]
+      ],
+      "benchmark": [
+        791.2141479999991
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Crested Lark/112.mp3"
+        ]
+      ],
+      "benchmark": [
+        85.29288299999826
       ]
     }
   ],
@@ -251,41 +1211,81 @@
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/134.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/165.mp3"
         ]
       ],
       "benchmark": [
-        817.9137240000018
+        144.61563300000125
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/188.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/95.mp3"
         ]
       ],
       "benchmark": [
-        636.8541449999975
+        673.4346409999998
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/116.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/104.mp3"
         ]
       ],
       "benchmark": [
-        1793.5679640000017
+        172.36013399999865
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/24.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/152.mp3"
         ]
       ],
       "benchmark": [
-        1803.5000929999987
+        216.24998400000186
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/60.mp3"
+        ]
+      ],
+      "benchmark": [
+        71.40243800000098
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/232.mp3"
+        ]
+      ],
+      "benchmark": [
+        239.3268339999995
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/279.mp3"
+        ]
+      ],
+      "benchmark": [
+        134.55301399999735
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/178.mp3"
+        ]
+      ],
+      "benchmark": [
+        140.5618340000001
       ]
     },
     {
@@ -295,7 +1295,127 @@
         ]
       ],
       "benchmark": [
-        1674.5774329999986
+        130.26843599999847
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/294.mp3"
+        ]
+      ],
+      "benchmark": [
+        78.62670799999978
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/10.mp3"
+        ]
+      ],
+      "benchmark": [
+        134.7413439999982
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/37.mp3"
+        ]
+      ],
+      "benchmark": [
+        270.12797000000137
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/248.mp3"
+        ]
+      ],
+      "benchmark": [
+        194.16647900000316
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/293.mp3"
+        ]
+      ],
+      "benchmark": [
+        192.69888699999865
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/208.mp3"
+        ]
+      ],
+      "benchmark": [
+        369.3380980000002
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/238.mp3"
+        ]
+      ],
+      "benchmark": [
+        286.7104330000002
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/114.mp3"
+        ]
+      ],
+      "benchmark": [
+        252.43710999999894
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/207.mp3"
+        ]
+      ],
+      "benchmark": [
+        368.1746779999994
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/163.mp3"
+        ]
+      ],
+      "benchmark": [
+        106.05106700000033
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/54.mp3"
+        ]
+      ],
+      "benchmark": [
+        75.15029199999844
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/258.mp3"
+        ]
+      ],
+      "benchmark": [
+        263.4635679999992
       ]
     },
     {
@@ -305,7 +1425,87 @@
         ]
       ],
       "benchmark": [
-        1479.6567759999962
+        187.5496779999994
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/46.mp3"
+        ]
+      ],
+      "benchmark": [
+        388.3155939999997
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/147.mp3"
+        ]
+      ],
+      "benchmark": [
+        365.0251059999973
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/93.mp3"
+        ]
+      ],
+      "benchmark": [
+        92.68391100000372
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/162.mp3"
+        ]
+      ],
+      "benchmark": [
+        174.7778879999969
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/135.mp3"
+        ]
+      ],
+      "benchmark": [
+        270.0740960000039
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/259.mp3"
+        ]
+      ],
+      "benchmark": [
+        259.6733329999988
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/197.mp3"
+        ]
+      ],
+      "benchmark": [
+        56.431729999996605
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Blackcap/233.mp3"
+        ]
+      ],
+      "benchmark": [
+        180.71033200000238
       ]
     }
   ],
@@ -313,11 +1513,11 @@
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/62.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/0.mp3"
         ]
       ],
       "benchmark": [
-        1966.7062809999989
+        1650.8624189999973
       ]
     },
     {
@@ -327,7 +1527,147 @@
         ]
       ],
       "benchmark": [
-        621.6925639999972
+        165.84903399999894
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/119.mp3"
+        ]
+      ],
+      "benchmark": [
+        323.69854699999996
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/49.mp3"
+        ]
+      ],
+      "benchmark": [
+        220.0821569999971
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/113.mp3"
+        ]
+      ],
+      "benchmark": [
+        222.7384879999954
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/65.mp3"
+        ]
+      ],
+      "benchmark": [
+        144.20471800000087
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/115.mp3"
+        ]
+      ],
+      "benchmark": [
+        188.99366400000144
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/110.mp3"
+        ]
+      ],
+      "benchmark": [
+        407.7373759999973
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/120.mp3"
+        ]
+      ],
+      "benchmark": [
+        172.25933000000077
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/89.mp3"
+        ]
+      ],
+      "benchmark": [
+        312.8902459999954
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/94.mp3"
+        ]
+      ],
+      "benchmark": [
+        571.0766690000019
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/26.mp3"
+        ]
+      ],
+      "benchmark": [
+        433.62059299999964
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/104.mp3"
+        ]
+      ],
+      "benchmark": [
+        239.59581600000092
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/1.mp3"
+        ]
+      ],
+      "benchmark": [
+        265.7005659999995
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/7.mp3"
+        ]
+      ],
+      "benchmark": [
+        444.91985099999874
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/24.mp3"
+        ]
+      ],
+      "benchmark": [
+        195.02764100000059
       ]
     },
     {
@@ -337,37 +1677,137 @@
         ]
       ],
       "benchmark": [
-        6907.491914999999
+        1855.209702
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/69.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/44.mp3"
         ]
       ],
       "benchmark": [
-        792.6589559999993
+        397.93976300000213
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/27.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/118.mp3"
         ]
       ],
       "benchmark": [
-        4421.849691999996
+        160.2290060000014
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/56.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/51.mp3"
         ]
       ],
       "benchmark": [
-        4503.209369999997
+        227.84465400000045
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/71.mp3"
+        ]
+      ],
+      "benchmark": [
+        136.42539699999907
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/82.mp3"
+        ]
+      ],
+      "benchmark": [
+        167.49407300000166
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/121.mp3"
+        ]
+      ],
+      "benchmark": [
+        365.5482420000044
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/52.mp3"
+        ]
+      ],
+      "benchmark": [
+        426.40204300000187
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/114.mp3"
+        ]
+      ],
+      "benchmark": [
+        231.39379899999767
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/46.mp3"
+        ]
+      ],
+      "benchmark": [
+        557.7357709999997
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/23.mp3"
+        ]
+      ],
+      "benchmark": [
+        641.2870879999973
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/96.mp3"
+        ]
+      ],
+      "benchmark": [
+        217.1968790000028
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/112.mp3"
+        ]
+      ],
+      "benchmark": [
+        172.7226029999947
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Eagle-Owl/116.mp3"
+        ]
+      ],
+      "benchmark": [
+        199.8165119999976
       ]
     }
   ],
@@ -375,41 +1815,141 @@
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/195.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/99.mp3"
         ]
       ],
       "benchmark": [
-        958.1339050000024
+        443.771388000001
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/59.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/117.mp3"
         ]
       ],
       "benchmark": [
-        437.6811600000001
+        651.422725000004
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/100.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/110.mp3"
         ]
       ],
       "benchmark": [
-        5467.548296000001
+        51.85943199999747
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/153.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/128.mp3"
         ]
       ],
       "benchmark": [
-        1880.4694369999997
+        75.41639900000155
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/178.mp3"
+        ]
+      ],
+      "benchmark": [
+        124.08769600000232
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/142.mp3"
+        ]
+      ],
+      "benchmark": [
+        151.5474830000021
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/82.mp3"
+        ]
+      ],
+      "benchmark": [
+        428.7506450000001
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/50.mp3"
+        ]
+      ],
+      "benchmark": [
+        48.69258799999807
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/185.mp3"
+        ]
+      ],
+      "benchmark": [
+        142.89342300000135
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/161.mp3"
+        ]
+      ],
+      "benchmark": [
+        73.89745000000403
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/197.mp3"
+        ]
+      ],
+      "benchmark": [
+        150.50148699999409
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/138.mp3"
+        ]
+      ],
+      "benchmark": [
+        345.0309350000025
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/175.mp3"
+        ]
+      ],
+      "benchmark": [
+        71.9306460000007
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/147.mp3"
+        ]
+      ],
+      "benchmark": [
+        182.14866600000096
       ]
     },
     {
@@ -419,17 +1959,157 @@
         ]
       ],
       "benchmark": [
-        670.9267300000065
+        141.42647299999953
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/2.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/0.mp3"
         ]
       ],
       "benchmark": [
-        931.2421230000036
+        103.18121900000551
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/13.mp3"
+        ]
+      ],
+      "benchmark": [
+        86.0466510000042
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/32.mp3"
+        ]
+      ],
+      "benchmark": [
+        368.35599899999943
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/91.mp3"
+        ]
+      ],
+      "benchmark": [
+        148.89076100000239
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/106.mp3"
+        ]
+      ],
+      "benchmark": [
+        528.2377699999997
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/131.mp3"
+        ]
+      ],
+      "benchmark": [
+        158.69124900000315
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/61.mp3"
+        ]
+      ],
+      "benchmark": [
+        184.94205800000054
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/165.mp3"
+        ]
+      ],
+      "benchmark": [
+        113.7581680000003
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/169.mp3"
+        ]
+      ],
+      "benchmark": [
+        116.55253200000152
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/183.mp3"
+        ]
+      ],
+      "benchmark": [
+        133.8605499999976
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/65.mp3"
+        ]
+      ],
+      "benchmark": [
+        190.09596600000077
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/62.mp3"
+        ]
+      ],
+      "benchmark": [
+        145.9652769999957
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/14.mp3"
+        ]
+      ],
+      "benchmark": [
+        197.5674380000055
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/152.mp3"
+        ]
+      ],
+      "benchmark": [
+        203.97518900000432
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Hoopoe/87.mp3"
+        ]
+      ],
+      "benchmark": [
+        140.4541360000003
       ]
     }
   ],
@@ -437,61 +2117,301 @@
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/225.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/114.mp3"
         ]
       ],
       "benchmark": [
-        1572.457779999997
+        280.4935719999994
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/99.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/115.mp3"
         ]
       ],
       "benchmark": [
-        2805.0378800000035
+        279.2930799999958
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/270.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/68.mp3"
         ]
       ],
       "benchmark": [
-        2110.4488509999937
+        130.36649100000068
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/35.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/249.mp3"
         ]
       ],
       "benchmark": [
-        3943.937678000002
+        92.96658000000025
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/212.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/58.mp3"
         ]
       ],
       "benchmark": [
-        3562.7411969999957
+        238.15214800000103
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/208.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/159.mp3"
         ]
       ],
       "benchmark": [
-        552.9654849999934
+        149.15696899999602
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/42.mp3"
+        ]
+      ],
+      "benchmark": [
+        75.84982599999785
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/247.mp3"
+        ]
+      ],
+      "benchmark": [
+        213.01553599999897
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/143.mp3"
+        ]
+      ],
+      "benchmark": [
+        150.80031600000075
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/338.mp3"
+        ]
+      ],
+      "benchmark": [
+        225.82308399999602
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/154.mp3"
+        ]
+      ],
+      "benchmark": [
+        148.6689869999973
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/0.mp3"
+        ]
+      ],
+      "benchmark": [
+        122.84613499999978
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/147.mp3"
+        ]
+      ],
+      "benchmark": [
+        71.26259999999456
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/171.mp3"
+        ]
+      ],
+      "benchmark": [
+        118.82985899999767
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/258.mp3"
+        ]
+      ],
+      "benchmark": [
+        212.16758699999627
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/330.mp3"
+        ]
+      ],
+      "benchmark": [
+        328.10784100000456
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/188.mp3"
+        ]
+      ],
+      "benchmark": [
+        640.7709679999971
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/281.mp3"
+        ]
+      ],
+      "benchmark": [
+        192.31926899999962
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/157.mp3"
+        ]
+      ],
+      "benchmark": [
+        120.18131900000299
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/248.mp3"
+        ]
+      ],
+      "benchmark": [
+        50.769131000000925
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/63.mp3"
+        ]
+      ],
+      "benchmark": [
+        316.9841959999976
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/6.mp3"
+        ]
+      ],
+      "benchmark": [
+        69.15000699999655
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/111.mp3"
+        ]
+      ],
+      "benchmark": [
+        206.88983200000075
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/272.mp3"
+        ]
+      ],
+      "benchmark": [
+        663.2263009999951
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/321.mp3"
+        ]
+      ],
+      "benchmark": [
+        156.0892309999981
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/206.mp3"
+        ]
+      ],
+      "benchmark": [
+        118.92725500000233
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/8.mp3"
+        ]
+      ],
+      "benchmark": [
+        91.93430899999657
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/315.mp3"
+        ]
+      ],
+      "benchmark": [
+        362.3512249999985
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/52.mp3"
+        ]
+      ],
+      "benchmark": [
+        131.85998200000176
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Skylark/165.mp3"
+        ]
+      ],
+      "benchmark": [
+        198.7573379999958
       ]
     }
   ],
@@ -499,61 +2419,301 @@
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/117.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/71.mp3"
         ]
       ],
       "benchmark": [
-        317.7927950000012
+        200.2678109999979
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/31.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/40.mp3"
         ]
       ],
       "benchmark": [
-        722.9990359999938
+        192.1054609999992
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/43.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/93.mp3"
         ]
       ],
       "benchmark": [
-        606.8633249999984
+        151.1950380000053
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/218.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/135.mp3"
         ]
       ],
       "benchmark": [
-        1007.5354709999956
+        247.95494800000597
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/2.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/293.mp3"
         ]
       ],
       "benchmark": [
-        223.34507199999643
+        103.69075999999768
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/271.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/255.mp3"
         ]
       ],
       "benchmark": [
-        333.50315299999784
+        120.11497099999542
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/136.mp3"
+        ]
+      ],
+      "benchmark": [
+        118.96828300000197
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/265.mp3"
+        ]
+      ],
+      "benchmark": [
+        138.84229899999627
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/6.mp3"
+        ]
+      ],
+      "benchmark": [
+        176.43537900000229
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/297.mp3"
+        ]
+      ],
+      "benchmark": [
+        112.62513400000171
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/273.mp3"
+        ]
+      ],
+      "benchmark": [
+        171.78099400000065
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/215.mp3"
+        ]
+      ],
+      "benchmark": [
+        220.7171359999993
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/34.mp3"
+        ]
+      ],
+      "benchmark": [
+        162.01002300000255
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/130.mp3"
+        ]
+      ],
+      "benchmark": [
+        190.96009399999457
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/244.mp3"
+        ]
+      ],
+      "benchmark": [
+        205.1930629999988
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/216.mp3"
+        ]
+      ],
+      "benchmark": [
+        182.16640899999766
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/160.mp3"
+        ]
+      ],
+      "benchmark": [
+        283.81458900000143
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/41.mp3"
+        ]
+      ],
+      "benchmark": [
+        84.57431899999938
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/249.mp3"
+        ]
+      ],
+      "benchmark": [
+        381.9650729999994
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/220.mp3"
+        ]
+      ],
+      "benchmark": [
+        147.96360000000277
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/198.mp3"
+        ]
+      ],
+      "benchmark": [
+        104.45398600000044
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/83.mp3"
+        ]
+      ],
+      "benchmark": [
+        165.51644600000145
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/274.mp3"
+        ]
+      ],
+      "benchmark": [
+        191.38036600000487
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/259.mp3"
+        ]
+      ],
+      "benchmark": [
+        239.66348100000323
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/13.mp3"
+        ]
+      ],
+      "benchmark": [
+        116.86790299999848
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/47.mp3"
+        ]
+      ],
+      "benchmark": [
+        55.605892999999924
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/157.mp3"
+        ]
+      ],
+      "benchmark": [
+        98.15687600000092
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/39.mp3"
+        ]
+      ],
+      "benchmark": [
+        230.62365599999612
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/74.mp3"
+        ]
+      ],
+      "benchmark": [
+        365.194951999998
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Eurasian Wren/98.mp3"
+        ]
+      ],
+      "benchmark": [
+        107.48736699999426
       ]
     }
   ],
@@ -561,51 +2721,91 @@
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/220.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/261.mp3"
         ]
       ],
       "benchmark": [
-        2701.0344329999934
+        168.7115649999978
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/239.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/119.mp3"
         ]
       ],
       "benchmark": [
-        1540.5557520000002
+        147.15231199999835
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/94.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/275.mp3"
         ]
       ],
       "benchmark": [
-        1131.304050000006
+        81.87860399999772
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/140.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/255.mp3"
         ]
       ],
       "benchmark": [
-        1076.1127509999933
+        286.6604710000029
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/66.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/153.mp3"
         ]
       ],
       "benchmark": [
-        931.2365200000058
+        142.3767450000014
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/296.mp3"
+        ]
+      ],
+      "benchmark": [
+        311.76089299999876
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/35.mp3"
+        ]
+      ],
+      "benchmark": [
+        104.68430600000283
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/197.mp3"
+        ]
+      ],
+      "benchmark": [
+        282.37511000000086
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/38.mp3"
+        ]
+      ],
+      "benchmark": [
+        275.63408300000447
       ]
     },
     {
@@ -615,7 +2815,207 @@
         ]
       ],
       "benchmark": [
-        2907.2401379999937
+        299.5230140000058
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/50.mp3"
+        ]
+      ],
+      "benchmark": [
+        140.30673399999796
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/298.mp3"
+        ]
+      ],
+      "benchmark": [
+        272.66640899999766
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/219.mp3"
+        ]
+      ],
+      "benchmark": [
+        290.274768999996
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/182.mp3"
+        ]
+      ],
+      "benchmark": [
+        152.45990200000233
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/99.mp3"
+        ]
+      ],
+      "benchmark": [
+        153.50686100000166
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/96.mp3"
+        ]
+      ],
+      "benchmark": [
+        168.02450299999327
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/256.mp3"
+        ]
+      ],
+      "benchmark": [
+        161.4495120000065
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/206.mp3"
+        ]
+      ],
+      "benchmark": [
+        194.45298999999068
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/253.mp3"
+        ]
+      ],
+      "benchmark": [
+        160.38229500000307
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/294.mp3"
+        ]
+      ],
+      "benchmark": [
+        345.64727600000333
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/36.mp3"
+        ]
+      ],
+      "benchmark": [
+        261.5858569999982
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/4.mp3"
+        ]
+      ],
+      "benchmark": [
+        205.5282920000027
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/81.mp3"
+        ]
+      ],
+      "benchmark": [
+        188.87820900000224
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/230.mp3"
+        ]
+      ],
+      "benchmark": [
+        515.3989569999976
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/121.mp3"
+        ]
+      ],
+      "benchmark": [
+        238.64170999999624
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/120.mp3"
+        ]
+      ],
+      "benchmark": [
+        145.36346599999524
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/84.mp3"
+        ]
+      ],
+      "benchmark": [
+        87.68497699999716
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/191.mp3"
+        ]
+      ],
+      "benchmark": [
+        189.9677789999987
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/154.mp3"
+        ]
+      ],
+      "benchmark": [
+        166.11325399999623
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//European Robin/177.mp3"
+        ]
+      ],
+      "benchmark": [
+        212.09036800000467
       ]
     }
   ],
@@ -623,31 +3023,251 @@
     {
       "files": [
         [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/212.mp3"
+        ]
+      ],
+      "benchmark": [
+        76.3277880000096
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/254.mp3"
+        ]
+      ],
+      "benchmark": [
+        142.58988200000022
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/121.mp3"
+        ]
+      ],
+      "benchmark": [
+        136.14061099999526
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/99.mp3"
+        ]
+      ],
+      "benchmark": [
+        355.0648829999991
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/69.mp3"
+        ]
+      ],
+      "benchmark": [
+        143.37337800000387
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/167.mp3"
+        ]
+      ],
+      "benchmark": [
+        163.1639739999955
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/271.mp3"
+        ]
+      ],
+      "benchmark": [
+        219.443803999995
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/267.mp3"
+        ]
+      ],
+      "benchmark": [
+        107.76093799999217
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/42.mp3"
+        ]
+      ],
+      "benchmark": [
+        313.9108569999953
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/178.mp3"
+        ]
+      ],
+      "benchmark": [
+        214.56670400001167
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/240.mp3"
+        ]
+      ],
+      "benchmark": [
+        415.2020349999948
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/36.mp3"
+        ]
+      ],
+      "benchmark": [
+        198.60126799999853
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/223.mp3"
+        ]
+      ],
+      "benchmark": [
+        121.29501300000993
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/234.mp3"
+        ]
+      ],
+      "benchmark": [
+        192.20654099999228
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/14.mp3"
+        ]
+      ],
+      "benchmark": [
+        112.27362300000095
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/262.mp3"
+        ]
+      ],
+      "benchmark": [
+        160.8982490000053
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/211.mp3"
+        ]
+      ],
+      "benchmark": [
+        134.59448899999552
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/196.mp3"
+        ]
+      ],
+      "benchmark": [
+        229.33060499999556
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/237.mp3"
+        ]
+      ],
+      "benchmark": [
+        183.3870959999913
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/225.mp3"
+        ]
+      ],
+      "benchmark": [
+        139.68583800000488
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/170.mp3"
+        ]
+      ],
+      "benchmark": [
+        116.45028499999898
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/239.mp3"
+        ]
+      ],
+      "benchmark": [
+        428.24054199999955
+      ]
+    },
+    {
+      "files": [
+        [
           "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/181.mp3"
         ]
       ],
       "benchmark": [
-        2831.9494609999965
+        281.1846269999951
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/161.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/268.mp3"
         ]
       ],
       "benchmark": [
-        3363.978270000007
+        81.58789899999101
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/50.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/241.mp3"
         ]
       ],
       "benchmark": [
-        1532.357501999999
+        248.9179349999904
       ]
     },
     {
@@ -657,27 +3277,47 @@
         ]
       ],
       "benchmark": [
-        1095.5971720000089
+        127.37726300000213
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/155.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/135.mp3"
         ]
       ],
       "benchmark": [
-        2182.438909999997
+        315.08131000000867
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/176.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/218.mp3"
         ]
       ],
       "benchmark": [
-        1015.2274309999921
+        270.55414399999427
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/28.mp3"
+        ]
+      ],
+      "benchmark": [
+        294.255376000001
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Great Tit/226.mp3"
+        ]
+      ],
+      "benchmark": [
+        167.77731000000495
       ]
     }
   ],
@@ -685,31 +3325,171 @@
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/62.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/3.mp3"
         ]
       ],
       "benchmark": [
-        917.900152000002
+        134.43005500000436
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/71.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/105.mp3"
         ]
       ],
       "benchmark": [
-        1017.1779039999965
+        110.61114899998938
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/117.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/74.mp3"
         ]
       ],
       "benchmark": [
-        7282.1106639999925
+        110.7759129999904
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/40.mp3"
+        ]
+      ],
+      "benchmark": [
+        243.85549100000935
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/36.mp3"
+        ]
+      ],
+      "benchmark": [
+        58.65540299999702
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/87.mp3"
+        ]
+      ],
+      "benchmark": [
+        108.04594299999007
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/149.mp3"
+        ]
+      ],
+      "benchmark": [
+        173.18447100000049
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/133.mp3"
+        ]
+      ],
+      "benchmark": [
+        446.388202999995
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/148.mp3"
+        ]
+      ],
+      "benchmark": [
+        72.83674400000018
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/7.mp3"
+        ]
+      ],
+      "benchmark": [
+        102.64401100001123
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/96.mp3"
+        ]
+      ],
+      "benchmark": [
+        74.54785000000265
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/27.mp3"
+        ]
+      ],
+      "benchmark": [
+        85.59206100000301
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/108.mp3"
+        ]
+      ],
+      "benchmark": [
+        89.11771099999896
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/51.mp3"
+        ]
+      ],
+      "benchmark": [
+        58.04457800000091
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/81.mp3"
+        ]
+      ],
+      "benchmark": [
+        92.87837999999465
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/147.mp3"
+        ]
+      ],
+      "benchmark": [
+        73.16554099999485
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/143.mp3"
+        ]
+      ],
+      "benchmark": [
+        62.135456000003614
       ]
     },
     {
@@ -719,27 +3499,127 @@
         ]
       ],
       "benchmark": [
-        792.5155470000027
+        67.15789300001052
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/171.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/78.mp3"
         ]
       ],
       "benchmark": [
-        485.45510900000227
+        205.6815329999954
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/155.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/76.mp3"
         ]
       ],
       "benchmark": [
-        1943.404739000005
+        1580.1216240000067
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/59.mp3"
+        ]
+      ],
+      "benchmark": [
+        291.3674119999923
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/121.mp3"
+        ]
+      ],
+      "benchmark": [
+        49.46637300000293
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/141.mp3"
+        ]
+      ],
+      "benchmark": [
+        206.0461490000016
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/161.mp3"
+        ]
+      ],
+      "benchmark": [
+        123.45258100000501
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/20.mp3"
+        ]
+      ],
+      "benchmark": [
+        357.61615100000927
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/159.mp3"
+        ]
+      ],
+      "benchmark": [
+        386.6456920000055
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/25.mp3"
+        ]
+      ],
+      "benchmark": [
+        337.4056520000013
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/103.mp3"
+        ]
+      ],
+      "benchmark": [
+        1086.7453069999901
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/56.mp3"
+        ]
+      ],
+      "benchmark": [
+        77.91618900001049
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Grey heron/156.mp3"
+        ]
+      ],
+      "benchmark": [
+        121.80327200000465
       ]
     }
   ],
@@ -747,61 +3627,301 @@
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/36.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/23.mp3"
         ]
       ],
       "benchmark": [
-        271.7343969999929
+        336.8711110000004
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/305.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/24.mp3"
         ]
       ],
       "benchmark": [
-        278.77737100000377
+        105.27980199999001
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/306.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/7.mp3"
         ]
       ],
       "benchmark": [
-        351.3367020000005
+        231.59280300000682
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/74.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/30.mp3"
         ]
       ],
       "benchmark": [
-        412.887109999996
+        97.26099500000419
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/392.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/250.mp3"
         ]
       ],
       "benchmark": [
-        612.7027890000027
+        58.710909000001266
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/337.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/303.mp3"
         ]
       ],
       "benchmark": [
-        328.3596140000009
+        120.25114900000335
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/325.mp3"
+        ]
+      ],
+      "benchmark": [
+        73.3711229999899
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/384.mp3"
+        ]
+      ],
+      "benchmark": [
+        496.80143999999564
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/365.mp3"
+        ]
+      ],
+      "benchmark": [
+        318.7711710000003
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/173.mp3"
+        ]
+      ],
+      "benchmark": [
+        64.54327200000989
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/96.mp3"
+        ]
+      ],
+      "benchmark": [
+        109.70729299999948
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/245.mp3"
+        ]
+      ],
+      "benchmark": [
+        101.38367400001152
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/51.mp3"
+        ]
+      ],
+      "benchmark": [
+        49.95880200000829
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/393.mp3"
+        ]
+      ],
+      "benchmark": [
+        166.14557400000922
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/131.mp3"
+        ]
+      ],
+      "benchmark": [
+        321.33313099999214
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/406.mp3"
+        ]
+      ],
+      "benchmark": [
+        91.42473499999323
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/324.mp3"
+        ]
+      ],
+      "benchmark": [
+        483.0154450000118
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/359.mp3"
+        ]
+      ],
+      "benchmark": [
+        580.9814760000008
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/203.mp3"
+        ]
+      ],
+      "benchmark": [
+        178.86701699999685
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/142.mp3"
+        ]
+      ],
+      "benchmark": [
+        150.3033640000067
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/249.mp3"
+        ]
+      ],
+      "benchmark": [
+        118.96340100000089
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/275.mp3"
+        ]
+      ],
+      "benchmark": [
+        50.183081000010134
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/419.mp3"
+        ]
+      ],
+      "benchmark": [
+        101.01740500000597
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/212.mp3"
+        ]
+      ],
+      "benchmark": [
+        203.85113699999056
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/356.mp3"
+        ]
+      ],
+      "benchmark": [
+        105.09807400000864
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/322.mp3"
+        ]
+      ],
+      "benchmark": [
+        95.79383399999642
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/52.mp3"
+        ]
+      ],
+      "benchmark": [
+        82.6450760000007
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/119.mp3"
+        ]
+      ],
+      "benchmark": [
+        49.64020399999572
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/25.mp3"
+        ]
+      ],
+      "benchmark": [
+        197.99850500001048
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Mallard/314.mp3"
+        ]
+      ],
+      "benchmark": [
+        125.76316000000224
       ]
     }
   ],
@@ -809,553 +3929,3321 @@
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/83.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/48.mp3"
         ]
       ],
       "benchmark": [
-        440.84305300000415
+        86.94452200000524
       ]
     },
     {
       "files": [
         [
-          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/44.mp3"
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/62.mp3"
         ]
       ],
       "benchmark": [
-        500.5344519999926
+        80.70303799999238
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/10.mp3"
+        ]
       ],
       "benchmark": [
-        3240.644343000007
+        82.06131100001221
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/18.mp3"
+        ]
       ],
       "benchmark": [
-        409.1144490000006
+        62.89043699999456
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/27.mp3"
+        ]
       ],
       "benchmark": [
-        133.61889299999166
+        97.81495200000063
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/17.mp3"
+        ]
       ],
       "benchmark": [
-        215.02187499999127
+        70.20310600000084
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/4.mp3"
+        ]
+      ],
+      "benchmark": [
+        229.44694500000332
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/87.mp3"
+        ]
+      ],
+      "benchmark": [
+        134.39256199999363
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/73.mp3"
+        ]
+      ],
+      "benchmark": [
+        249.96519099999568
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/85.mp3"
+        ]
+      ],
+      "benchmark": [
+        79.56090799999947
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/76.mp3"
+        ]
+      ],
+      "benchmark": [
+        90.58996100000513
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/75.mp3"
+        ]
+      ],
+      "benchmark": [
+        80.86143099999754
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/42.mp3"
+        ]
+      ],
+      "benchmark": [
+        342.53844799999206
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/35.mp3"
+        ]
+      ],
+      "benchmark": [
+        78.07200600000215
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/22.mp3"
+        ]
+      ],
+      "benchmark": [
+        88.03521400000318
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/38.mp3"
+        ]
+      ],
+      "benchmark": [
+        89.17123300000094
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/20.mp3"
+        ]
+      ],
+      "benchmark": [
+        104.2966449999949
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/59.mp3"
+        ]
+      ],
+      "benchmark": [
+        192.39103199999954
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/80.mp3"
+        ]
+      ],
+      "benchmark": [
+        309.4843519999995
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/56.mp3"
+        ]
+      ],
+      "benchmark": [
+        71.59394099999918
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/72.mp3"
+        ]
+      ],
+      "benchmark": [
+        72.39535999999498
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/46.mp3"
+        ]
+      ],
+      "benchmark": [
+        71.8457109999872
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/70.mp3"
+        ]
+      ],
+      "benchmark": [
+        159.87324099999387
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/51.mp3"
+        ]
+      ],
+      "benchmark": [
+        137.3319130000018
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/14.mp3"
+        ]
+      ],
+      "benchmark": [
+        70.05158600000141
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/79.mp3"
+        ]
+      ],
+      "benchmark": [
+        202.0862979999947
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/66.mp3"
+        ]
+      ],
+      "benchmark": [
+        153.22129400000267
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/11.mp3"
+        ]
+      ],
+      "benchmark": [
+        95.14290200000687
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/16.mp3"
+        ]
+      ],
+      "benchmark": [
+        130.15902199999255
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Red-wattled Lapwing/53.mp3"
+        ]
+      ],
+      "benchmark": [
+        80.31784299999708
       ]
     }
   ],
   "Song Thrush": [
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/172.mp3"
+        ]
       ],
       "benchmark": [
-        286.2139560000069
+        333.1721179999877
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/174.mp3"
+        ]
       ],
       "benchmark": [
-        221.35762799999793
+        166.3402849999984
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/88.mp3"
+        ]
       ],
       "benchmark": [
-        860.0924470000027
+        160.0480940000125
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/275.mp3"
+        ]
       ],
       "benchmark": [
-        593.9365779999935
+        217.99579600000288
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/58.mp3"
+        ]
       ],
       "benchmark": [
-        2088.003666999997
+        268.5823870000022
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/32.mp3"
+        ]
       ],
       "benchmark": [
-        2216.646481000018
+        89.37160399999993
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/158.mp3"
+        ]
+      ],
+      "benchmark": [
+        328.58975099999225
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/259.mp3"
+        ]
+      ],
+      "benchmark": [
+        174.21407499999623
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/128.mp3"
+        ]
+      ],
+      "benchmark": [
+        119.48453499999596
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/149.mp3"
+        ]
+      ],
+      "benchmark": [
+        148.55655799999658
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/98.mp3"
+        ]
+      ],
+      "benchmark": [
+        254.65343900000153
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/255.mp3"
+        ]
+      ],
+      "benchmark": [
+        45.69301000000269
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/271.mp3"
+        ]
+      ],
+      "benchmark": [
+        271.4165869999997
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/286.mp3"
+        ]
+      ],
+      "benchmark": [
+        158.8715080000111
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/80.mp3"
+        ]
+      ],
+      "benchmark": [
+        68.8936859999958
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/180.mp3"
+        ]
+      ],
+      "benchmark": [
+        71.96958699999959
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/177.mp3"
+        ]
+      ],
+      "benchmark": [
+        353.4134950000007
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/219.mp3"
+        ]
+      ],
+      "benchmark": [
+        351.53060100000584
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/103.mp3"
+        ]
+      ],
+      "benchmark": [
+        97.32908399999724
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/262.mp3"
+        ]
+      ],
+      "benchmark": [
+        202.4955489999993
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/144.mp3"
+        ]
+      ],
+      "benchmark": [
+        232.12775100000727
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/78.mp3"
+        ]
+      ],
+      "benchmark": [
+        422.43829099999857
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/59.mp3"
+        ]
+      ],
+      "benchmark": [
+        306.61154800000077
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/31.mp3"
+        ]
+      ],
+      "benchmark": [
+        232.04388100000506
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/101.mp3"
+        ]
+      ],
+      "benchmark": [
+        276.3373589999974
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/203.mp3"
+        ]
+      ],
+      "benchmark": [
+        167.8038979999983
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/292.mp3"
+        ]
+      ],
+      "benchmark": [
+        403.35293999999703
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/25.mp3"
+        ]
+      ],
+      "benchmark": [
+        409.0411779999995
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/81.mp3"
+        ]
+      ],
+      "benchmark": [
+        290.8692379999993
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Song Thrush/55.mp3"
+        ]
+      ],
+      "benchmark": [
+        229.0791920000047
       ]
     }
   ],
   "Western Wood-Pewee": [
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/5.mp3"
+        ]
       ],
       "benchmark": [
-        687.814812000026
+        154.19974999999977
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/51.mp3"
+        ]
       ],
       "benchmark": [
-        392.67294499999844
+        435.8874919999944
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/121.mp3"
+        ]
       ],
       "benchmark": [
-        272.95870399998967
+        452.1854519999906
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/137.mp3"
+        ]
       ],
       "benchmark": [
-        780.9735640000144
+        198.08221399999456
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/34.mp3"
+        ]
       ],
       "benchmark": [
-        152.10697100000107
+        271.0280139999959
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/27.mp3"
+        ]
       ],
       "benchmark": [
-        125.84569499999634
+        113.54782200000773
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/24.mp3"
+        ]
+      ],
+      "benchmark": [
+        150.45343900000444
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/127.mp3"
+        ]
+      ],
+      "benchmark": [
+        125.12385899999936
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/129.mp3"
+        ]
+      ],
+      "benchmark": [
+        48.19859299999371
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/0.mp3"
+        ]
+      ],
+      "benchmark": [
+        100.26161200000206
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/30.mp3"
+        ]
+      ],
+      "benchmark": [
+        101.64283900000737
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/9.mp3"
+        ]
+      ],
+      "benchmark": [
+        111.38361099999747
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/114.mp3"
+        ]
+      ],
+      "benchmark": [
+        370.4635189999972
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/110.mp3"
+        ]
+      ],
+      "benchmark": [
+        255.94683700001042
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/107.mp3"
+        ]
+      ],
+      "benchmark": [
+        284.29721200000495
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/41.mp3"
+        ]
+      ],
+      "benchmark": [
+        102.33473899999808
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/91.mp3"
+        ]
+      ],
+      "benchmark": [
+        158.84883399998944
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/69.mp3"
+        ]
+      ],
+      "benchmark": [
+        166.06437700000242
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/16.mp3"
+        ]
+      ],
+      "benchmark": [
+        345.7231330000068
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/36.mp3"
+        ]
+      ],
+      "benchmark": [
+        93.7834959999891
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/56.mp3"
+        ]
+      ],
+      "benchmark": [
+        99.85192899999674
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/65.mp3"
+        ]
+      ],
+      "benchmark": [
+        103.27147700000205
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/74.mp3"
+        ]
+      ],
+      "benchmark": [
+        213.43980799999554
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/71.mp3"
+        ]
+      ],
+      "benchmark": [
+        88.53812300000573
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/131.mp3"
+        ]
+      ],
+      "benchmark": [
+        57.55768800000078
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/104.mp3"
+        ]
+      ],
+      "benchmark": [
+        283.0614829999977
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/96.mp3"
+        ]
+      ],
+      "benchmark": [
+        200.36224499999662
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/122.mp3"
+        ]
+      ],
+      "benchmark": [
+        97.06335599999875
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/39.mp3"
+        ]
+      ],
+      "benchmark": [
+        198.5055810000049
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Western Wood-Pewee/17.mp3"
+        ]
+      ],
+      "benchmark": [
+        309.5776079999923
       ]
     }
   ],
   "Whooper Swan": [
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/18.mp3"
+        ]
       ],
       "benchmark": [
-        261.1847700000217
+        190.44668900000397
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/11.mp3"
+        ]
       ],
       "benchmark": [
-        98.50855299999239
+        170.71534500000416
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/123.mp3"
+        ]
       ],
       "benchmark": [
-        196.38139400002547
+        1047.7097979999962
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/24.mp3"
+        ]
       ],
       "benchmark": [
-        81.9939510000113
+        187.61151599998993
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/99.mp3"
+        ]
       ],
       "benchmark": [
-        1060.5406030000013
+        743.5033530000073
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/44.mp3"
+        ]
       ],
       "benchmark": [
-        172.71075000002747
+        184.3046239999967
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/178.mp3"
+        ]
+      ],
+      "benchmark": [
+        132.5022719999979
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/132.mp3"
+        ]
+      ],
+      "benchmark": [
+        251.25154300000577
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/149.mp3"
+        ]
+      ],
+      "benchmark": [
+        174.67522299999837
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/68.mp3"
+        ]
+      ],
+      "benchmark": [
+        135.48015600000508
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/9.mp3"
+        ]
+      ],
+      "benchmark": [
+        291.92538200000126
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/111.mp3"
+        ]
+      ],
+      "benchmark": [
+        299.86833299999125
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/47.mp3"
+        ]
+      ],
+      "benchmark": [
+        74.88851800000702
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/31.mp3"
+        ]
+      ],
+      "benchmark": [
+        313.8421779999917
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/53.mp3"
+        ]
+      ],
+      "benchmark": [
+        548.7644810000056
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/89.mp3"
+        ]
+      ],
+      "benchmark": [
+        341.8141400000022
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/34.mp3"
+        ]
+      ],
+      "benchmark": [
+        92.91981699998723
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/17.mp3"
+        ]
+      ],
+      "benchmark": [
+        177.40938100000494
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/73.mp3"
+        ]
+      ],
+      "benchmark": [
+        763.234203999993
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/168.mp3"
+        ]
+      ],
+      "benchmark": [
+        156.64670999998634
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/163.mp3"
+        ]
+      ],
+      "benchmark": [
+        106.98480400000699
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/145.mp3"
+        ]
+      ],
+      "benchmark": [
+        86.01486700000532
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/7.mp3"
+        ]
+      ],
+      "benchmark": [
+        520.6163099999976
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/176.mp3"
+        ]
+      ],
+      "benchmark": [
+        84.40939200000139
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/151.mp3"
+        ]
+      ],
+      "benchmark": [
+        288.1283340000082
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/110.mp3"
+        ]
+      ],
+      "benchmark": [
+        91.71459600000526
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/92.mp3"
+        ]
+      ],
+      "benchmark": [
+        161.41800700000022
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/146.mp3"
+        ]
+      ],
+      "benchmark": [
+        453.4143039999908
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/140.mp3"
+        ]
+      ],
+      "benchmark": [
+        238.7534459999879
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Whooper Swan/45.mp3"
+        ]
+      ],
+      "benchmark": [
+        186.31895799998892
       ]
     }
   ],
   "Yellowhammer": [
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/457.mp3"
+        ]
       ],
       "benchmark": [
-        222.59132199999294
+        322.9089239999885
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/46.mp3"
+        ]
       ],
       "benchmark": [
-        92.98814600001788
+        168.04613899999822
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/87.mp3"
+        ]
       ],
       "benchmark": [
-        248.5766430000076
+        139.82353700000385
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/409.mp3"
+        ]
       ],
       "benchmark": [
-        336.27167700001155
+        212.19346799999767
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/127.mp3"
+        ]
       ],
       "benchmark": [
-        223.60468700001366
+        110.50732800000696
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/469.mp3"
+        ]
       ],
       "benchmark": [
-        265.1353010000021
+        397.15906299999915
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/488.mp3"
+        ]
+      ],
+      "benchmark": [
+        297.77011800000037
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/250.mp3"
+        ]
+      ],
+      "benchmark": [
+        34.2214629999944
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/180.mp3"
+        ]
+      ],
+      "benchmark": [
+        150.97675600000366
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/447.mp3"
+        ]
+      ],
+      "benchmark": [
+        155.02546400000574
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/207.mp3"
+        ]
+      ],
+      "benchmark": [
+        45.532101999997394
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/124.mp3"
+        ]
+      ],
+      "benchmark": [
+        538.7799910000031
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/461.mp3"
+        ]
+      ],
+      "benchmark": [
+        93.50490299999365
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/139.mp3"
+        ]
+      ],
+      "benchmark": [
+        351.0043309999892
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/213.mp3"
+        ]
+      ],
+      "benchmark": [
+        97.94916699999885
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/120.mp3"
+        ]
+      ],
+      "benchmark": [
+        118.00755400001071
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/493.mp3"
+        ]
+      ],
+      "benchmark": [
+        298.1445919999969
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/397.mp3"
+        ]
+      ],
+      "benchmark": [
+        191.93058899999596
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/39.mp3"
+        ]
+      ],
+      "benchmark": [
+        159.52323000000615
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/393.mp3"
+        ]
+      ],
+      "benchmark": [
+        155.1472070000018
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/413.mp3"
+        ]
+      ],
+      "benchmark": [
+        107.41689799999585
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/321.mp3"
+        ]
+      ],
+      "benchmark": [
+        408.22726899999543
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/406.mp3"
+        ]
+      ],
+      "benchmark": [
+        400.12966200000665
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/460.mp3"
+        ]
+      ],
+      "benchmark": [
+        191.23473999999987
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/291.mp3"
+        ]
+      ],
+      "benchmark": [
+        235.69477699999698
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/316.mp3"
+        ]
+      ],
+      "benchmark": [
+        430.63951900000393
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/77.mp3"
+        ]
+      ],
+      "benchmark": [
+        101.18226700001105
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/407.mp3"
+        ]
+      ],
+      "benchmark": [
+        164.34139700001106
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/487.mp3"
+        ]
+      ],
+      "benchmark": [
+        139.78429199999664
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Yellowhammer/385.mp3"
+        ]
+      ],
+      "benchmark": [
+        259.99736599999596
       ]
     }
   ],
   "Common Kingfisher": [
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/63.mp3"
+        ]
       ],
       "benchmark": [
-        127.00902499997756
+        52.74405899998965
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/122.mp3"
+        ]
       ],
       "benchmark": [
-        56.55502199998591
+        90.27959700000065
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/19.mp3"
+        ]
       ],
       "benchmark": [
-        342.76690399998915
+        372.78154900000663
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/58.mp3"
+        ]
       ],
       "benchmark": [
-        150.29258899998968
+        78.79632700000366
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/2.mp3"
+        ]
       ],
       "benchmark": [
-        449.10023300000466
+        50.523300000000745
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/48.mp3"
+        ]
       ],
       "benchmark": [
-        89.25974899998982
+        60.97552999999607
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/151.mp3"
+        ]
+      ],
+      "benchmark": [
+        57.531346000003396
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/158.mp3"
+        ]
+      ],
+      "benchmark": [
+        77.30508099999861
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/1.mp3"
+        ]
+      ],
+      "benchmark": [
+        74.09428200000548
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/108.mp3"
+        ]
+      ],
+      "benchmark": [
+        125.4785039999988
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/114.mp3"
+        ]
+      ],
+      "benchmark": [
+        60.30045199999586
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/109.mp3"
+        ]
+      ],
+      "benchmark": [
+        107.44632399998954
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/101.mp3"
+        ]
+      ],
+      "benchmark": [
+        66.40014599999995
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/13.mp3"
+        ]
+      ],
+      "benchmark": [
+        42.73578499999712
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/3.mp3"
+        ]
+      ],
+      "benchmark": [
+        43.4740940000047
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/152.mp3"
+        ]
+      ],
+      "benchmark": [
+        40.36577999999281
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/32.mp3"
+        ]
+      ],
+      "benchmark": [
+        188.96848500000488
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/111.mp3"
+        ]
+      ],
+      "benchmark": [
+        376.48046000000613
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/159.mp3"
+        ]
+      ],
+      "benchmark": [
+        48.799308000001474
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/149.mp3"
+        ]
+      ],
+      "benchmark": [
+        77.52968999999575
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/65.mp3"
+        ]
+      ],
+      "benchmark": [
+        126.6610010000004
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/60.mp3"
+        ]
+      ],
+      "benchmark": [
+        70.54946599999676
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/127.mp3"
+        ]
+      ],
+      "benchmark": [
+        99.47753399999056
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/112.mp3"
+        ]
+      ],
+      "benchmark": [
+        185.62306800000079
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/131.mp3"
+        ]
+      ],
+      "benchmark": [
+        70.58605500000704
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/137.mp3"
+        ]
+      ],
+      "benchmark": [
+        63.84568900000886
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/146.mp3"
+        ]
+      ],
+      "benchmark": [
+        138.49122400001215
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/39.mp3"
+        ]
+      ],
+      "benchmark": [
+        839.8571159999992
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/107.mp3"
+        ]
+      ],
+      "benchmark": [
+        71.47606400000222
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Kingfisher/91.mp3"
+        ]
+      ],
+      "benchmark": [
+        71.3611540000129
       ]
     }
   ],
   "Black Woodpecker": [
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/138.mp3"
+        ]
       ],
       "benchmark": [
-        1110.2627820000052
+        99.22864800000389
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/5.mp3"
+        ]
       ],
       "benchmark": [
-        257.028427000012
+        162.4939999999915
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/22.mp3"
+        ]
       ],
       "benchmark": [
-        327.6010449999885
+        245.48212800000329
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/144.mp3"
+        ]
       ],
       "benchmark": [
-        188.80847799999174
+        228.21479800000088
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/51.mp3"
+        ]
       ],
       "benchmark": [
-        488.1384600000165
+        98.55762700000196
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/107.mp3"
+        ]
       ],
       "benchmark": [
-        530.147976999986
+        173.82687199999054
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/29.mp3"
+        ]
+      ],
+      "benchmark": [
+        170.8152529999934
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/125.mp3"
+        ]
+      ],
+      "benchmark": [
+        283.4063779999997
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/64.mp3"
+        ]
+      ],
+      "benchmark": [
+        218.57176099999924
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/1.mp3"
+        ]
+      ],
+      "benchmark": [
+        159.7269479999959
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/13.mp3"
+        ]
+      ],
+      "benchmark": [
+        72.60631099999591
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/174.mp3"
+        ]
+      ],
+      "benchmark": [
+        263.03986199999053
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/44.mp3"
+        ]
+      ],
+      "benchmark": [
+        88.3800399999891
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/27.mp3"
+        ]
+      ],
+      "benchmark": [
+        276.05594800000836
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/110.mp3"
+        ]
+      ],
+      "benchmark": [
+        135.7646689999965
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/151.mp3"
+        ]
+      ],
+      "benchmark": [
+        212.4702740000066
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/66.mp3"
+        ]
+      ],
+      "benchmark": [
+        238.8640749999904
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/0.mp3"
+        ]
+      ],
+      "benchmark": [
+        234.5873819999979
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/120.mp3"
+        ]
+      ],
+      "benchmark": [
+        321.75748299999395
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/103.mp3"
+        ]
+      ],
+      "benchmark": [
+        185.6070280000131
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/59.mp3"
+        ]
+      ],
+      "benchmark": [
+        134.5933020000084
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/88.mp3"
+        ]
+      ],
+      "benchmark": [
+        172.30928499999573
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/75.mp3"
+        ]
+      ],
+      "benchmark": [
+        183.6627460000018
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/20.mp3"
+        ]
+      ],
+      "benchmark": [
+        90.4738570000045
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/2.mp3"
+        ]
+      ],
+      "benchmark": [
+        218.70620700001018
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/68.mp3"
+        ]
+      ],
+      "benchmark": [
+        152.1794510000036
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/119.mp3"
+        ]
+      ],
+      "benchmark": [
+        221.829058000003
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/92.mp3"
+        ]
+      ],
+      "benchmark": [
+        183.39578600000823
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/153.mp3"
+        ]
+      ],
+      "benchmark": [
+        180.9492159999936
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Black Woodpecker/4.mp3"
+        ]
+      ],
+      "benchmark": [
+        87.00130800000625
       ]
     }
   ],
   "Blue Jay": [
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/10.mp3"
+        ]
       ],
       "benchmark": [
-        97.20850100001553
+        185.08573199999228
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/102.mp3"
+        ]
       ],
       "benchmark": [
-        94.45548699999927
+        190.71486800001003
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/117.mp3"
+        ]
       ],
       "benchmark": [
-        277.3936500000127
+        67.18261899999925
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/138.mp3"
+        ]
       ],
       "benchmark": [
-        117.36403500000597
+        145.84095199999865
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/120.mp3"
+        ]
       ],
       "benchmark": [
-        105.70291599998018
+        65.89325700000336
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/49.mp3"
+        ]
       ],
       "benchmark": [
-        371.28869699998177
+        71.07820400000492
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/89.mp3"
+        ]
+      ],
+      "benchmark": [
+        97.02066300000297
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/81.mp3"
+        ]
+      ],
+      "benchmark": [
+        404.6618000000017
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/143.mp3"
+        ]
+      ],
+      "benchmark": [
+        203.7817689999938
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/75.mp3"
+        ]
+      ],
+      "benchmark": [
+        73.56923999999708
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/1.mp3"
+        ]
+      ],
+      "benchmark": [
+        217.4593770000065
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/178.mp3"
+        ]
+      ],
+      "benchmark": [
+        237.7645760000014
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/37.mp3"
+        ]
+      ],
+      "benchmark": [
+        408.4582159999991
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/174.mp3"
+        ]
+      ],
+      "benchmark": [
+        63.12046499999997
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/45.mp3"
+        ]
+      ],
+      "benchmark": [
+        136.35766000000876
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/106.mp3"
+        ]
+      ],
+      "benchmark": [
+        115.8164509999915
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/56.mp3"
+        ]
+      ],
+      "benchmark": [
+        86.90313099999912
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/55.mp3"
+        ]
+      ],
+      "benchmark": [
+        226.149986000004
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/126.mp3"
+        ]
+      ],
+      "benchmark": [
+        72.09625699999742
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/122.mp3"
+        ]
+      ],
+      "benchmark": [
+        121.3361670000013
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/124.mp3"
+        ]
+      ],
+      "benchmark": [
+        171.9438159999845
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/35.mp3"
+        ]
+      ],
+      "benchmark": [
+        307.6793889999972
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/184.mp3"
+        ]
+      ],
+      "benchmark": [
+        162.35159700000077
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/13.mp3"
+        ]
+      ],
+      "benchmark": [
+        61.34477500000503
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/98.mp3"
+        ]
+      ],
+      "benchmark": [
+        159.38459400000283
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/188.mp3"
+        ]
+      ],
+      "benchmark": [
+        226.5385370000149
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/30.mp3"
+        ]
+      ],
+      "benchmark": [
+        86.77725100002135
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/8.mp3"
+        ]
+      ],
+      "benchmark": [
+        75.71944300000905
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/14.mp3"
+        ]
+      ],
+      "benchmark": [
+        371.67587500001537
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Blue Jay/62.mp3"
+        ]
+      ],
+      "benchmark": [
+        98.41704899998149
       ]
     }
   ],
   "Common blackbird": [
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/173.mp3"
+        ]
       ],
       "benchmark": [
-        226.92584599999827
+        177.51225599998725
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/187.mp3"
+        ]
       ],
       "benchmark": [
-        457.664380000002
+        146.69339800000307
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/171.mp3"
+        ]
       ],
       "benchmark": [
-        512.1069809999899
+        136.62373799999477
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/247.mp3"
+        ]
       ],
       "benchmark": [
-        2555.3532629999972
+        86.29895699999179
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/243.mp3"
+        ]
       ],
       "benchmark": [
-        747.3156170000148
+        128.6873290000076
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/7.mp3"
+        ]
       ],
       "benchmark": [
-        161.1778270000068
+        72.63128800000413
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/284.mp3"
+        ]
+      ],
+      "benchmark": [
+        69.71004299999913
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/76.mp3"
+        ]
+      ],
+      "benchmark": [
+        41.07075600000098
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/217.mp3"
+        ]
+      ],
+      "benchmark": [
+        900.7037429999909
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/21.mp3"
+        ]
+      ],
+      "benchmark": [
+        200.9929660000198
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/285.mp3"
+        ]
+      ],
+      "benchmark": [
+        149.37140000000363
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/65.mp3"
+        ]
+      ],
+      "benchmark": [
+        83.00251500000013
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/258.mp3"
+        ]
+      ],
+      "benchmark": [
+        271.0783039999951
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/274.mp3"
+        ]
+      ],
+      "benchmark": [
+        85.2711549999949
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/144.mp3"
+        ]
+      ],
+      "benchmark": [
+        109.77331499999855
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/292.mp3"
+        ]
+      ],
+      "benchmark": [
+        191.63120500001241
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/127.mp3"
+        ]
+      ],
+      "benchmark": [
+        226.417346000002
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/166.mp3"
+        ]
+      ],
+      "benchmark": [
+        80.73191100000986
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/248.mp3"
+        ]
+      ],
+      "benchmark": [
+        204.2850890000118
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/117.mp3"
+        ]
+      ],
+      "benchmark": [
+        108.4022180000029
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/205.mp3"
+        ]
+      ],
+      "benchmark": [
+        141.90153099998133
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/208.mp3"
+        ]
+      ],
+      "benchmark": [
+        311.5438649999851
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/102.mp3"
+        ]
+      ],
+      "benchmark": [
+        274.0386850000068
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/233.mp3"
+        ]
+      ],
+      "benchmark": [
+        231.5059590000019
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/97.mp3"
+        ]
+      ],
+      "benchmark": [
+        101.4100520000211
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/123.mp3"
+        ]
+      ],
+      "benchmark": [
+        132.2136799999862
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/13.mp3"
+        ]
+      ],
+      "benchmark": [
+        196.61187199997948
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/254.mp3"
+        ]
+      ],
+      "benchmark": [
+        113.81552100001136
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/260.mp3"
+        ]
+      ],
+      "benchmark": [
+        99.02035999999498
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common blackbird/74.mp3"
+        ]
+      ],
+      "benchmark": [
+        303.114453999995
       ]
     }
   ],
   "Common Chiffchaff": [
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/123.mp3"
+        ]
       ],
       "benchmark": [
-        249.6254149999877
+        300.43052100000205
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/188.mp3"
+        ]
       ],
       "benchmark": [
-        109.74020200001542
+        134.35853300002054
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/191.mp3"
+        ]
       ],
       "benchmark": [
-        167.27207899998757
+        116.78107100000489
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/288.mp3"
+        ]
       ],
       "benchmark": [
-        263.1273280000023
+        103.23034499998903
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/46.mp3"
+        ]
       ],
       "benchmark": [
-        184.43117300001904
+        185.17055300000357
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/151.mp3"
+        ]
       ],
       "benchmark": [
-        115.80988799998886
+        167.14586800002144
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/92.mp3"
+        ]
+      ],
+      "benchmark": [
+        261.62630100001115
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/253.mp3"
+        ]
+      ],
+      "benchmark": [
+        195.31937499999185
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/112.mp3"
+        ]
+      ],
+      "benchmark": [
+        105.96956399999908
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/19.mp3"
+        ]
+      ],
+      "benchmark": [
+        259.0366679999861
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/106.mp3"
+        ]
+      ],
+      "benchmark": [
+        154.12620599998627
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/266.mp3"
+        ]
+      ],
+      "benchmark": [
+        86.06952900000033
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/18.mp3"
+        ]
+      ],
+      "benchmark": [
+        97.68068300001323
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/198.mp3"
+        ]
+      ],
+      "benchmark": [
+        91.75185599998804
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/279.mp3"
+        ]
+      ],
+      "benchmark": [
+        103.1068699999887
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/262.mp3"
+        ]
+      ],
+      "benchmark": [
+        291.68095999999787
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/147.mp3"
+        ]
+      ],
+      "benchmark": [
+        142.79259199998342
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/118.mp3"
+        ]
+      ],
+      "benchmark": [
+        80.1657600000035
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/110.mp3"
+        ]
+      ],
+      "benchmark": [
+        147.95602800001507
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/258.mp3"
+        ]
+      ],
+      "benchmark": [
+        119.46033500001067
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/20.mp3"
+        ]
+      ],
+      "benchmark": [
+        193.81048499999451
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/276.mp3"
+        ]
+      ],
+      "benchmark": [
+        129.95182199997362
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/82.mp3"
+        ]
+      ],
+      "benchmark": [
+        307.8107080000045
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/81.mp3"
+        ]
+      ],
+      "benchmark": [
+        73.27949600000284
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/225.mp3"
+        ]
+      ],
+      "benchmark": [
+        209.09265499998583
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/272.mp3"
+        ]
+      ],
+      "benchmark": [
+        143.65097000001697
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/66.mp3"
+        ]
+      ],
+      "benchmark": [
+        123.23266600002535
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/135.mp3"
+        ]
+      ],
+      "benchmark": [
+        430.4449209999875
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/93.mp3"
+        ]
+      ],
+      "benchmark": [
+        169.2201360000181
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Chiffchaff/242.mp3"
+        ]
+      ],
+      "benchmark": [
+        344.8098909999826
       ]
     }
   ],
   "Common Cuckoo": [
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/443.mp3"
+        ]
       ],
       "benchmark": [
-        157.69339500000933
+        268.13761999999406
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/459.mp3"
+        ]
       ],
       "benchmark": [
-        256.9750350000104
+        210.25751799999853
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/445.mp3"
+        ]
       ],
       "benchmark": [
-        202.68565599998692
+        563.1724289999984
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/299.mp3"
+        ]
       ],
       "benchmark": [
-        264.44452200000524
+        354.4799789999961
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/134.mp3"
+        ]
       ],
       "benchmark": [
-        155.35819800000172
+        66.68284299998777
       ]
     },
     {
       "files": [
-        []
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/395.mp3"
+        ]
       ],
       "benchmark": [
-        262.0788670000038
+        60.9158560000069
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/467.mp3"
+        ]
+      ],
+      "benchmark": [
+        426.1861210000061
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/154.mp3"
+        ]
+      ],
+      "benchmark": [
+        99.07555499998853
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/428.mp3"
+        ]
+      ],
+      "benchmark": [
+        174.31342900000163
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/249.mp3"
+        ]
+      ],
+      "benchmark": [
+        115.36573900000076
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/202.mp3"
+        ]
+      ],
+      "benchmark": [
+        87.2757719999936
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/181.mp3"
+        ]
+      ],
+      "benchmark": [
+        245.67946200000006
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/472.mp3"
+        ]
+      ],
+      "benchmark": [
+        143.66835299998638
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/396.mp3"
+        ]
+      ],
+      "benchmark": [
+        112.74289299998782
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/352.mp3"
+        ]
+      ],
+      "benchmark": [
+        57.1586740000057
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/423.mp3"
+        ]
+      ],
+      "benchmark": [
+        120.58450999998604
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/377.mp3"
+        ]
+      ],
+      "benchmark": [
+        230.15390600002138
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/26.mp3"
+        ]
+      ],
+      "benchmark": [
+        91.01442799999495
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/421.mp3"
+        ]
+      ],
+      "benchmark": [
+        85.76469700000598
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/402.mp3"
+        ]
+      ],
+      "benchmark": [
+        98.55549200001406
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/270.mp3"
+        ]
+      ],
+      "benchmark": [
+        212.4897789999959
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/131.mp3"
+        ]
+      ],
+      "benchmark": [
+        162.492825000023
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/199.mp3"
+        ]
+      ],
+      "benchmark": [
+        131.2265250000055
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/449.mp3"
+        ]
+      ],
+      "benchmark": [
+        74.7546619999921
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/301.mp3"
+        ]
+      ],
+      "benchmark": [
+        108.40463100001216
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/322.mp3"
+        ]
+      ],
+      "benchmark": [
+        58.94475299998885
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/334.mp3"
+        ]
+      ],
+      "benchmark": [
+        114.17757100000745
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/62.mp3"
+        ]
+      ],
+      "benchmark": [
+        97.41718899999978
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/20.mp3"
+        ]
+      ],
+      "benchmark": [
+        159.50895000001765
+      ]
+    },
+    {
+      "files": [
+        [
+          "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25//Common Cuckoo/27.mp3"
+        ]
+      ],
+      "benchmark": [
+        290.44166199999745
       ]
     }
   ]

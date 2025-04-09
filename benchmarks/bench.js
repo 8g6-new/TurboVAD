@@ -12,6 +12,8 @@ function parseLog(log,length) {
     log = log.split('\n\n')
     let out = {};
 
+    console.log(log)
+
     let fileMatch = log[0].match(/(.+\.mp3) auto detected to be (audio\/\w+)/);
     if (fileMatch) {
         out.filePath = fileMatch[1];
@@ -91,12 +93,12 @@ function parse_perf_output(output) {
 let spcs = {
     "input": '/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25/Blue Jay/1.mp3',
     "window_size_pred": 1024,
-    "window_size_img": 512,
+    "window_size_img": 1024,
     "hop_size_pred": 128,
-    "hop_size_img": 512,
+    "hop_size_img": 128,
     "window_type": "hann",
     "window_type": "hann",
-    "seg_length": 0.5,
+    "seg_length": 0.05,
     "num_mel": 256,
     "min_mel_freq": 0,
     "max_mel_freq": 7500,
@@ -203,7 +205,7 @@ async function run_all(inp,out,spcs,num_t,cs) {
       
            let s = performance.now()
 
-            let results = await Promise.allSettled(chunk.map(async(f)=>{
+            let results = await Promise.all(chunk.map(async(f)=>{
                spcs.input = `${inp}/${bird_name}/${f}`
 
                return  await conv(spcs,spcs['seg_length'])
@@ -212,7 +214,7 @@ async function run_all(inp,out,spcs,num_t,cs) {
             let e = performance.now()
 
 
-            results = results.filter(result => result.status === 'fulfilled').map(result => result.value);  
+            // results = results.filter(result => result.status === 'fulfilled').map(result => result.value);  
               
             try{
     
@@ -255,7 +257,7 @@ async function run_all(inp,out,spcs,num_t,cs) {
     await run_all(
         "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/25/",
         "./25_out",
-        spcs,6,1)
+        spcs,30,1)
 
     // await run_all(
     //         "/home/dsb/disks/data/paper/c/c_spectrogram/tests/files/Voice of Birds/ana/det/audio/Voice of Birds/",

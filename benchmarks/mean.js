@@ -1,6 +1,6 @@
 let data = require('../25_out/benchmarks.json');
+const {colors,get_progress,s_hms} = require('../benchmarks/progress')
 
-// Extend Array prototype for statistics
 Array.prototype.mean = function () {
     return this.reduce((a, b) => a + b, 0) / this.length;
 };
@@ -16,6 +16,20 @@ Array.prototype.min = function () {
 Array.prototype.max = function () {
     return Math.max(...this);
 };
+
+function sdColor(sd, unit) {
+    return `${colors.yellow}${formatValue(sd, unit)}${colors.reset}`;
+}
+
+function formatValue(value, unit) {
+    if (unit === "%") return value.toFixed(2) + " %";
+    if (unit === "x") return value.toFixed(2) + "x";
+    if (unit === "MB/s") return value.toFixed(2) + " MB/s";
+    if (unit === "s/s") return value.toFixed(2) + " s/s";
+    if (unit === "") return value.toFixed(3);
+    return value.toFixed(3) + " " + unit;
+}
+
 const unit_map = {
     "elapsed_time": "s",
     "user_time": "s",
@@ -36,7 +50,7 @@ const unit_map = {
     "mp3_decode_speed_s/s": "s/s"
 };
 
-// List of function times that should be in microseconds
+
 const function_times = [
     ["auto_det","ms",1],
     ["file_read","ms",1],
@@ -51,24 +65,26 @@ const function_times = [
     ["total_pro","ms/sec",1e-3]
 ];
 
-// Add them dynamically to unit_map
 function_times.forEach(key => unit_map[key[0]] = key[1]);
 const bird_names = Object.keys(data);
 
-// Extract function timing keys and benchmark keys
 let fun_times = Object.keys(data[bird_names[0]][0]['function_data']['function_timings']);
 let benchmarks = Object.keys(data[bird_names[0]][0]['benchmarks']);
 
 let t = {};
 
-// Initialize empty arrays for function timings and benchmarks
+
+let duration = 0;
+
+
+
 [...fun_times, ...benchmarks].forEach(n => t[n] = []);
 
 
 t["total_pro"] = []
 bird_names.forEach(n => {
     data[n].forEach(entry => {
-        // Store function timings
+
 
         fun_times.forEach(time_key => {
             t[time_key].push(entry['function_data']['function_timings'][time_key]);
@@ -80,14 +96,15 @@ bird_names.forEach(n => {
 
             t["total_pro"].push(total_time);  
         });
+           
+        duration += entry['function_data']['file_properties']['duration']
 
         
 
-        // Store benchmark values
+
         benchmarks.forEach(bench_key => {
             let value = entry['benchmarks'][bench_key];
 
-            // Convert milliseconds to seconds where applicable
             if (bench_key.includes("task_clock")) {
                 value /= 1000;
             }
@@ -99,11 +116,19 @@ bird_names.forEach(n => {
 
 
 benchmarks.forEach(n => {
-    t[n] = cal(t[n].filter(n => n)) 
+ 
+        t[n] = cal(t[n].filter(n => n))
+   
+     
 })
-// Compute statistics for each key
+
 function_times.forEach(n => {
+    try{
     t[n[0]] = cal(t[n[0]].filter(n => n),n[2]) 
+}
+catch(e){
+    console.log(n)
+}
 });
 
 
@@ -123,29 +148,16 @@ function cal(data,exp=1) {
     };
 }
 
-// Format the output with proper units
 Object.keys(t).forEach((n, i) => {
-    const { mean, sd, min, max,sd_per } = t[n];
-    const unit = unit_map[n] || ""; // Use unit map if available, otherwise empty
-    try{
-        console.log(`${i + 1}) \x1b[36m${n}\x1b[0m`);  // Cyan for function name
-        console.log(`   \x1b[32m${formatValue(mean, unit)} ±  ${sdColor(sd, unit)} [${sdColor(sd_per,"")}%] ( min : ${formatValue(min, unit)} max : ${formatValue(max, unit)})\x1b[0m\n`);
+    const { mean, sd, min, max, sd_per } = t[n];
+    const unit = unit_map[n] || "";
+    try {
+        console.log(`${i + 1}) ${colors.cyan}${n}${colors.reset}`);  // Cyan for function name
+        console.log(`   ${colors.green}${formatValue(mean, unit)} ±  ${sdColor(sd, unit)} [${sdColor(sd_per, "")}%] ( min : ${formatValue(min, unit)} max : ${formatValue(max, unit)})${colors.reset}\n`);
     }
-    catch(e){}
-   
+    catch (e) { }
+
 });
 
-// Helper function to color standard deviation
-function sdColor(sd, unit) {
-    return `\x1b[33m${formatValue(sd, unit)}\x1b[0m`;  // Yellow for SD
-}
+console.log(`Total time : ${s_hms(duration)} (${duration} s)`);
 
-// Helper function to format numbers
-function formatValue(value, unit) {
-    if (unit === "%") return value.toFixed(2) + " %";
-    if (unit === "x") return value.toFixed(2) + "x";
-    if (unit === "MB/s") return value.toFixed(2) + " MB/s";
-    if (unit === "s/s") return value.toFixed(2) + " s/s";
-    if (unit === "") return value.toFixed(3); // No unit, just a count
-    return value.toFixed(3) + " " + unit;
-}

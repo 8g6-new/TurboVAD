@@ -1,5 +1,5 @@
 #include "../../headers/audio_tools/wav.h"
-
+#include <stdio.h>
 
 void init_wav_header(wav_header* header, int format_tag, int channels, int sample_rate, int bits_per_sample, uint32_t data_length) {
     memcpy(header->riff, "RIFF", 4);
@@ -28,6 +28,7 @@ int write_pcm_wav(const char *filename, const int16_t *pcm, uint32_t sample_coun
     FILE *fout = fopen(filename, "wb");
     if (!fout) {
         perror("Error opening file for writing");
+        printf("%s",filename);
         return -1;
     }
 
