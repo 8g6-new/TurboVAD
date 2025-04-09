@@ -39,31 +39,39 @@ These features are processed using a **self-attention mechanism**, which assigns
 > **Note:** The benchmark results presented here are from initial tests using a small sample size. Further testing and benchmarking are required to refine the performance metrics.
 
 
-### Performance Metrics
+
+### Processing Pipeline Breakdown
+
+### Performance Comparison: Segment Size Optimization
+| **Metric**               | **0.5s Segments**        | **50ms Segments** 🚀      | **Improvement**        |
+|--------------------------|--------------------------|---------------------------|------------------------|
+| **Processing Speed**     | ~1,198× real-time        | ~13,889× real-time        | **11.6× faster**       |
+| **Total Processing Time**| 0.834 ms/audio-sec       | 0.072 ms/audio-sec        | **11.6× reduction**    |
+| **Model Inference Time** | 87.686 ns/audio-sec      | 65.711 ns/audio-sec       | **25.1% faster**       |
+| **STFT**                 | 0.392 ms                 | 27 µs (0.027 ms)          | **14.5× faster**       |
+| **Normalization**        | 69.408 µs                | 8.177 µs                  | **8.5× faster**        |
+| **Feature Extraction**   | 372.793 µs               | 36.843 µs                 | **10.1× faster**       |
+| **System IPC**           | 0.229                    | 0.759                     | **3.3× better**        |
+| **Branch Miss Rate**     | 1.49%                    | 1.99%                     | 33.6% increase 📉      |
+| **Parallel Speedup**     | 7.96×                    | 3.31×                     | 58.4% reduction 📉     |
+| **CPUs Utilized**        | 8.31                     | 4.30                      | 48.3% reduction 📉     |
+
+**Key Observations**:
+- 🚀 **14.5× faster STFT** from improved cache locality
+- 📉 **Parallel efficiency tradeoff** due to increased I/O-bound workload
+- ⚡ **3.3× better IPC** shows improved instruction throughput
+- 🔄 **Branch prediction** slightly impacted by finer segmentation
+
+> **Note:** The reduced parallel speedup and CPU utilization reflect increased I/O dominance at smaller segment sizes - a common tradeoff in real-time systems.
+
+### Current Performance Metrics (50ms Segments)
 | Metric | Value |
 |--------|-------|
 | Accuracy | 79% |
 | Model Size | < 1KB |
-| Optimal Threshold | 0.5002 |
-| Processing Speed | ~1198x faster than real-time |
-| Total Processing Time | 0.834 ms per second of audio |
-| Model Inference Time | 87.686 ns per second of audio |
-
-### Processing Pipeline Breakdown
-| Component | Mean Time | Description |
-|-----------|-----------|-------------|
-| STFT | 0.392 ms | Short-Time Fourier Transform (spectral analysis) |
-| Normalization | 69.408 µs | Data normalization |
-| Feature Extraction | 372.793 µs | Feature extraction from spectral data |
-| Inference | 87.686 ns | Model prediction time |
-
-### System-Level Performance
-| Metric | Value | Description |
-|--------|-------|-------------|
-| IPC | 0.229 | Instructions per cycle |
-| Branch Miss | 1.49% | Percentage of branch mispredictions |
-| Parallel Speedup | 7.96x | Speedup from parallel execution |
-| CPUs Utilized | 8.31 | Average number of CPUs used |
+| Optimal Threshold | 0.5002 | 
+| Processing Speed | ~13,889× real-time |
+| Total Processing Time | 0.072 ms/audio-sec |
 
 The benchmarks were generated using random sampling across diverse bird species, with results averaged over multiple samples to ensure representative performance metrics. All timings are normalized per second of audio for consistent comparison.
 
