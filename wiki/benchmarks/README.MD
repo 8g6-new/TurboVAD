@@ -73,7 +73,7 @@ The overall pipeline processes one second of audio in approximately 0.834 ms. To
 
 - **Real-time processing:** 1 second of audio equals 1000 ms  
 - **Pipeline processing time:** 0.834 ms per second of audio  
-- **ReSpeedup Factor:**1000/0.834  \approx 1198 times faster than real time
+- **ReSpeedup Factor:** 1000/0.834  ≈ 1198 times faster than real time
 
 Speedup confirms that the pipeline is exceptionally efficient for real-time audio processing.
 
