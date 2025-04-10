@@ -106,7 +106,7 @@ graph TD
         M --> O[Generate STFT PNG]
         M --> P[Create Mel Spectrogram]
     end
-
+```
 
 ## Pipeline Stages
 
