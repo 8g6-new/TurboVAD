@@ -32,25 +32,27 @@ These features are processed using a **self-attention mechanism**, which assigns
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '12px'}}}%%
 graph TD
-    A[Input Features (μ1-4, σ1-4)] --> B[Mu Branch]
+    A["Input Features<br/>μ1-4, σ1-4"] --> B[Mu Branch]
     A --> C[Sigma Branch]
-    B --> D[Dot Product (W_mu[4x4])]
-    C --> E[Dot Product (W_sigma[4x4])]
+    B --> D["Dot Product<br/>W_mu[4×4]"]
+    C --> E["Dot Product<br/>W_sigma[4×4]"]
     D --> F[Softmax]
     E --> G[Softmax]
-    F --> H[Linear Combination (Classifier_mu[4])]
-    G --> I[Linear Combination (Classifier_sigma[4])]
+    F --> H["Linear Comb.<br/>Classifier_mu[4]"]
+    G --> I["Linear Comb.<br/>Classifier_sigma[4]"]
     H --> J[Mu Score]
     I --> K[Sigma Score]
-    J --> L[Weighted Sum (factors=[-11.0, 6.18])]
+    J --> L["Weighted Sum<br/>factors=[-11.0, 6.18]"]
     K --> L
-    L --> M[Sigmoid (threshold=0.5002)]
-    M --> N{Prediction (0/1)}
+    L --> M["Sigmoid<br/>threshold=0.5002"]
+    M --> N{Prediction<br/>0/1}
+
     classDef feature fill:#f8bbd0,stroke:#c2185b;
     classDef weights fill:#e1bee7,stroke:#8e24aa;
     classDef math fill:#c5cae9,stroke:#3949ab;
     classDef output fill:#b2dfdb,stroke:#00796b;
     classDef decision fill:#ffcc80,stroke:#f57c00;
+    
     class A feature;
     class D,E weights;
     class F,G,H,I math;
