@@ -55,6 +55,7 @@ graph TD
     class F,G,H,I math;
     class J,K,L,M output;
     class N decision;
+```
 
 ## Attention Mechanism Specification
 
