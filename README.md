@@ -134,16 +134,13 @@ graph TD
     * Detection: Optimal for model (default 2048 samples)
     * Imaging: Visual quality (default 4096 samples)
 * **Feature Extraction:** Computes 8 features (4μ + 4σ) per 50ms segment
-    ```c
-    #pragma omp parallel for
-    ```
 
 **Output Generation:**
 
 * **Conditional Saving:**
     ```c
     if(pred.val > 0.5002) {
-        save_wav_segment(...);
+        sliced_write_wave(...);
         save_spectrogram(...);
     }
     ```
