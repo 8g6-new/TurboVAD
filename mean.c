@@ -221,20 +221,20 @@ int main(int argc, char *argv[]) {
         fft_d fft_plan = window_size_det != window_size_img ? fft_plan_2 : fft_plan_1;
         
       
-        // for (size_t i = 0; i < c; i++) {
-        //     struct timeval start;
-        //     gettimeofday(&start, NULL);
-        //     audio_data out    = sliced_write_wave(&audio, detected[i].wav_name, detected[i].t, seg_len);
-        //     stft_d slice      = stft(&out, window_size_img, hop_size_img, window_values_2,&fft_plan);
-        //     slice.sample_rate = stft_for_pred.sample_rate;
-        //     spectrogram(&slice, detected[i].stft_name, mel_min, mel_max, bg_clr,true, cs_stft);
-        //     //float *mel_vals   = mel_spectrogram(&slice, detected[i].mel_name, num_mel, mel_filter_bank, bg_clr, true, cs_mel);
-        //     show_progress(i, c, start);
+        for (size_t i = 0; i < c; i++) {
+            struct timeval start;
+            gettimeofday(&start, NULL);
+            audio_data out    = sliced_write_wave(&audio, detected[i].wav_name, detected[i].t, seg_len);
+            stft_d slice      = stft(&out, window_size_img, hop_size_img, window_values_2,&fft_plan);
+            slice.sample_rate = stft_for_pred.sample_rate;
+            spectrogram(&slice, detected[i].stft_name, mel_min, mel_max, bg_clr,true, cs_stft);
+            //float *mel_vals   = mel_spectrogram(&slice, detected[i].mel_name, num_mel, mel_filter_bank, bg_clr, true, cs_mel);
+            show_progress(i, c, start);
             
-        //     free_stft(&slice);
-        //     //free(mel_vals);
-        //     free_audio(&out);
-        // }
+            free_stft(&slice);
+            //free(mel_vals);
+            free_audio(&out);
+        }
         END_TIMING("IO_Loop");
         
         printf("\nsegments:%zu\n",param.output_size);

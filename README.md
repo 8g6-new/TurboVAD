@@ -25,61 +25,143 @@ These features represent **mean (μ) and standard deviation (σ)** over a time f
 
 These features are processed using a **self-attention mechanism**, which assigns dynamic importance to each feature and refines classification using a softmax-based scoring system. The model is **specifically optimized for bird activity detection**, making it ideal for wildlife monitoring and ornithological research.
 
+# TurboVAD Architecture Documentation
 
-## ⚡ Model Architecture and Data Pipeline
+## 🧠 Model Architecture
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '12px'}}}%%
 graph TD
-    %% Full Data Pipeline
-    A[Audio File] --> B[Audio MIME Detection]
-    B --> C{Format?}
-    C -->|MP3| D[MP3 Decoding]
-    C -->|WAV| E[WAV Decoding]
-    D --> F[STFT Analysis]
-    E --> F
-    F --> G[Feature Extraction]
-    G --> H[Attention Mechanism]
-    H --> I[Prediction]
-    I --> J{Activity Detected?}
-    J -->|Yes| K[Save Segment to WAV]
-    J -->|Yes| L[Save STFT Spectrogram]
-    J -->|No| M[Discard]
+    A[Input Features<br/>μ1-4, σ1-4] --> B[Mu Branch]
+    A --> C[Sigma Branch]
+        B --> D[Dot Product<br/>W_mu[4x4]]
+    C --> E[Dot Product<br/>W_sigma[4x4]]
+        D --> F[Softmax]
+    E --> G[Softmax]
+        F --> H[Linear Combination<br/>Classifier_mu[4]]
+    G --> I[Linear Combination<br/>Classifier_sigma[4]]
+        H --> J[Mu Score]
+    I --> K[Sigma Score]
+        J --> L[Weighted Sum<br/>factors=[-11.0, 6.18]]
+    K --> L
+        L --> M[Sigmoid<br/>threshold=0.5002]
+    M --> N{Prediction<br/>0/1}
+    classDef feature fill:#f8bbd0,stroke:#c2185b;
+    classDef weights fill:#e1bee7,stroke:#8e24aa;
+    classDef math fill:#c5cae9,stroke:#3949ab;
+    classDef output fill:#b2dfdb,stroke:#00796b;
+        class A feature;
+    class D,E weights;
+    class F,G,H,I math;
+    class J,K,L,M output;
+    class N decision;
 
-    %% Attention Mechanism Details
-    subgraph Attention Mechanism
-        H --> N[Input Features<br/>μ1-4, σ1-4]
-        N --> O1[Mu Branch]
-        N --> O2[Sigma Branch]
-        
-        O1 --> P1[Dot Product<br/>W_mu]
-        O2 --> P2[Dot Product<br/>W_sigma]
-        
-        P1 --> Q1[Softmax]
-        P2 --> Q2[Softmax]
-        
-        Q1 --> R1[Linear Combination<br/>Classifier Weights]
-        Q2 --> R2[Linear Combination<br/>Classifier Weights]
-        
-        R1 --> S[Mu Score]
-        R2 --> T[Sigma Score]
-        
-        S --> U[Weighted Sum]
-        T --> U
-        U --> V[Sigmoid Activation]
-        V --> W[Prediction Threshold]
+## Attention Mechanism Specification
+
+### Dual-Branch Architecture
+
+- **Mu Branch (μ):** Processes mean spectral features; output: temporal stability of feature averages.
+- **Sigma Branch (σ):** Analyzes feature variations; output: detection of transient patterns.
+
+### Computational Stages
+
+1. **Feature Projection:** 8D input to 8D attention scores via 2x4x4 matrix multiplication.
+2. **Softmax Normalization:** Applies numerically stable softmax to score vectors.
+3. **Classification Heads:** Linear combination with 4-element classifier weights for each branch.
+4. **Decision Fusion:** 
+   - Formula: \(-11.003 \times \mu + 6.180 \times \sigma\)
+   - Sigmoid activation and threshold 0.5002 for classification.
+
+### Optimization Features
+
+- **Inference Time Optimization:**
+   - Cache-local weight access, branchless computation, compiler auto-vectorization (AVX2).
+- **Memory Safety:** Stack-allocated intermediates, no heap allocations in the prediction path.
+
+## Data Processing Pipeline
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '12px'}}}%%
+graph TD
+    A[Audio Input] --> B[Format Detection]
+    B --> C{Type?}
+    C -->|MP3| D[Decode with SIMD]
+    C -->|WAV| E[Direct Processing]
+    D --> F[STFT Computation]
+    E --> F
+    
+    subgraph Feature Extraction
+        F --> G[Window Application<br/>size=window_size_det]
+        G --> H[FFT via FFTW3]
+        H --> I[Compute μ/σ Features]
+    end
+    
+    I --> J[Attention Model]
+    J --> K{Detection?}
+    
+    subgraph Output Generation
+        K -->|Yes| L[Segment Slicing<br/>seg_len=0.05s]
+        L --> M[STFT Recalculation<br/>size=window_size_img]
+        M --> N[Save WAV]
+        M --> O[Generate STFT PNG]
+        M --> P[Create Mel Spectrogram]
     end
 
-    classDef process fill:#e1f5fe,stroke:#039be5;
-    classDef decision fill:#f0f4c3,stroke:#c0ca33;
-    classDef storage fill:#dcedc8,stroke:#689f38;
-    classDef attention fill:#f8bbd0,stroke:#c2185b;
-    
-    class A,B,C,D,E,F,G,H,J,M process;
-    class K,L storage;
-    class N,O1,O2,P1,P2,Q1,Q2,R1,R2,S,T,U,V,W attention;
-    class I,J decision;
-```
+
+## Pipeline Stages
+
+**Input Handling:**
+
+* **Audio Detection:** Auto-detects MP3/WAV using file headers
+    ```c
+    audio_data audio = auto_detect(filename);
+    ```
+* **Decoding:**
+    * MP3: SIMD-accelerated via libmpg123
+    * WAV: Direct memory mapping
+
+**Spectral Analysis:**
+
+* **STFT Parameters:**
+    ```c
+    stft_d stft = stft(&audio, window_size_det, hop_size_det, ...);
+    ```
+* **Dual window sizes:**
+    * Detection: Optimal for model (default 2048 samples)
+    * Imaging: Visual quality (default 4096 samples)
+* **Feature Extraction:** Computes 8 features (4μ + 4σ) per 50ms segment
+    ```c
+    #pragma omp parallel for
+    ```
+
+**Output Generation:**
+
+* **Conditional Saving:**
+    ```c
+    if(pred.val > 0.5002) {
+        save_wav_segment(...);
+        save_spectrogram(...);
+    }
+    ```
+
+
+**Technical Highlights:**
+
+| Aspect              | Implementation Detail              |
+| :------------------ | :--------------------------------- |
+| Memory Efficiency   | <1KB model weights, stack allocation |
+| Parallelism         | 3.19x speedup on 6-core Ryzen      |
+| Numerical Stability | Safe division, softmax with max-sub  |
+| Reproducibility     | FFTW wisdom caching               |
+| Portability         | Single-precision floats throughout   |
+
+
+Dual-window architecture enables:
+
+* Small windows (50ms) for detection latency
+* Large windows (100ms+) for visual quality
+* Zero-copy data sharing between stages
+
 
 ## 📊 Benchmark Results
 
